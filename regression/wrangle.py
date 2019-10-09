@@ -25,4 +25,5 @@ def wrangle_telco():
     two_year['total_charges'] = two_year['total_charges'].astype(float)
     return two_year
 
-wrangle_telco()
+if __name__ == '__main__':
+    wrangle_telco()
