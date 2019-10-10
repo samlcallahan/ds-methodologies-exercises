@@ -14,10 +14,9 @@ telco_y = pd.DataFrame(telco.loc[:, 'total_charges']).set_index([telco.customer_
 
 seed = 43
 
-def split_my_data(x, y, train_pct, random_seed):
-    x_train, x_test = train_test_split(x, train_size = train_pct, random_state = random_seed)
-    y_train, y_test = train_test_split(y, train_size = train_pct, random_state = random_seed)
-    return x_train, x_test, y_train, y_test
+def split_my_data(df, train_pct, random_seed):
+    train, test = train_test_split(df, train_size = train_pct, random_state = random_seed)
+    return train, test
 
 def standard_scaler(train, test):
     scaler = StandardScaler(copy=True, with_mean=True, with_std=True).fit(train)
