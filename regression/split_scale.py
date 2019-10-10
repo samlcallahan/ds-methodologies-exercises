@@ -9,8 +9,8 @@ from wrangle import wrangle_telco
 
 telco = wrangle_telco()
 
-telco_x = telco.loc[:, ['monthly_charges','tenure']]
-telco_y = pd.DataFrame(telco.loc[:, 'total_charges'])
+telco_x = telco.loc[:, ['monthly_charges','tenure']].set_index([telco.customer_id])
+telco_y = pd.DataFrame(telco.loc[:, 'total_charges']).set_index([telco.customer_id])
 
 seed = 43
 
