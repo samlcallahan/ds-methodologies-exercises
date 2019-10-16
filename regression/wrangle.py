@@ -23,6 +23,7 @@ def wrangle_telco():
     cant_cast_mask = two_year['total_charges'].apply(cant_float)
     two_year['total_charges'][cant_cast_mask] = np.nan
     two_year['total_charges'] = two_year['total_charges'].astype(float)
+    two_year.dropna(inplace=True)
     return two_year
 
 if __name__ == '__main__':
