@@ -7,13 +7,13 @@ def get_db_url(username, hostname, password, db_name):
 
 def get_titanic_data():
     db_name = 'titanic_db'
-    query = 'select * from passengers'
+    query = 'select * from passengers;'
     url = get_db_url(user, host, password, db_name)
     return pd.read_sql(query, url)
 
 def get_iris_data():
     query = ''' select * from measurements
-                left join using(species_id)
+                left join using(species_id);
                 '''
     db_name = 'iris_db'
     url = get_db_url(user, host, password, db_name)
