@@ -1,9 +1,11 @@
 import env
 import pandas as pd
 import numpy as np 
+from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import acquire
-import split_scale as ss
+
+seed = 43
 
 def prep_iris(iris):
     iris.drop(columns=['species_id', 'measurement_id'], inplace=True)
@@ -20,7 +22,7 @@ def prep_titanic(titanic):
     encoder = LabelEncoder()
     encoder.fit(titanic.embarked)
     titanic.embarked = encoder.transform(titanic.embarked)
-    titanic_train, titanic_test = ss.split_my_data(titanic)
+    titanic_train, titanic_test = train_test_split(titanic, random_state=seed)
     scaler = MinMaxScaler()
     titanic_train[['fare', 'age']] = scaler.fit_transform(titanic_train[['fare', 'age']])
     return titanic_train, titanic_test, scaler
