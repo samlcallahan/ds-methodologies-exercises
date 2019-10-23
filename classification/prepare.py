@@ -4,6 +4,8 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import acquire
+import warnings
+warnings.filterwarnings("ignore")
 
 seed = 43
 
@@ -13,7 +15,7 @@ def prep_iris(iris):
     encoder = LabelEncoder()
     encoder.fit(iris.species)
     iris.species = encoder.transform(iris.species)
-    return iris
+    return iris, encoder
 
 def prep_titanic(titanic):
     titanic.embark_town.fillna('Other', inplace=True)
@@ -22,7 +24,7 @@ def prep_titanic(titanic):
     encoder = LabelEncoder()
     encoder.fit(titanic.embarked)
     titanic.embarked = encoder.transform(titanic.embarked)
-    titanic_train, titanic_test = train_test_split(titanic, random_state=seed)
+    titanic_train, titanic_test = train_test_split(titanic, random_state=seed, stratify=titanic[['survived']])
     scaler = MinMaxScaler()
     titanic_train[['fare', 'age']] = scaler.fit_transform(titanic_train[['fare', 'age']])
     return titanic_train, titanic_test, scaler
