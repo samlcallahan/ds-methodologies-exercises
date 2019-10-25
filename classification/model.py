@@ -4,6 +4,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.tree import export_graphviz
 import matplotlib.pyplot as plt
@@ -109,3 +111,42 @@ ccm = confusion_matrix(y_train, clf_pred)
 print(classification_report(y_train, clf_pred))
 
 # print_eval_model(ccm)
+
+rf = RandomForestClassifier(bootstrap=True, 
+                            class_weight=None, 
+                            criterion='gini',
+                            min_samples_leaf=1,
+                            n_estimators=1000,
+                            max_depth=20, 
+                            random_state=seed)
+
+rf.fit(X_train, y_train)
+rf_pred = rf.predict(X_train)
+rf_score = rf.score(X_train, y_train)
+rfcm = confusion_matrix(y_train, rf_pred)
+print(classification_report(y_train, rf_pred))
+
+reason = RandomForestClassifier(bootstrap=True, 
+                            class_weight=None, 
+                            criterion='gini',
+                            min_samples_leaf=5,
+                            n_estimators=1000,
+                            max_depth=3, 
+                            random_state=seed)
+
+reason.fit(X_train, y_train)
+reason_pred = reason.predict(X_train)
+reason_score = reason.score(X_train, y_train)
+rfcm = confusion_matrix(y_train, reason_pred)
+print(classification_report(y_train, reason_pred))
+
+# First was more accurate due to overfitting
+
+knn = KNeighborsClassifier(n_neighbors=20, weights='uniform')
+knn.fit(X_train, y_train)
+knn_pred = knn.predict(X_train)
+knn_score = knn.score(X_train, y_train)
+knncm = confusion_matrix(y_train, knn_pred)
+print(classification_report(y_train, knn_pred))
+
+#I'd say 5 neighbors did the best by a little, but 10 was comparable.
