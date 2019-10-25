@@ -28,10 +28,12 @@ y_pred = logit.predict(X_train)
 score = logit.score(X_train, y_train)
 cm = confusion_matrix(y_train, y_pred)
 cr = classification_report(y_train, y_pred)
+print(cr)
 
 def f1(recall, precision):
     return 2 / ((recall ** -1) + (precision ** -1))
 
+#STUPID UNNCECESSARY FUNCTION FROM WHEN I MISUNDERSTOOD SOME QUESTIONS
 def print_eval_model(cm):
     tp_1 = cm[0][0]
     tn_1 = cm[1:, 1:].sum()
@@ -88,7 +90,7 @@ def print_eval_model(cm):
         print(f"{i}: {to_print[i]:.2f}")
     return to_print
 
-print_eval_model(cm)
+# print_eval_model(cm)
 
 tree = DecisionTreeClassifier(criterion='entropy', max_depth=3, random_state=seed)
 tree.fit(X_train, y_train)
@@ -97,7 +99,7 @@ tree_score = tree.score(X_train, y_train)
 tcm = confusion_matrix(y_train, tree_pred)
 print(classification_report(y_train, tree_pred))
 
-print_eval_model(tcm)
+# print_eval_model(tcm)
 
 clf = DecisionTreeClassifier(criterion='gini', max_depth=3, random_state=seed)
 clf.fit(X_train, y_train)
@@ -106,4 +108,4 @@ clf_score = clf.score(X_train, y_train)
 ccm = confusion_matrix(y_train, clf_pred)
 print(classification_report(y_train, clf_pred))
 
-print_eval_model(ccm)
+# print_eval_model(ccm)
