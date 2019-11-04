@@ -63,7 +63,7 @@ mallmeans.fit(X)
 centers = pd.DataFrame(mallmeans.cluster_centers_, columns=X.columns)
 
 mall['cluster'] = mallmeans.labels_
-mall.groupby('cluster').age.mean() 
+mall.groupby('cluster').age.mean()
 
 fig = plt.figure(figsize=(12, 9))
 ax = Axes3D(fig)
