@@ -70,3 +70,29 @@ ax = Axes3D(fig)
 
 ax.scatter(mall.spending_score, mall.annual_income, mall.age, c=mallmeans.labels_)
 ax.set(xlabel='spending_score', ylabel='annual_income', zlabel='age')
+plt.show()
+
+tips = data('tips')
+tips.tip = tips.tip.astype('float')
+X = tips[['tip', 'total_bill']]
+
+tipmeans = KMeans(n_clusters=3)
+tipmeans.fit(X)
+
+centers = pd.DataFrame(tipmeans.cluster_centers_, columns=X.columns)
+
+tips['cluster'] = tipmeans.labels_
+tips.groupby('cluster')['size'].mean()
+
+tips['smoker'] = tips.smoker.map({'Yes': 1, 'No': 0})
+tips.groupby('cluster').smoker.mean()
+
+tips['rate'] = tips.tip / tips.total_bill
+tips.groupby('cluster').rate.mean()
+
+fig = plt.figure(figsize=(12, 9))
+ax = Axes3D(fig)
+
+ax.scatter(tips.tip, tips.total_bill, tips['size'], c=tipmeans.labels_)
+ax.set(xlabel='tip', ylabel='total_bill', zlabel='size')
+plt.show()
