@@ -16,7 +16,9 @@ def get_zillow():
 			group By parcelid )as sq1
 		on (sq1.parcelid=p_17.parcelid and sq1.tdate = p_17.transactiondate )
 		join properties_2017 p on p_17.parcelid=p.parcelid
-		where (p.latitude is not null and p.longitude is not null);
+		where (p.latitude is not null and p.longitude is not null)
+		and p.propertylandusetypeid = 261
+		and (p.unitcnt = 1 or p.unitcnt is null);
 		'''
 
 	url = get_db_url(user, host, password, 'zillow')
