@@ -47,6 +47,7 @@ def datasets_to_csvs(datasets):
 def combine_heb(datasets):
     heb = pd.merge(left=datasets['sales'], right=datasets['items'], how='left', left_on='item', right_on='item_id', left_index=True)
     heb = pd.merge(left=heb, right=datasets['stores'], how='left', left_on='store', right_on='store_id')
+    heb = heb.drop(columns=['store_id', 'item'])
     return heb
 
 def get_heb(fresh=False):
