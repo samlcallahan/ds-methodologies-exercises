@@ -40,3 +40,19 @@ seattle.groupby(seattle.index.month).precipitation.sum().idxmax()
 
 seattle['rained'] = seattle.precipitation > 0
 seattle.groupby(seattle.index.month).rained.sum().idxmax()
+
+flights = data.flights_20k().set_index('date').sort_index()
+
+flights['delay'] = flights.delay.apply(lambda x: 0 if x < 0 else x)
+
+flights.groupby(flights.index.hour).delay.mean().idxmax()
+
+flights.groupby(flights.index.weekday_name).delay.mean() # Yes, Friday > Thursday > Wednesday > Sunday > Tuesday > Saturday > Monday
+
+flights.groupby(flights.index.month).delay.mean() # Kind of but not really. I'd say it doesn't because the difference in mean times is a minute or so
+
+iowa = data.iowa_electricity().set_index('year').sort_index()
+
+totals = iowa.resample('Y').sum()
+
+sf['desc'] = pd.qcut(x=sf.temp, q=4, labels=['cold', 'cool', 'warm', 'hot'])
