@@ -7,11 +7,16 @@ api = '/api/v1'
 items = '/items'
 stores = '/stores'
 sales = '/sales'
+pages = [items, stores, sales]
 
-def get_page_data(url, page):
-    api = requests.get(url).json()['api']
+def get_page_data(page, fresh=False):
+    if not fresh:
+        if os.path.isfile(f'{page[1:]}.csv'):
+            return pd.read_csv(f'{page[1:]}.csv')
+    api = requests.get(base_url).json()['api']
+    url = base_url + api
     print(f'Fetching data for {page}')
-    data = requests.get(url + api + page).json()['payload'][page[1:]]
+    data = requests.get(url + page).json()['payload'][page[1:]]
     next_page = requests.get(url + api + page).json()['payload']['next_page']
     page_num = 2
     while next_page is not None:
@@ -24,44 +29,32 @@ def get_page_data(url, page):
         page_num += 1
     df = pd.DataFrame(data)
     df.name = page[1:]
+    df.to_csv(f'{df.name}.csv')
     return df
 
-def get_all_data(url, pages):
-    datasets = []
+def get_all_data(pages, fresh=False):
+    datasets = {}
     for page in pages:
-        data = get_page_data(url, page)
-        datasets.append(data)
+        data = get_page_data(page, fresh)
+        datasets[page[1:]] = data
     return datasets
 
 def datasets_to_csvs(datasets):
     for data in datasets:
         if type(data) != type(pd.DataFrame()):
             data = pd.DataFrame(data)
-        data.to_csv(f'{data.name}.csv')
 
 def combine_heb(datasets):
-    heb = pd.merge(left=datasets[2], right=datasets[0], how='left', left_on='item', right_on='item_id', left_index=True)
-    heb = pd.merge(left=heb, right=datasets[1], how='left', left_on='store', right_on='store_id')
+    heb = pd.merge(left=datasets['sales'], right=datasets['items'], how='left', left_on='item', right_on='item_id', left_index=True)
+    heb = pd.merge(left=heb, right=datasets['stores'], how='left', left_on='store', right_on='store_id')
     return heb
 
 def get_heb(fresh=False):
-    url = 'https://python.zach.lol'
-    pages = ['/items', '/stores', '/sales']
     if fresh:
-        data = get_all_data(url, pages)
-        datasets_to_csvs(data)
+        data = get_all_data(pages, fresh=True)
         return combine_heb(data)
     else:
-        data = []
-        for page in pages:
-            if os.path.isfile(f'{page[1:]}.csv'):
-                df = pd.read_csv(f'{page[1:]}.csv')
-                df.name = page[1:]
-                data.append(df)
-            else:
-                df = get_page_data(url, page)
-                datasets_to_csvs([df])
-                data.append(df)
+        data = get_all_data(pages)
         return combine_heb(data)
 
 
