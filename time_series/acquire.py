@@ -13,15 +13,15 @@ def get_page_data(page, fresh=False):
     if not fresh:
         if os.path.isfile(f'{page[1:]}.csv'):
             return pd.read_csv(f'{page[1:]}.csv')
-    api = requests.get(base_url).json()['api']
     url = base_url + api
+    page_url = url + page
     print(f'Fetching data for {page}')
-    data = requests.get(url + page).json()['payload'][page[1:]]
-    next_page = requests.get(url + api + page).json()['payload']['next_page']
+    data = requests.get(page_url).json()['payload'][page[1:]]
+    next_page = requests.get(page_url).json()['payload']['next_page']
     page_num = 2
     while next_page is not None:
         print(f'On to page {page_num}')
-        next_url = url + next_page
+        next_url = base_url + next_page
         to_append = requests.get(next_url).json()['payload'][page[1:]]
         for datum in to_append:
             data.append(datum)
@@ -29,7 +29,7 @@ def get_page_data(page, fresh=False):
         page_num += 1
     df = pd.DataFrame(data)
     df.name = page[1:]
-    df.to_csv(f'{df.name}.csv')
+    df.to_csv(f'{df.name}.csv', index=True)
     return df
 
 def get_all_data(pages, fresh=False):
@@ -38,11 +38,6 @@ def get_all_data(pages, fresh=False):
         data = get_page_data(page, fresh)
         datasets[page[1:]] = data
     return datasets
-
-def datasets_to_csvs(datasets):
-    for data in datasets:
-        if type(data) != type(pd.DataFrame()):
-            data = pd.DataFrame(data)
 
 def combine_heb(datasets):
     heb = pd.merge(left=datasets['sales'], right=datasets['items'], how='left', left_on='item', right_on='item_id', left_index=True)
