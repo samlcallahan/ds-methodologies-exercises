@@ -10,10 +10,14 @@ def prep_heb(heb):
     heb['weekday'] = heb.index.strftime('%w-%a')
     heb.sale_amount = heb.sale_amount.astype('int')
     heb['sales_total'] = heb.sale_amount * heb.item_price
+    return heb
+
+def get_sales_by_day(heb):
     sales_by_day = heb.resample('D')[['sales_total']].sum()
     sales_by_day['diff_last'] = sales_by_day.sales_total.diff()
-    return heb, sales_by_day
+    return sales_by_day
 
 if __name__ == '__main__':
     heb = acquire.get_heb()
-    heb, sales_by_day = prep_heb(heb)
+    heb  = prep_heb(heb)
+    sales_by_day = get_sales_by_day(heb)
