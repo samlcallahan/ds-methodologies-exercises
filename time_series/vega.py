@@ -52,10 +52,8 @@ flights.groupby(flights.index.weekday_name).delay.mean() # Yes, Friday > Thursda
 flights.groupby(flights.index.month).delay.mean() # Kind of but not really. I'd say it doesn't because the difference in mean times is a minute or so
 
 iowa = data.iowa_electricity().set_index('year').sort_index()
-
-totals = iowa.resample('Y').sum()
 pivot = iowa.pivot(columns='source', values='net_generation')
-pivot.totals = totals.values
+pivot['totals'] = pivot.sum(axis=1)
 pivot['fossil_pct'] = pivot['Fossil Fuels'] / pivot.totals
 pivot['renew_pct'] = pivot['Renewables'] / pivot.totals
 pivot['nuclear_pct'] = pivot['Nuclear Energy'] / pivot.totals
