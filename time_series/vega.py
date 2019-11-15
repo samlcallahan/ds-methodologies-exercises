@@ -54,5 +54,20 @@ flights.groupby(flights.index.month).delay.mean() # Kind of but not really. I'd 
 iowa = data.iowa_electricity().set_index('year').sort_index()
 
 totals = iowa.resample('Y').sum()
+pivot = iowa.pivot(columns='source', values='net_generation')
+pivot.totals = totals.values
+pivot['fossil_pct'] = pivot['Fossil Fuels'] / pivot.totals
+pivot['renew_pct'] = pivot['Renewables'] / pivot.totals
+pivot['nuclear_pct'] = pivot['Nuclear Energy'] / pivot.totals
+
+pivot.drop(columns=['totals', 'fossil_pct', 'renew_pct', 'nuclear_pct']).plot()
+
+pivot.T
+
+pivot[['totals']].plot() # Totals are increasing over time
 
 sf['desc'] = pd.qcut(x=sf.temp, q=4, labels=['cold', 'cool', 'warm', 'hot'])
+
+cats = pd.get_dummies(sf.desc)
+cats = cats.resample('m').sum()
+cats.plot()
