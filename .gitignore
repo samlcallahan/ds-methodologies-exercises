@@ -5,3 +5,4 @@ __pycache__
 .vscode/
 mock_assessment.*
 checkbook_log.txt
+other_info.txt
