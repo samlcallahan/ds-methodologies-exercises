@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-garrett = 'crap.csv'
+locs = 'ip_locations.csv'
 pd.options.display.max_rows = 1000 
 
 def access_type(url):
@@ -37,7 +37,7 @@ def get_log(locs=False):
     df['timestamp'] = df.date + ' ' +  df.time
     df.timestamp = pd.to_datetime(df.timestamp)
     if locs:
-        to_merge = pd.read_csv(garrett, index_col=0)
+        to_merge = pd.read_csv(locs, index_col=0)
         df = df.merge(to_merge, how='left', on='ip')
     df = df.set_index('timestamp')
     df = df.drop(columns=['date', 'time'])
@@ -61,22 +61,3 @@ def get_groups(log):
 
 log = get_log(locs=True)
 groups = get_groups(log)
-
-
-
-# codeup start
-# codeup end
-
-# 358: Sean
-
-# 467: Sam
-
-# 1: Zach
-
-# 11: Ryan
-
-# 248: Maggie
-
-# 404: David instructor
-
-# 146: Dimitri
