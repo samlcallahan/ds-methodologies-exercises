@@ -123,6 +123,7 @@ def prep_zillow(df, outliers=True):
     to_zero = ['fireplace', 'pool']
     prep = fill_zero(prep, to_zero)
     prep = feature_prep(prep)
+    prep = prep.drop(columns='Unnamed: 0')
     return prep
 
 if __name__ == '__main__':

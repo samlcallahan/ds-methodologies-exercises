@@ -1,0 +1,2627 @@
+,ip,province,city,company
+0,97.105.19.61,Texas,San Antonio,Codeup LLC
+1,71.137.146.71,Texas,San Antonio,AT&T Corp.
+2,209.205.123.242,Texas,Dallas,Servers.com Inc.
+3,192.171.117.210,Texas,San Antonio,Aethernet LLC
+4,12.189.101.90,California,San Francisco,AT&T Services Inc.
+5,104.193.225.250,Texas,Dallas,Catalyst Host
+6,12.247.3.42,Texas,San Antonio,AT&T Internet Services
+7,174.207.5.52,Oklahoma,Guymon,Verizon Wireless
+8,172.3.220.202,Texas,San Antonio,AT&T Corp.
+9,107.77.100.125,Texas,San Antonio,AT&T Mobility LLC
+10,96.8.150.23,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+11,24.26.254.147,Texas,San Antonio,Charter Communications Inc
+12,72.191.50.176,Texas,Leon Valley,Charter Communications Inc
+13,108.65.244.91,Texas,San Antonio,AT&T Corp.
+14,76.185.247.126,Texas,San Antonio,Charter Communications Inc
+15,107.204.132.6,Texas,San Antonio,AT&T Corp.
+16,173.174.155.172,Texas,Universal City,Charter Communications Inc
+17,72.179.161.39,Texas,San Antonio,Charter Communications Inc
+18,72.177.226.58,Texas,San Antonio,Charter Communications Inc
+19,174.207.1.185,Texas,Plainview,Verizon Wireless
+20,70.123.231.211,Texas,Universal City,Charter Communications Inc
+21,72.191.29.130,Texas,San Antonio,Charter Communications Inc
+22,65.36.105.55,Texas,San Antonio,Grande Communications San Antonio Hub
+23,12.247.3.50,Texas,San Antonio,AT&T Internet Services
+24,173.173.127.101,Texas,San Antonio,Charter Communications Inc
+25,173.127.33.241,Texas,Houston,Sprint Communications Inc.
+26,162.232.155.19,Texas,El Paso,AT&T Corp.
+27,99.203.26.41,Texas,Houston,Sprint Communications Inc.
+28,96.8.179.59,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+29,70.114.139.150,Texas,Round Rock,Charter Communications Inc
+30,72.181.117.226,Texas,San Antonio,Charter Communications Inc
+31,71.42.140.139,Texas,San Antonio,Starbucks
+32,45.22.97.134,Texas,San Antonio,AT&T Corp.
+33,173.173.104.57,Texas,San Antonio,Charter Communications Inc
+34,104.53.201.99,Texas,San Antonio,AT&T Corp.
+35,173.174.159.45,Texas,Universal City,Charter Communications Inc
+36,67.10.161.55,Texas,San Antonio,Charter Communications Inc
+37,184.226.6.201,Texas,Houston,Sprint Communications Inc.
+38,76.211.179.43,Connecticut,Wallingford,AT&T Corp.
+39,24.160.159.122,Texas,San Antonio,Charter Communications Inc
+40,66.69.62.219,Texas,San Antonio,Charter Communications Inc
+41,209.205.122.186,Texas,Dallas,Servers.com Inc.
+42,24.153.137.59,Texas,San Antonio,Starbucks
+43,67.10.168.76,Texas,San Antonio,Charter Communications Inc
+44,70.123.209.40,Texas,San Antonio,Charter Communications Inc
+45,67.198.116.192,Texas,San Marcos,Grande Communications San Marcos
+46,98.6.204.195,Texas,San Antonio,Starbucks
+47,24.155.140.118,Texas,San Antonio,Grande Communications San Antonio Hub
+48,162.205.226.57,Texas,San Antonio,AT&T Corp.
+49,173.173.100.228,Texas,San Antonio,Charter Communications Inc
+50,65.36.111.91,Texas,San Antonio,Grande Communications San Antonio Hub
+51,184.203.148.135,Arizona,Phoenix,Sprint Communications Inc.
+52,72.181.97.136,Texas,San Antonio,Charter Communications Inc
+53,72.181.118.217,Texas,San Antonio,Charter Communications Inc
+54,67.11.104.47,Texas,San Antonio,Charter Communications Inc
+55,24.155.251.203,Texas,San Antonio,Grande Communications San Antonio Hub
+56,23.122.42.151,Texas,San Antonio,AT&T Corp.
+57,24.27.227.0,Texas,San Antonio,Charter Communications Inc
+58,24.27.227.1,Texas,San Antonio,Charter Communications Inc
+59,170.248.173.246,Texas,San Antonio,Accenture LLP
+60,70.114.36.54,Texas,San Antonio,Charter Communications Inc
+61,216.1.153.162,New Jersey,Newark,Verizon Communications Inc.
+62,104.219.136.67,Texas,San Antonio,Rock Solid Internet & Telephone
+63,72.177.206.117,Texas,San Antonio,Charter Communications Inc
+64,173.173.116.10,Texas,San Antonio,Charter Communications Inc
+65,173.173.114.158,Texas,San Antonio,Charter Communications Inc
+66,108.248.9.192,Texas,Richardson,AT&T Corp.
+67,72.48.111.7,Texas,San Marcos,Grande Communications San Antonio Hub
+68,66.69.77.154,Texas,San Antonio,Charter Communications Inc
+69,70.117.6.133,Texas,San Antonio,Charter Communications Inc
+70,24.243.31.59,Texas,San Antonio,Charter Communications Inc
+71,99.203.26.214,Texas,Houston,Sprint Communications Inc.
+72,107.77.64.27,Texas,Victoria,AT&T Mobility LLC
+73,70.120.83.9,Texas,San Antonio,Charter Communications Inc
+74,131.194.98.179,Texas,San Antonio,Trinity University
+75,99.203.155.25,Texas,Houston,Sprint Communications Inc.
+76,108.239.187.113,Texas,San Antonio,AT&T Corp.
+77,173.239.218.8,New Jersey,Piscataway,North American Cable Television and Internet LLC
+78,170.248.173.247,Texas,San Antonio,Accenture LLP
+79,209.205.122.182,Texas,Dallas,Servers.com Inc.
+80,99.203.26.237,Texas,Houston,Sprint Communications Inc.
+81,68.203.201.38,Texas,San Antonio,Charter Communications Inc
+82,67.11.154.74,Texas,San Antonio,Charter Communications Inc
+83,76.214.156.42,Texas,San Antonio,AT&T Corp.
+84,99.203.26.144,Texas,Houston,Sprint Communications Inc.
+85,162.236.252.30,Texas,San Antonio,AT&T Corp.
+86,99.203.155.131,Texas,Houston,Sprint Communications Inc.
+87,136.50.29.193,Texas,San Antonio,Google Fiber Inc.
+88,107.207.7.120,Texas,San Antonio,AT&T Corp.
+89,67.11.144.38,Texas,San Antonio,Charter Communications Inc
+90,23.127.174.69,Texas,San Antonio,AT&T Corp.
+91,173.127.67.70,Texas,Houston,Sprint Communications Inc.
+92,72.178.96.177,Texas,New Braunfels,Charter Communications Inc
+93,45.21.0.138,Texas,San Antonio,AT&T Corp.
+94,129.115.2.245,Texas,San Antonio,University of Texas at San Antonio
+95,71.40.1.172,Texas,San Antonio,Starbucks
+96,107.77.80.107,Texas,San Antonio,AT&T Mobility LLC
+97,104.53.215.21,Texas,San Antonio,AT&T Corp.
+98,172.110.83.150,Texas,Hondo,CommZoom LLC
+99,66.42.139.162,Ohio,Cincinnati,Fuse Internet Access
+100,70.121.180.146,Texas,San Antonio,Charter Communications Inc
+101,64.134.159.125,Texas,Austin,Wayport Inc.
+102,174.207.2.105,Texas,Waco,Verizon Wireless
+103,72.182.107.70,Texas,Austin,Charter Communications Inc
+104,99.203.27.154,Texas,Houston,Sprint Communications Inc.
+105,196.52.2.30,New York,New York City,LogicWeb Inc
+106,66.69.124.135,Texas,San Antonio,Charter Communications Inc
+107,196.52.2.70,New York,New York City,LogicWeb Inc
+108,24.27.227.0,Texas,San Antonio,Charter Communications Inc
+109,99.203.26.237,Texas,Houston,Sprint Communications Inc.
+110,166.251.112.222,Texas,San Antonio,Wireless Data Service Provider Corporation
+111,172.5.98.113,Texas,San Antonio,AT&T Corp.
+112,68.203.203.145,Texas,San Antonio,Charter Communications Inc
+113,12.43.239.98,Texas,Pleasanton,Marriott Corporationattn Joh
+114,170.248.173.245,Texas,San Antonio,Accenture LLP
+115,72.48.6.70,Texas,San Antonio,Grande Communications San Antonio Hub
+116,67.11.96.101,Texas,San Antonio,Charter Communications Inc
+117,196.52.2.49,New York,New York City,LogicWeb Inc
+118,50.226.114.86,California,Palo Alto,Comcast Cable Communications LLC
+119,104.5.159.83,Texas,San Antonio,AT&T Corp.
+120,216.177.181.227,Texas,San Antonio,GVTC-Dialup Dynamic Pool
+121,172.85.200.202,Florida,Orlando,Granite Telecommunications LLC
+122,70.121.188.16,Texas,San Antonio,Charter Communications Inc
+123,99.203.155.59,Texas,Houston,Sprint Communications Inc.
+124,173.127.112.106,Texas,Houston,Sprint Communications Inc.
+125,184.226.30.104,Texas,Houston,Sprint Communications Inc.
+126,173.174.178.51,Texas,San Antonio,Charter Communications Inc
+127,24.242.163.11,Texas,San Antonio,Def Logix
+128,174.207.7.252,Texas,Georgetown,Verizon Wireless
+129,12.197.199.226,Texas,San Antonio,Texas Creative
+130,50.250.214.161,California,San Francisco,Comcast Cable Communications LLC
+131,173.127.13.65,Texas,Houston,Sprint Communications Inc.
+132,24.26.238.218,Texas,San Antonio,Charter Communications Inc
+133,66.69.68.137,Texas,San Antonio,Charter Communications Inc
+134,76.185.131.226,Texas,San Antonio,Charter Communications Inc
+135,166.137.118.89,Louisiana,Lafayette,AT&T Mobility LLC
+136,75.1.32.205,Texas,New Braunfels,AT&T Corp.
+137,104.191.1.102,Texas,San Antonio,AT&T Corp.
+138,100.35.67.162,New York,New York City,Verizon Communications Inc.
+139,166.137.136.50,Texas,Tyler,AT&T Mobility LLC
+140,174.207.17.250,Texas,Odessa,Verizon Wireless
+141,72.181.99.132,Texas,San Antonio,Charter Communications Inc
+142,66.25.81.21,Texas,San Antonio,Charter Communications Inc
+143,24.160.133.222,Texas,San Antonio,Charter Communications Inc
+144,70.121.171.184,Texas,San Antonio,Charter Communications Inc
+145,141.150.59.235,New Jersey,Rahway,Verizon Communications Inc.
+146,166.137.125.75,Texas,Odessa,AT&T Mobility LLC
+147,172.8.173.255,Texas,San Antonio,AT&T Corp.
+148,196.52.2.52,New York,New York City,LogicWeb Inc
+149,104.48.141.55,Texas,Richardson,AT&T Corp.
+150,166.251.101.233,Texas,San Antonio,Wireless Data Service Provider Corporation
+151,166.251.109.241,Texas,San Antonio,Wireless Data Service Provider Corporation
+152,107.77.100.47,Texas,San Antonio,AT&T Mobility LLC
+153,174.207.23.38,Texas,San Antonio,Verizon Wireless
+154,107.77.100.79,Texas,San Antonio,AT&T Mobility LLC
+155,174.207.0.15,Texas,Austin,Verizon Wireless
+156,72.191.28.102,Texas,San Antonio,Charter Communications Inc
+157,107.77.100.45,Texas,San Antonio,AT&T Mobility LLC
+158,199.193.220.210,Texas,San Antonio,St Anthonys Hotel
+159,107.77.72.112,Texas,Beaumont,AT&T Mobility LLC
+160,107.77.66.81,Texas,Sugar Land,AT&T Mobility LLC
+161,107.77.100.91,Texas,San Antonio,AT&T Mobility LLC
+162,72.177.135.99,Texas,San Antonio,Charter Communications Inc
+163,184.226.56.72,Texas,Houston,Sprint Communications Inc.
+164,206.109.5.6,Colorado,Englewood,Jab Wireless Inc.
+165,172.58.109.111,New Mexico,Albuquerque,T-Mobile USA Inc.
+166,70.118.8.243,Texas,San Antonio,TWC Internal Spectrum
+167,72.205.179.123,Louisiana,New Orleans,Cox Communications
+168,209.205.120.222,Texas,Dallas,Servers.com Inc.
+169,64.157.241.246,Texas,Georgetown,Level 3 Communications Inc.
+170,12.175.215.244,Texas,San Antonio,AireSpring-Dimension Developm
+171,104.53.206.121,Texas,San Antonio,AT&T Corp.
+172,75.104.65.31,Florida,Palm Coast,Viasat Inc.
+173,99.52.78.67,Texas,San Antonio,AT&T Corp.
+174,173.127.6.41,Texas,Houston,Sprint Communications Inc.
+175,107.77.100.113,Texas,San Antonio,AT&T Mobility LLC
+176,173.127.23.253,Texas,Houston,Sprint Communications Inc.
+177,72.181.108.134,Texas,San Antonio,Charter Communications Inc
+178,67.10.158.134,Texas,San Antonio,Charter Communications Inc
+179,173.175.117.44,Texas,San Antonio,Charter Communications Inc
+180,69.166.87.217,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+181,173.123.57.183,Texas,Houston,Sprint Communications Inc.
+182,73.158.71.104,California,Berkeley,Comcast Cable Communications LLC
+183,72.190.221.42,Texas,Seguin,Charter Communications Inc
+184,173.127.44.50,Texas,Houston,Sprint Communications Inc.
+185,97.77.127.220,Texas,San Antonio,Starbucks
+186,184.203.109.14,Arizona,Phoenix,Sprint Communications Inc.
+187,99.203.155.223,Texas,Houston,Sprint Communications Inc.
+188,173.149.206.146,Texas,Houston,Sprint Communications Inc.
+189,70.121.173.47,Texas,San Antonio,Charter Communications Inc
+190,184.226.106.149,Texas,Houston,Sprint Communications Inc.
+191,131.194.184.154,Texas,San Antonio,Trinity University
+192,166.251.112.88,Texas,San Antonio,Wireless Data Service Provider Corporation
+193,107.77.80.85,Texas,San Antonio,AT&T Mobility LLC
+194,166.137.125.28,Texas,Odessa,AT&T Mobility LLC
+195,97.77.16.42,Texas,San Antonio,Charter Communications Inc
+196,99.203.27.36,Texas,Houston,Sprint Communications Inc.
+197,131.194.184.123,Texas,San Antonio,Trinity University
+198,99.200.159.181,Texas,Fort Worth,Sprint Communications Inc.
+199,71.78.62.179,Texas,San Antonio,Starbucks
+200,174.207.3.185,Texas,Odessa,Verizon Wireless
+201,173.173.100.232,Texas,San Antonio,Charter Communications Inc
+202,68.241.59.80,Georgia,Atlanta,Sprint Communications Inc.
+203,64.134.30.175,Texas,Austin,Wayport Inc.
+204,63.97.8.66,Colorado,Brighton,Target Corporation
+205,173.239.232.81,Texas,Plano,North American Cable Television and Internet LLC
+206,71.137.145.92,Texas,San Antonio,AT&T Corp.
+207,70.118.34.50,Texas,San Antonio,Texas Research & Technology Foundation
+208,24.173.208.242,Texas,Plano,Pearl Owners Association
+209,166.137.139.56,Arkansas,Fayetteville,AT&T Mobility LLC
+210,45.22.96.223,Texas,San Antonio,AT&T Corp.
+211,99.203.26.86,Texas,Houston,Sprint Communications Inc.
+212,99.203.26.234,Texas,Houston,Sprint Communications Inc.
+213,174.207.13.82,California,San Diego,Verizon Wireless
+214,173.174.223.192,Texas,San Antonio,Charter Communications Inc
+215,107.77.66.47,Texas,Sugar Land,AT&T Mobility LLC
+216,107.167.109.95,California,San Mateo,Opera Software Americas LLC
+217,172.58.100.127,Texas,Houston,T-Mobile USA Inc.
+218,208.54.86.193,Texas,Dallas,T-Mobile USA Inc.
+219,173.173.119.75,Texas,San Antonio,Charter Communications Inc
+220,70.117.9.9,Texas,San Antonio,Charter Communications Inc
+221,172.3.29.85,Texas,San Antonio,AT&T Corp.
+222,172.58.100.195,Texas,Houston,T-Mobile USA Inc.
+223,166.137.125.49,Texas,Odessa,AT&T Mobility LLC
+224,172.56.7.193,Texas,Waxahachie,T-Mobile USA Inc.
+225,70.120.93.125,Texas,San Antonio,Charter Communications Inc
+226,172.58.102.235,Florida,Clearwater,T-Mobile USA Inc.
+227,107.77.100.15,Texas,San Antonio,AT&T Mobility LLC
+228,24.130.120.24,California,Berkeley,Comcast Cable Communications LLC
+229,67.11.16.255,Texas,New Braunfels,Charter Communications Inc
+230,107.204.52.24,Texas,San Antonio,AT&T Corp.
+231,67.10.132.181,Texas,San Antonio,Charter Communications Inc
+232,104.190.250.60,Texas,San Antonio,AT&T Corp.
+233,172.127.183.32,Texas,San Antonio,AT&T Corp.
+234,76.185.228.75,Texas,San Antonio,Charter Communications Inc
+235,67.10.153.249,Texas,San Antonio,Charter Communications Inc
+236,104.180.86.144,Texas,San Antonio,AT&T Corp.
+237,107.77.105.97,Texas,Kingsville,AT&T Mobility LLC
+238,108.178.64.170,Texas,Plano,Charter Communications Inc
+239,64.148.247.227,Texas,San Antonio,AT&T Corp.
+240,187.220.23.224,Ciudad de Mexico,Cuajimalpa,Uninet S.A. de C.V.
+241,173.239.232.41,Texas,Plano,North American Cable Television and Internet LLC
+242,24.155.130.61,Texas,San Antonio,Grande Communications San Marcos
+243,166.137.126.119,Texas,Marshall,AT&T Mobility LLC
+244,107.77.64.80,Texas,Victoria,AT&T Mobility LLC
+245,8.33.232.5,New Mexico,Jal,Level 3 Communications Inc.
+246,76.185.182.91,Texas,San Antonio,Charter Communications Inc
+247,72.179.132.10,Texas,El Paso,Charter Communications Inc
+248,107.77.80.52,Texas,San Antonio,AT&T Mobility LLC
+249,108.220.101.224,Texas,San Antonio,AT&T Corp.
+250,99.132.128.74,Texas,San Antonio,AT&T Corp.
+251,104.190.255.78,Texas,San Antonio,AT&T Corp.
+252,72.190.131.54,Texas,San Antonio,Charter Communications Inc
+253,24.243.7.214,Texas,San Antonio,Charter Communications Inc
+254,174.207.4.5,Texas,Austin,Verizon Wireless
+255,173.174.198.2,Texas,San Antonio,Charter Communications Inc
+256,68.206.249.115,Texas,San Antonio,Charter Communications Inc
+257,99.158.247.126,Texas,San Antonio,AT&T Corp.
+258,108.192.182.223,Texas,San Antonio,AT&T Corp.
+259,70.125.151.73,Texas,San Antonio,Charter Communications Inc
+260,70.158.100.177,Georgia,Atlanta,City of Atlanta Dept of AV - AEP LAN
+261,70.114.7.210,Texas,New Braunfels,Charter Communications Inc
+262,172.87.155.118,Texas,Austin,Charter Communications Inc
+263,172.56.15.50,Texas,Houston,T-Mobile USA Inc.
+264,196.52.39.2,Illinois,Chicago,LogicWeb Inc
+265,76.185.157.10,Texas,San Antonio,Charter Communications Inc
+266,196.52.39.32,Illinois,Chicago,LogicWeb Inc
+267,24.155.24.134,Texas,San Antonio,Grande Communications San Antonio Hub
+268,173.123.4.140,Texas,Houston,Sprint Communications Inc.
+269,67.79.15.43,Texas,Universal City,Starbucks
+270,173.127.49.144,Texas,Houston,Sprint Communications Inc.
+271,50.84.229.194,Texas,San Antonio,Texas Department of Information Resources
+272,107.77.100.85,Texas,San Antonio,AT&T Mobility LLC
+273,64.134.159.142,Texas,Austin,Wayport Inc.
+274,99.203.155.147,Texas,Houston,Sprint Communications Inc.
+275,72.178.121.254,Texas,San Antonio,Charter Communications Inc
+276,184.226.102.210,Texas,Houston,Sprint Communications Inc.
+277,173.127.108.144,Texas,Houston,Sprint Communications Inc.
+278,107.77.72.127,Texas,Beaumont,AT&T Mobility LLC
+279,70.123.197.98,Texas,San Antonio,Charter Communications Inc
+280,99.57.17.35,Texas,San Antonio,AT&T Corp.
+281,173.149.180.43,Texas,Houston,Sprint Communications Inc.
+282,173.123.41.129,Texas,Houston,Sprint Communications Inc.
+283,173.174.192.127,Texas,San Antonio,Charter Communications Inc
+284,69.166.89.120,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+285,97.77.161.196,Texas,San Antonio,Starbucks
+286,76.185.175.160,Texas,San Antonio,Charter Communications Inc
+287,172.56.15.203,Texas,Houston,T-Mobile USA Inc.
+288,172.58.109.13,New Mexico,Albuquerque,T-Mobile USA Inc.
+289,173.127.79.63,Texas,Houston,Sprint Communications Inc.
+290,107.77.80.46,Texas,San Antonio,AT&T Mobility LLC
+291,209.64.120.2,Texas,Universal City,Global the Source Ltd
+292,107.77.66.96,Texas,Sugar Land,AT&T Mobility LLC
+293,166.137.143.91,Texas,DeSoto,AT&T Mobility LLC
+294,70.123.224.242,Texas,Universal City,Charter Communications Inc
+295,209.194.208.150,Texas,El Paso,City of El Paso
+296,107.77.80.125,Texas,San Antonio,AT&T Mobility LLC
+297,107.77.72.63,Texas,Beaumont,AT&T Mobility LLC
+298,65.36.104.120,Texas,San Antonio,Grande Communications San Antonio Hub
+299,136.62.15.120,Texas,Austin,Google Fiber Inc.
+300,99.203.26.185,Texas,Houston,Sprint Communications Inc.
+301,108.200.115.87,Texas,San Antonio,AT&T Internet Services
+302,207.68.209.17,Nebraska,Burwell,Nebraska Central Telephone Company
+303,107.77.100.129,Texas,San Antonio,AT&T Mobility LLC
+304,67.11.48.25,Texas,San Antonio,Charter Communications Inc
+305,107.77.105.36,Texas,Kingsville,AT&T Mobility LLC
+306,66.25.154.61,Texas,New Braunfels,Charter Communications Inc
+307,70.94.162.244,Texas,San Antonio,Charter Communications Inc
+308,99.203.154.83,Texas,Houston,Sprint Communications Inc.
+309,76.185.163.154,Texas,San Antonio,Charter Communications Inc
+310,104.181.128.75,Texas,San Antonio,AT&T Corp.
+311,108.200.129.219,Texas,San Antonio,AT&T Corp.
+312,107.77.100.89,Texas,San Antonio,AT&T Mobility LLC
+313,71.42.84.202,Texas,Plano,International Brangus Breeders Association
+314,75.54.32.23,Texas,San Antonio,Alamo Community College District
+315,108.87.103.243,Texas,San Antonio,AT&T Corp.
+316,173.173.105.73,Texas,San Antonio,Charter Communications Inc
+317,174.207.13.226,California,San Diego,Verizon Wireless
+318,99.203.27.254,Texas,Houston,Sprint Communications Inc.
+319,99.203.155.180,Texas,Houston,Sprint Communications Inc.
+320,99.203.154.104,Texas,Houston,Sprint Communications Inc.
+321,104.129.196.183,Illinois,Chicago,Zscaler Inc.
+322,70.122.201.106,Texas,Irving,Charter Communications Inc
+323,192.171.117.234,Texas,San Antonio,WP Engine
+324,174.207.5.177,Oklahoma,Guymon,Verizon Wireless
+325,107.77.80.32,Texas,San Antonio,AT&T Mobility LLC
+326,24.243.3.200,Texas,San Antonio,Charter Communications Inc
+327,189.146.56.56,Ciudad de Mexico,Mexico City,Gestion de Direccionamiento Uninet
+328,24.243.39.1,Texas,Universal City,Charter Communications Inc
+329,201.103.134.102,Mexico,Ciudad Nezahualcoyotl,Uninet S.A. de C.V.
+330,80.137.93.59,Schleswig-Holstein,Wedel,Deutsche Telekom AG
+331,64.250.227.83,Nevada,Las Vegas,Impact Companies
+332,72.191.22.4,Texas,Spring Branch,Charter Communications Inc
+333,70.121.181.181,Texas,San Antonio,Charter Communications Inc
+334,12.28.69.2,Texas,Houston,CY HousTX Property L.P.
+335,189.146.46.149,Ciudad de Mexico,Mexico City,Gestion de Direccionamiento Uninet
+336,172.58.100.115,Texas,Houston,T-Mobile USA Inc.
+337,198.202.210.220,Texas,San Antonio,UDP Inc.
+338,23.228.172.124,Texas,Austin,Google Fiber Inc.
+339,99.203.27.87,Texas,Houston,Sprint Communications Inc.
+340,24.155.118.66,Texas,San Antonio,Grande Communications San Antonio Hub
+341,107.77.72.64,Texas,Beaumont,AT&T Mobility LLC
+342,104.12.206.124,Texas,Austin,AT&T Corp.
+343,107.77.64.130,Texas,Victoria,AT&T Mobility LLC
+344,172.58.102.178,Florida,Clearwater,T-Mobile USA Inc.
+345,166.137.118.83,Louisiana,Lafayette,AT&T Mobility LLC
+346,144.178.1.54,Texas,El Paso,Apple Inc.
+347,107.77.72.97,Texas,Beaumont,AT&T Mobility LLC
+348,196.52.39.29,Illinois,Chicago,LogicWeb Inc
+349,196.52.39.11,Illinois,Chicago,LogicWeb Inc
+350,99.203.26.200,Texas,Houston,Sprint Communications Inc.
+351,206.77.155.25,Texas,Austin,University of Texas System
+352,97.77.232.50,Texas,San Antonio,Charter Communications Inc
+353,72.182.51.48,Texas,Austin,Charter Communications Inc
+354,108.247.106.74,Texas,New Braunfels,AT&T Corp.
+355,70.125.131.6,Texas,San Antonio,Charter Communications Inc
+356,174.207.9.170,Texas,Weslaco,Verizon Wireless
+357,107.77.100.88,Texas,San Antonio,AT&T Mobility LLC
+358,99.203.154.82,Texas,Houston,Sprint Communications Inc.
+359,172.58.99.163,Texas,Houston,T-Mobile USA Inc.
+360,174.207.13.44,California,San Diego,Verizon Wireless
+361,72.190.180.197,Texas,San Antonio,Charter Communications Inc
+362,206.77.155.27,Texas,Austin,University of Texas System
+363,66.162.83.130,Texas,San Antonio,TW Telecom Holdings Inc.
+364,172.58.67.73,Texas,Mission,T-Mobile USA Inc.
+365,66.68.73.119,Texas,Austin,Charter Communications Inc
+366,23.105.149.2,New York,New York City,Nobis Technology Group LLC
+367,24.28.154.168,Texas,Leon Valley,Charter Communications Inc
+368,172.56.6.214,Oklahoma,Jay,T-Mobile USA Inc.
+369,173.174.153.61,Texas,Universal City,Charter Communications Inc
+370,99.181.55.111,Texas,University Park,AT&T Corp.
+371,206.77.155.26,Texas,Austin,University of Texas System
+372,65.220.10.3,Virginia,Alexandria,Accenture Ltd
+373,104.156.210.199,New York,New York City,Micfo LLC.
+374,99.203.26.93,Texas,Houston,Sprint Communications Inc.
+375,107.77.64.50,Texas,Victoria,AT&T Mobility LLC
+376,206.121.139.66,Louisiana,Natchitoches,AT&T ANCS R&D Lab
+377,97.105.101.131,Texas,Universal City,Starbucks
+378,66.90.173.207,Texas,Austin,Grande Communications Waco Hub
+379,97.77.206.98,Texas,Plano,Hilton Home 2 Suites
+380,67.11.199.195,Texas,San Antonio,Charter Communications Inc
+381,196.52.39.23,Illinois,Chicago,LogicWeb Inc
+382,172.58.100.162,Texas,Houston,T-Mobile USA Inc.
+383,174.207.23.151,Texas,San Antonio,Verizon Wireless
+384,72.48.1.25,Texas,San Antonio,Grande Communications San Antonio Hub
+385,172.56.6.173,Oklahoma,Jay,T-Mobile USA Inc.
+386,172.58.67.186,Texas,Mission,T-Mobile USA Inc.
+387,172.58.100.107,Texas,Houston,T-Mobile USA Inc.
+388,70.118.40.114,Texas,Austin,Flightpath Coffeehouse
+389,72.181.125.198,Texas,San Antonio,Charter Communications Inc
+390,107.77.105.28,Texas,Kingsville,AT&T Mobility LLC
+391,104.156.210.198,New York,New York City,Micfo LLC.
+392,165.84.230.4,Utah,Bluffdale,Micfo LLC.
+393,172.58.103.50,Texas,Austin,T-Mobile USA Inc.
+394,206.77.155.30,Texas,Austin,University of Texas System
+395,174.207.0.177,Texas,Austin,Verizon Wireless
+396,172.58.99.43,Texas,Houston,T-Mobile USA Inc.
+397,73.166.32.184,Texas,Sugar Land,Comcast Cable Communications LLC
+398,107.77.64.51,Texas,Victoria,AT&T Mobility LLC
+399,172.56.15.6,Texas,Houston,T-Mobile USA Inc.
+400,173.175.172.89,Texas,El Paso,Charter Communications Inc
+401,99.203.154.93,Texas,Houston,Sprint Communications Inc.
+402,107.77.100.84,Texas,San Antonio,AT&T Mobility LLC
+403,70.114.38.157,Texas,San Antonio,Charter Communications Inc
+404,104.184.220.38,Texas,Corpus Christi,AT&T Corp.
+405,76.218.0.183,Texas,Dallas,AT&T Corp.
+406,172.58.111.139,Texas,Austin,T-Mobile USA Inc.
+407,70.130.120.208,Texas,San Antonio,AT&T Corp.
+408,72.181.109.196,Texas,San Antonio,Charter Communications Inc
+409,12.221.11.38,Texas,San Antonio,FBD Partnership
+410,174.207.16.206,Texas,Seminole,Verizon Wireless
+411,75.54.32.21,Texas,San Antonio,Alamo Community College District
+412,108.213.189.26,Texas,San Antonio,AT&T Corp.
+413,70.123.229.111,Texas,Universal City,Charter Communications Inc
+414,97.105.102.61,Texas,San Antonio,Starbucks
+415,72.48.11.18,Texas,Temple,Grande Communications San Antonio Hub
+416,107.77.100.127,Texas,San Antonio,AT&T Mobility LLC
+417,47.189.243.89,Texas,Irving,Frontier Communications Corporation
+418,99.203.26.150,Texas,Houston,Sprint Communications Inc.
+419,24.243.10.53,Texas,San Antonio,Charter Communications Inc
+420,72.179.136.146,Texas,El Paso,Charter Communications Inc
+421,174.255.138.88,Arkansas,El Dorado,Verizon Wireless
+422,24.73.246.228,Texas,San Antonio,Starbucks
+423,107.77.64.52,Texas,Victoria,AT&T Mobility LLC
+424,173.174.190.61,Texas,San Antonio,Charter Communications Inc
+425,107.77.64.21,Texas,Victoria,AT&T Mobility LLC
+426,70.121.163.5,Texas,San Antonio,Charter Communications Inc
+427,172.58.99.59,Texas,Houston,T-Mobile USA Inc.
+428,50.84.103.219,Texas,Leon Valley,Starbucks
+429,76.214.156.188,Texas,San Antonio,AT&T Corp.
+430,172.56.15.15,Texas,Houston,T-Mobile USA Inc.
+431,108.220.103.204,Texas,San Antonio,AT&T Corp.
+432,172.58.67.211,Texas,Mission,T-Mobile USA Inc.
+433,172.58.100.28,Texas,Houston,T-Mobile USA Inc.
+434,107.77.66.78,Texas,Sugar Land,AT&T Mobility LLC
+435,72.181.97.35,Texas,San Antonio,Charter Communications Inc
+436,172.58.100.129,Texas,Houston,T-Mobile USA Inc.
+437,208.54.86.138,Texas,Dallas,T-Mobile USA Inc.
+438,148.87.23.18,California,Belmont,Oracle Corporation
+439,97.77.238.3,Texas,Seguin,Starbucks
+440,107.77.80.82,Texas,San Antonio,AT&T Mobility LLC
+441,67.11.134.242,Texas,San Antonio,Charter Communications Inc
+442,107.77.72.90,Texas,Beaumont,AT&T Mobility LLC
+443,70.123.137.196,Texas,Fredericksburg,Charter Communications Inc
+444,97.77.203.60,Texas,San Antonio,Starbucks
+445,71.41.243.19,Texas,San Antonio,Starbucks
+446,97.77.126.60,Texas,San Antonio,Starbucks
+447,72.177.233.3,Texas,San Antonio,Charter Communications Inc
+448,172.58.67.50,Texas,Mission,T-Mobile USA Inc.
+449,174.255.135.219,Oklahoma,McAlester,Verizon Wireless
+450,24.155.149.210,Texas,San Antonio,North San Antonio Chamber of Commerce
+451,71.41.134.238,Texas,Plano,Charter Communications Inc
+452,76.185.164.25,Texas,San Antonio,Charter Communications Inc
+453,24.243.59.95,Texas,San Antonio,Charter Communications Inc
+454,66.3.37.210,Texas,San Antonio,Califormula Inc
+455,64.132.225.203,Texas,San Antonio,TW Telecom Holdings Inc.
+456,66.25.88.97,Texas,San Antonio,Charter Communications Inc
+457,172.58.67.135,Texas,Mission,T-Mobile USA Inc.
+458,99.203.27.150,Texas,Houston,Sprint Communications Inc.
+459,173.123.59.139,Texas,Houston,Sprint Communications Inc.
+460,174.255.131.241,Louisiana,Natchitoches,Verizon Wireless
+461,64.134.31.44,Texas,Austin,Wayport Inc.
+462,172.58.70.192,Oklahoma,Oklahoma City,T-Mobile USA Inc.
+463,70.123.198.193,Texas,San Antonio,Charter Communications Inc
+464,107.77.80.92,Texas,San Antonio,AT&T Mobility LLC
+465,96.89.11.37,Virginia,Richmond,Comcast Cable Communications LLC
+466,172.56.15.46,Texas,Houston,T-Mobile USA Inc.
+467,172.58.108.94,Texas,Sherman,T-Mobile USA Inc.
+468,38.95.108.230,California,Los Angeles,PSINet Inc.
+469,99.203.154.173,Texas,Houston,Sprint Communications Inc.
+470,76.204.29.215,Texas,San Antonio,AT&T Corp.
+471,162.72.0.173,North Carolina,Wilmington,Viasat Inc.
+472,107.77.80.128,Texas,San Antonio,AT&T Mobility LLC
+473,99.203.26.254,Texas,Houston,Sprint Communications Inc.
+474,166.137.143.123,Texas,DeSoto,AT&T Mobility LLC
+475,173.173.118.83,Texas,San Antonio,Charter Communications Inc
+476,66.102.6.9,California,Mountain View,Google LLC
+477,84.14.10.91,Ile-de-France,Paris,Hammerson France
+478,4.16.216.161,Texas,San Antonio,Level 3 Communications Inc.
+479,70.121.204.76,Texas,San Antonio,Charter Communications Inc
+480,66.69.50.45,Texas,San Antonio,Charter Communications Inc
+481,45.31.213.223,Texas,San Antonio,AT&T Corp.
+482,173.174.196.212,Texas,San Antonio,Charter Communications Inc
+483,104.53.202.214,Texas,San Antonio,AT&T Corp.
+484,72.181.104.30,Texas,San Antonio,Charter Communications Inc
+485,24.28.70.46,Texas,Austin,Charter Communications Inc
+486,74.50.118.217,Florida,Tampa,NOC4HOSTS Inc.
+487,68.206.106.64,Texas,El Paso,Charter Communications Inc
+488,104.219.136.100,Texas,San Antonio,Rock Solid Internet & Telephone
+489,67.11.172.66,Texas,San Antonio,Charter Communications Inc
+490,96.8.172.51,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+491,67.11.175.66,Texas,San Antonio,Charter Communications Inc
+492,104.219.136.105,Texas,San Antonio,Rock Solid Internet & Telephone
+493,174.255.137.106,Oklahoma,Ponca City,Verizon Wireless
+494,12.52.157.98,Texas,San Antonio,New Horizons Communications Corporation
+495,99.132.129.169,Texas,San Antonio,AT&T Corp.
+496,99.158.248.205,Texas,San Antonio,AT&T Corp.
+497,66.25.163.2,Texas,San Antonio,Charter Communications Inc
+498,104.131.47.203,New Jersey,Clifton,DigitalOcean LLC
+499,70.122.230.225,Texas,Dallas,Charter Communications Inc
+500,172.56.7.244,Texas,Waxahachie,T-Mobile USA Inc.
+501,70.121.185.146,Texas,San Antonio,Charter Communications Inc
+502,66.90.136.214,Texas,Cedar Park,Grande Communications Austin
+503,72.190.156.176,Texas,San Antonio,Charter Communications Inc
+504,96.64.210.98,California,Pleasanton,Comcast Cable Communications LLC
+505,98.6.151.46,Texas,San Antonio,Charter Communications Inc
+506,177.247.132.187,Sinaloa,Culiacan,Mega Cable S.A. de C.V.
+507,174.255.131.179,Louisiana,Natchitoches,Verizon Wireless
+508,99.101.216.49,Texas,San Antonio,AT&T Corp.
+509,70.121.136.2,Texas,San Antonio,Charter Communications Inc
+510,70.118.58.130,Texas,San Antonio,Botanical Gardens/Conservatory
+511,71.42.218.131,Texas,Austin,Six Continents Hotel - Holiday Inn Express
+512,108.199.115.75,Texas,San Antonio,AT&T Corp.
+513,96.40.234.116,Wisconsin,Watertown,Charter Communications Inc
+514,76.218.41.171,Texas,Dallas,AT&T Corp.
+515,73.240.127.111,Oregon,Portland,Comcast Cable Communications LLC
+516,107.77.66.93,Texas,Sugar Land,AT&T Mobility LLC
+517,107.77.218.40,Texas,San Antonio,AT&T Mobility LLC
+518,72.191.31.35,Texas,San Antonio,Charter Communications Inc
+519,72.181.104.64,Texas,San Antonio,Charter Communications Inc
+520,24.26.246.52,Texas,San Antonio,Charter Communications Inc
+521,99.158.247.252,Texas,San Antonio,AT&T Corp.
+522,72.48.8.218,Texas,San Antonio,Grande Communications San Antonio Hub
+523,107.77.105.78,Texas,Kingsville,AT&T Mobility LLC
+524,72.177.192.121,Texas,San Antonio,Charter Communications Inc
+525,99.27.138.170,Texas,San Antonio,AT&T Corp.
+526,72.178.123.71,Texas,San Antonio,Charter Communications Inc
+527,99.147.236.67,Texas,San Antonio,AT&T Corp.
+528,161.38.221.206,Florida,Fort Lauderdale,The Arts Institutes International LLC
+529,172.58.67.35,Texas,Mission,T-Mobile USA Inc.
+530,172.8.175.156,Texas,San Antonio,AT&T Corp.
+531,107.204.53.24,Texas,San Antonio,AT&T Corp.
+532,107.77.80.83,Texas,San Antonio,AT&T Mobility LLC
+533,99.203.155.177,Texas,Houston,Sprint Communications Inc.
+534,76.250.155.202,Texas,San Antonio,AT&T Corp.
+535,172.58.109.251,New Mexico,Albuquerque,T-Mobile USA Inc.
+536,97.105.53.195,Texas,San Antonio,Starbucks
+537,173.173.100.45,Texas,San Antonio,Charter Communications Inc
+538,97.105.213.82,Texas,New Braunfels,Country Hospitality LLC.
+539,148.66.37.91,Texas,San Antonio,Jump Fiber
+540,129.112.109.42,Texas,Hurst,University of Texas
+541,173.173.47.94,Texas,Waco,Charter Communications Inc
+542,107.129.209.3,Texas,San Antonio,AT&T Corp.
+543,74.197.69.72,Texas,San Angelo,Suddenlink Communications
+544,70.94.132.9,Texas,New Braunfels,Charter Communications Inc
+545,76.185.168.145,Texas,San Antonio,Charter Communications Inc
+546,45.31.212.160,Texas,San Antonio,AT&T Corp.
+547,137.242.1.129,Texas,San Antonio,Air Force Systems Networking
+548,174.207.19.222,Texas,Plainview,Verizon Wireless
+549,108.66.243.159,Texas,San Antonio,AT&T Corp.
+550,129.112.109.40,Texas,Hurst,University of Texas
+551,172.58.67.105,Texas,Mission,T-Mobile USA Inc.
+552,72.181.98.94,Texas,San Antonio,Charter Communications Inc
+553,173.174.240.181,Texas,San Antonio,Charter Communications Inc
+554,97.98.16.4,Texas,Portland,Charter Communications Inc
+555,174.207.12.44,Texas,Pflugerville,Verizon Wireless
+556,76.185.149.233,Texas,San Antonio,Charter Communications Inc
+557,172.58.111.245,Texas,Austin,T-Mobile USA Inc.
+558,12.16.232.100,Virginia,Colonial Heights,Broadband Hospitality
+559,166.137.118.110,Louisiana,Lafayette,AT&T Mobility LLC
+560,166.137.118.47,Louisiana,Lafayette,AT&T Mobility LLC
+561,173.173.106.139,Texas,San Antonio,Charter Communications Inc
+562,174.255.146.172,Texas,Paris,Verizon Wireless
+563,172.58.111.159,Texas,Austin,T-Mobile USA Inc.
+564,192.138.47.30,Ohio,Columbus,DoD Network Information Center
+565,24.243.59.91,Texas,San Antonio,Charter Communications Inc
+566,205.157.120.4,Nevada,Elko,Office Depot
+567,107.77.169.8,Texas,Houston,AT&T Mobility LLC
+568,172.58.67.140,Texas,Mission,T-Mobile USA Inc.
+569,166.137.126.34,Texas,Marshall,AT&T Mobility LLC
+570,107.77.66.54,Texas,Sugar Land,AT&T Mobility LLC
+571,107.77.94.128,Mississippi,Tupelo,AT&T Mobility LLC
+572,12.34.237.242,Texas,San Antonio,Beldon Roofing Company
+573,70.121.196.204,Texas,San Antonio,Charter Communications Inc
+574,107.77.94.80,Mississippi,Tupelo,AT&T Mobility LLC
+575,107.77.94.123,Mississippi,Tupelo,AT&T Mobility LLC
+576,107.77.94.33,Mississippi,Tupelo,AT&T Mobility LLC
+577,166.137.139.115,Arkansas,Fayetteville,AT&T Mobility LLC
+578,66.102.6.171,California,Mountain View,Google LLC
+579,66.102.6.173,California,Mountain View,Google LLC
+580,66.102.6.169,California,Mountain View,Google LLC
+581,172.56.7.146,Texas,Waxahachie,T-Mobile USA Inc.
+582,174.255.186.213,California,San Bernardino,Verizon Wireless
+583,167.220.152.20,Virginia,Bristow,Microsoft Corporation
+584,172.58.67.44,Texas,Mission,T-Mobile USA Inc.
+585,107.77.100.57,Texas,San Antonio,AT&T Mobility LLC
+586,107.77.105.20,Texas,Kingsville,AT&T Mobility LLC
+587,172.5.103.185,Texas,San Antonio,AT&T Corp.
+588,172.58.67.173,Texas,Mission,T-Mobile USA Inc.
+589,107.77.105.45,Texas,Kingsville,AT&T Mobility LLC
+590,66.69.49.204,Texas,San Antonio,Charter Communications Inc
+591,107.77.105.117,Texas,Kingsville,AT&T Mobility LLC
+592,107.77.105.112,Texas,Kingsville,AT&T Mobility LLC
+593,107.77.72.36,Texas,Beaumont,AT&T Mobility LLC
+594,107.77.100.48,Texas,San Antonio,AT&T Mobility LLC
+595,107.77.105.126,Texas,Kingsville,AT&T Mobility LLC
+596,172.58.102.236,Florida,Clearwater,T-Mobile USA Inc.
+597,172.58.70.163,Oklahoma,Oklahoma City,T-Mobile USA Inc.
+598,209.12.105.54,Texas,San Antonio,Xspedius Communications Co.
+599,173.149.192.150,Texas,Houston,Sprint Communications Inc.
+600,71.40.81.37,Texas,Austin,Gran Hyatt Hotel
+601,24.160.135.99,Texas,San Antonio,Charter Communications Inc
+602,107.77.105.92,Texas,Kingsville,AT&T Mobility LLC
+603,174.255.154.236,Texas,Waco,Verizon Wireless
+604,71.78.217.82,Texas,San Antonio,Charter Communications Inc
+605,64.134.26.193,Texas,Austin,Wayport Inc.
+606,173.255.139.216,Texas,Dallas,Hosting Services Inc.
+607,216.177.189.26,Texas,Gonzales,GVTC-Dialup Dynamic Pool
+608,24.54.124.11,Texas,Granite Shoals,Northland Cable Television Inc.
+609,75.1.128.18,Texas,San Antonio,AT&T Corp.
+610,108.249.226.232,Texas,El Paso,AT&T Corp.
+611,67.44.176.135,Florida,Bonifay,Hughes Network Systems LLC-ON
+612,72.181.37.22,Texas,Laguna Vista,Charter Communications Inc
+613,185.151.12.242,Pennsylvania,Springs,Vital Network Group LLC
+614,107.77.100.108,Texas,San Antonio,AT&T Mobility LLC
+615,70.120.24.167,Texas,San Antonio,Charter Communications Inc
+616,137.242.1.128,Texas,San Antonio,Air Force Systems Networking
+617,209.12.105.53,Texas,San Antonio,Xspedius Communications Co.
+618,172.58.99.22,Texas,Houston,T-Mobile USA Inc.
+619,71.78.67.37,Texas,San Antonio,Charter Communications Inc
+620,107.77.80.20,Texas,San Antonio,AT&T Mobility LLC
+621,8.31.0.128,Pennsylvania,Bala Cynwyd,HWC Cable
+622,72.177.116.71,Texas,Fredericksburg,Charter Communications Inc
+623,174.255.155.223,Florida,Fort Lauderdale,Verizon Wireless
+624,104.219.136.53,Texas,San Antonio,Rock Solid Internet & Telephone
+625,99.27.139.172,Texas,San Antonio,AT&T Corp.
+626,107.77.66.26,Texas,Sugar Land,AT&T Mobility LLC
+627,107.204.50.101,Texas,San Antonio,AT&T Corp.
+628,97.105.19.58,Texas,San Antonio,Codeup LLC
+629,172.58.70.191,Oklahoma,Oklahoma City,T-Mobile USA Inc.
+630,107.77.80.57,Texas,San Antonio,AT&T Mobility LLC
+631,75.1.166.50,Texas,San Antonio,AT&T Corp.
+632,172.58.111.172,Texas,Austin,T-Mobile USA Inc.
+633,199.59.33.125,Texas,San Antonio,HEB Grocery Company LP
+634,12.131.8.222,Texas,San Antonio,Liquid Web Inc.
+635,167.24.24.150,Texas,San Antonio,USAA
+636,98.6.75.74,Texas,Plano,Varco Venture X-5 LLC
+637,12.27.152.137,Texas,San Antonio,United Services Automobi
+638,136.50.0.214,Texas,San Antonio,Google Fiber Inc.
+639,184.169.45.4,Illinois,Northfield,Row 44 Inc.
+640,98.6.222.42,Texas,San Antonio,Beldon Roofing
+641,107.77.105.75,Texas,Kingsville,AT&T Mobility LLC
+642,173.123.212.81,Texas,Houston,Sprint Communications Inc.
+643,166.137.136.55,Texas,Tyler,AT&T Mobility LLC
+644,66.3.38.202,Texas,Georgetown,Verizon Communications Inc.
+645,98.6.99.131,Texas,San Antonio,Starbucks
+646,104.237.80.81,Texas,Dallas,Micfo LLC.
+647,173.239.232.97,Texas,Plano,North American Cable Television and Internet LLC
+648,173.174.244.161,Texas,San Antonio,Charter Communications Inc
+649,107.77.100.46,Texas,San Antonio,AT&T Mobility LLC
+650,148.59.156.46,Texas,San Antonio,Celltex Networks LLC
+651,70.121.185.2,Texas,San Antonio,Charter Communications Inc
+652,66.3.38.170,Texas,Georgetown,Verizon Communications Inc.
+653,70.120.3.242,Texas,San Antonio,Charter Communications Inc
+654,173.239.232.141,Texas,Plano,North American Cable Television and Internet LLC
+655,137.254.7.178,California,Belmont,Oracle Corporation
+656,104.237.80.107,Texas,Dallas,Micfo LLC.
+657,70.120.230.205,Texas,El Paso,Charter Communications Inc
+658,104.237.80.34,Texas,Dallas,Micfo LLC.
+659,104.237.80.102,Texas,Dallas,Micfo LLC.
+660,72.190.161.136,Texas,San Antonio,Charter Communications Inc
+661,108.253.53.1,Texas,San Antonio,AT&T Corp.
+662,173.239.232.35,Texas,Plano,North American Cable Television and Internet LLC
+663,72.177.171.217,Texas,San Antonio,Charter Communications Inc
+664,66.25.164.171,Texas,San Antonio,Charter Communications Inc
+665,72.48.66.216,Texas,San Antonio,Grande Communications San Antonio Hub
+666,173.175.122.123,Texas,San Antonio,Charter Communications Inc
+667,66.25.80.16,Texas,San Antonio,Charter Communications Inc
+668,173.239.232.174,Texas,Plano,North American Cable Television and Internet LLC
+669,104.237.80.12,Texas,Dallas,Micfo LLC.
+670,70.125.144.209,Texas,San Antonio,Charter Communications Inc
+671,108.73.55.208,Texas,San Antonio,AT&T Corp.
+672,64.250.9.218,Texas,San Antonio,Gvec.net Inc.
+673,173.239.232.76,Texas,Plano,North American Cable Television and Internet LLC
+674,107.77.72.49,Texas,Beaumont,AT&T Mobility LLC
+675,99.33.48.253,Texas,San Antonio,AT&T Corp.
+676,107.135.88.8,Texas,San Antonio,AT&T Corp.
+677,173.174.218.183,Texas,San Antonio,Charter Communications Inc
+678,173.239.232.92,Texas,Plano,North American Cable Television and Internet LLC
+679,173.239.232.28,Texas,Plano,North American Cable Television and Internet LLC
+680,208.73.111.171,Maryland,Rockville,Accenture
+681,104.237.80.44,Texas,Dallas,Micfo LLC.
+682,192.67.54.12,Texas,Pleasanton,Randolph-Brooks Federal Credit Union
+683,173.239.232.22,Texas,Plano,North American Cable Television and Internet LLC
+684,99.203.90.71,Texas,Houston,Sprint Communications Inc.
+685,104.237.80.105,Texas,Dallas,Micfo LLC.
+686,67.79.43.254,Texas,Mission,Charter Communications Inc
+687,104.237.80.120,Texas,Dallas,Micfo LLC.
+688,173.239.232.106,Texas,Plano,North American Cable Television and Internet LLC
+689,104.237.80.51,Texas,Dallas,Micfo LLC.
+690,107.77.66.121,Texas,Sugar Land,AT&T Mobility LLC
+691,99.52.75.127,Texas,San Antonio,AT&T Corp.
+692,107.77.80.91,Texas,San Antonio,AT&T Mobility LLC
+693,173.239.232.128,Texas,Plano,North American Cable Television and Internet LLC
+694,104.1.46.153,Texas,San Antonio,AT&T Corp.
+695,104.237.80.141,Texas,Dallas,Micfo LLC.
+696,107.77.100.109,Texas,San Antonio,AT&T Mobility LLC
+697,104.237.80.68,Texas,Dallas,Micfo LLC.
+698,104.237.80.15,Texas,Dallas,Micfo LLC.
+699,104.237.80.59,Texas,Dallas,Micfo LLC.
+700,24.26.249.169,Texas,San Antonio,Charter Communications Inc
+701,70.122.250.222,Texas,Arlington,Charter Communications Inc
+702,64.233.172.173,California,Mountain View,Google LLC
+703,64.233.172.171,California,Mountain View,Google LLC
+704,64.233.172.169,California,Mountain View,Google LLC
+705,172.58.111.180,Texas,Austin,T-Mobile USA Inc.
+706,70.125.138.191,Texas,San Antonio,Charter Communications Inc
+707,173.239.240.116,Illinois,Elk Grove Village,North American Cable Television and Internet LLC
+708,172.127.185.99,Texas,San Antonio,AT&T Corp.
+709,107.207.1.245,Texas,San Antonio,AT&T Corp.
+710,99.154.136.190,Washington,Redmond,Diana Cole
+711,107.77.100.60,Texas,San Antonio,AT&T Mobility LLC
+712,66.25.171.4,Texas,San Antonio,Charter Communications Inc
+713,107.77.66.115,Texas,Sugar Land,AT&T Mobility LLC
+714,66.25.163.226,Texas,San Antonio,Charter Communications Inc
+715,173.239.240.49,Illinois,Elk Grove Village,North American Cable Television and Internet LLC
+716,104.237.80.38,Texas,Dallas,Micfo LLC.
+717,104.237.80.147,Texas,Dallas,Micfo LLC.
+718,104.237.80.77,Texas,Dallas,Micfo LLC.
+719,104.237.80.108,Texas,Dallas,Micfo LLC.
+720,97.79.234.116,Texas,San Antonio,Starbucks
+721,72.179.173.100,Texas,San Antonio,Charter Communications Inc
+722,107.77.80.76,Texas,San Antonio,AT&T Mobility LLC
+723,172.58.109.6,New Mexico,Albuquerque,T-Mobile USA Inc.
+724,173.239.232.172,Texas,Plano,North American Cable Television and Internet LLC
+725,172.58.96.229,Texas,Houston,T-Mobile USA Inc.
+726,137.254.7.165,California,Belmont,Oracle Corporation
+727,104.237.80.109,Texas,Dallas,Micfo LLC.
+728,72.177.174.171,Texas,San Antonio,Charter Communications Inc
+729,173.239.232.46,Texas,Plano,North American Cable Television and Internet LLC
+730,71.42.245.250,Texas,San Antonio,Columbia Industries
+731,173.239.232.89,Texas,Plano,North American Cable Television and Internet LLC
+732,104.237.80.151,Texas,Dallas,Micfo LLC.
+733,104.237.80.106,Texas,Dallas,Micfo LLC.
+734,104.237.80.36,Texas,Dallas,Micfo LLC.
+735,104.237.80.16,Texas,Dallas,Micfo LLC.
+736,173.239.232.8,Texas,Plano,North American Cable Television and Internet LLC
+737,173.239.232.146,Texas,Plano,North American Cable Television and Internet LLC
+738,72.48.254.209,Texas,San Antonio,Grande Communications San Antonio
+739,173.239.232.94,Texas,Plano,North American Cable Television and Internet LLC
+740,104.237.80.57,Texas,Dallas,Micfo LLC.
+741,173.239.232.5,Texas,Plano,North American Cable Television and Internet LLC
+742,107.77.80.29,Texas,San Antonio,AT&T Mobility LLC
+743,173.239.232.61,Texas,Plano,North American Cable Television and Internet LLC
+744,104.237.80.167,Texas,Dallas,Micfo LLC.
+745,70.94.164.72,Texas,San Antonio,Charter Communications Inc
+746,173.239.232.113,Texas,Plano,North American Cable Television and Internet LLC
+747,173.239.232.98,Texas,Plano,North American Cable Television and Internet LLC
+748,72.181.117.243,Texas,San Antonio,Charter Communications Inc
+749,173.239.232.47,Texas,Plano,North American Cable Television and Internet LLC
+750,107.77.100.18,Texas,San Antonio,AT&T Mobility LLC
+751,104.191.11.147,Texas,San Antonio,AT&T Corp.
+752,97.98.85.151,Texas,Corpus Christi,Charter Communications Inc
+753,173.239.232.95,Texas,Plano,North American Cable Television and Internet LLC
+754,66.69.37.36,Texas,San Antonio,Charter Communications Inc
+755,69.166.71.6,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+756,71.41.8.13,Texas,San Antonio,Starbucks
+757,12.71.182.66,Texas,San Antonio,LabcorpAttn IT Finance
+758,47.218.185.241,Texas,Bryan,Suddenlink Communications
+759,107.77.100.128,Texas,San Antonio,AT&T Mobility LLC
+760,165.91.13.35,Texas,Austin,Texas A&M University
+761,173.174.212.111,Texas,San Antonio,Charter Communications Inc
+762,173.239.232.49,Texas,Plano,North American Cable Television and Internet LLC
+763,162.72.2.198,Arkansas,Monticello,Viasat Inc.
+764,107.77.220.11,Texas,Houston,AT&T Mobility LLC
+765,104.237.80.53,Texas,Dallas,Micfo LLC.
+766,104.237.80.150,Texas,Dallas,Micfo LLC.
+767,173.239.232.149,Texas,Plano,North American Cable Television and Internet LLC
+768,173.239.232.99,Texas,Plano,North American Cable Television and Internet LLC
+769,104.237.80.157,Texas,Dallas,Micfo LLC.
+770,137.254.7.172,California,Belmont,Oracle Corporation
+771,104.237.80.21,Texas,Dallas,Micfo LLC.
+772,104.237.80.24,Texas,Dallas,Micfo LLC.
+773,107.77.220.190,Texas,Houston,AT&T Mobility LLC
+774,107.77.221.108,Texas,Corpus Christi,AT&T Mobility LLC
+775,104.237.80.114,Texas,Dallas,Micfo LLC.
+776,67.11.100.255,Texas,San Antonio,Charter Communications Inc
+777,173.239.232.120,Texas,Plano,North American Cable Television and Internet LLC
+778,104.237.80.93,Texas,Dallas,Micfo LLC.
+779,104.237.80.88,Texas,Dallas,Micfo LLC.
+780,162.195.148.122,Texas,San Antonio,AT&T Corp.
+781,173.239.232.103,Texas,Plano,North American Cable Television and Internet LLC
+782,104.237.80.158,Texas,Dallas,Micfo LLC.
+783,173.173.121.51,Texas,San Antonio,Charter Communications Inc
+784,199.59.33.126,Texas,San Antonio,HEB Grocery Company LP
+785,173.239.232.142,Texas,Plano,North American Cable Television and Internet LLC
+786,104.237.80.31,Texas,Dallas,Micfo LLC.
+787,107.77.218.225,Texas,San Antonio,AT&T Mobility LLC
+788,172.58.67.207,Texas,Mission,T-Mobile USA Inc.
+789,72.179.184.241,Texas,San Antonio,Charter Communications Inc
+790,174.255.145.205,Texas,Grapevine,Verizon Wireless
+791,174.255.137.57,Oklahoma,Ponca City,Verizon Wireless
+792,72.181.33.132,Texas,Laguna Vista,Charter Communications Inc
+793,172.58.99.179,Texas,Houston,T-Mobile USA Inc.
+794,173.175.82.174,Texas,Corpus Christi,Charter Communications Inc
+795,67.10.163.140,Texas,San Antonio,Charter Communications Inc
+796,70.94.153.55,Texas,Universal City,Charter Communications Inc
+797,67.10.174.56,Texas,San Antonio,Charter Communications Inc
+798,107.77.218.190,Texas,San Antonio,AT&T Mobility LLC
+799,107.77.218.37,Texas,San Antonio,AT&T Mobility LLC
+800,162.245.202.3,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+801,107.77.221.157,Texas,Corpus Christi,AT&T Mobility LLC
+802,173.239.232.45,Texas,Plano,North American Cable Television and Internet LLC
+803,173.239.232.144,Texas,Plano,North American Cable Television and Internet LLC
+804,104.237.80.119,Texas,Dallas,Micfo LLC.
+805,70.117.71.59,Texas,San Antonio,Charter Communications Inc
+806,104.237.80.48,Texas,Dallas,Micfo LLC.
+807,173.239.232.20,Texas,Plano,North American Cable Television and Internet LLC
+808,104.237.80.144,Texas,Dallas,Micfo LLC.
+809,104.237.80.111,Texas,Dallas,Micfo LLC.
+810,99.203.154.58,Texas,Houston,Sprint Communications Inc.
+811,196.52.2.25,New York,New York City,LogicWeb Inc
+812,196.52.2.71,New York,New York City,LogicWeb Inc
+813,104.237.80.55,Texas,Dallas,Micfo LLC.
+814,196.52.2.59,New York,New York City,LogicWeb Inc
+815,172.58.109.83,New Mexico,Albuquerque,T-Mobile USA Inc.
+816,107.77.221.191,Texas,Corpus Christi,AT&T Mobility LLC
+817,99.203.27.126,Texas,Houston,Sprint Communications Inc.
+818,173.239.232.170,Texas,Plano,North American Cable Television and Internet LLC
+819,104.237.80.117,Texas,Dallas,Micfo LLC.
+820,104.237.80.40,Texas,Dallas,Micfo LLC.
+821,45.30.141.87,Texas,San Antonio,AT&T Corp.
+822,173.239.232.129,Texas,Plano,North American Cable Television and Internet LLC
+823,104.237.80.10,Texas,Dallas,Micfo LLC.
+824,67.79.223.235,Texas,San Antonio,Starbucks
+825,107.77.220.95,Texas,Houston,AT&T Mobility LLC
+826,173.239.232.29,Texas,Plano,North American Cable Television and Internet LLC
+827,167.24.104.150,Georgia,Roswell,USAA
+828,173.239.232.139,Texas,Plano,North American Cable Television and Internet LLC
+829,173.239.232.143,Texas,Plano,North American Cable Television and Internet LLC
+830,137.254.7.174,California,Belmont,Oracle Corporation
+831,173.239.198.246,California,San Francisco,VPN Consumer Network
+832,107.77.222.63,Texas,San Antonio,AT&T Mobility LLC
+833,173.239.232.157,Texas,Plano,North American Cable Television and Internet LLC
+834,104.15.39.87,Texas,San Antonio,AT&T Corp.
+835,137.254.7.184,California,Belmont,Oracle Corporation
+836,173.239.232.152,Texas,Plano,North American Cable Television and Internet LLC
+837,174.255.148.28,Arkansas,Russellville,Verizon Wireless
+838,173.239.232.140,Texas,Plano,North American Cable Television and Internet LLC
+839,172.58.67.38,Texas,Mission,T-Mobile USA Inc.
+840,24.214.254.251,Florida,Clearwater,Knology Inc.
+841,24.214.254.244,Florida,Clearwater,Knology Inc.
+842,107.77.221.152,Texas,Corpus Christi,AT&T Mobility LLC
+843,107.77.221.127,Texas,Corpus Christi,AT&T Mobility LLC
+844,184.203.184.92,Arizona,Phoenix,Sprint Communications Inc.
+845,172.58.67.77,Texas,Mission,T-Mobile USA Inc.
+846,173.239.198.250,California,San Francisco,VPN Consumer Network
+847,173.239.198.230,California,San Francisco,VPN Consumer Network
+848,173.239.232.75,Texas,Plano,North American Cable Television and Internet LLC
+849,173.239.232.85,Texas,Plano,North American Cable Television and Internet LLC
+850,136.62.18.97,Texas,Austin,Google Fiber Inc.
+851,104.143.92.81,New York,New York City,VPN Consumer Network
+852,173.239.232.167,Texas,Plano,North American Cable Television and Internet LLC
+853,173.239.232.109,Texas,Plano,North American Cable Television and Internet LLC
+854,66.69.10.7,Texas,San Antonio,Charter Communications Inc
+855,173.239.232.84,Texas,Plano,North American Cable Television and Internet LLC
+856,173.239.232.11,Texas,Plano,North American Cable Television and Internet LLC
+857,173.239.198.173,California,San Francisco,VPN Consumer Network
+858,173.239.232.55,Texas,Plano,North American Cable Television and Internet LLC
+859,173.239.232.42,Texas,Plano,North American Cable Television and Internet LLC
+860,104.143.92.30,New York,New York City,VPN Consumer Network
+861,173.239.232.161,Texas,Plano,North American Cable Television and Internet LLC
+862,104.143.92.53,New York,New York City,VPN Consumer Network
+863,71.78.46.154,Texas,San Antonio,Chroma
+864,174.255.134.225,Texas,Dallas,Verizon Wireless
+865,72.190.232.108,Texas,San Antonio,Charter Communications Inc
+866,107.77.219.175,Texas,Houston,AT&T Mobility LLC
+867,172.56.6.37,Oklahoma,Jay,T-Mobile USA Inc.
+868,104.237.80.58,Texas,Dallas,Micfo LLC.
+869,72.181.105.69,Texas,San Antonio,Charter Communications Inc
+870,166.251.109.229,Texas,San Antonio,Wireless Data Service Provider Corporation
+871,107.77.217.21,Texas,Houston,AT&T Mobility LLC
+872,70.117.13.185,Texas,San Antonio,Charter Communications Inc
+873,136.62.157.140,Texas,Austin,Google Fiber Inc.
+874,137.254.7.173,California,Belmont,Oracle Corporation
+875,104.237.80.136,Texas,Dallas,Micfo LLC.
+876,104.237.80.98,Texas,Dallas,Micfo LLC.
+877,107.77.220.215,Texas,Houston,AT&T Mobility LLC
+878,104.237.80.39,Texas,Dallas,Micfo LLC.
+879,107.77.210.31,Minnesota,Hinckley,AT&T Mobility LLC
+880,172.56.6.71,Oklahoma,Jay,T-Mobile USA Inc.
+881,174.255.146.154,Texas,Paris,Verizon Wireless
+882,71.136.252.51,Texas,San Antonio,AT&T Corp.
+883,67.79.232.243,Texas,San Antonio,Freetail Brewing Co
+884,24.26.248.56,Texas,San Antonio,Charter Communications Inc
+885,72.191.33.138,Texas,Irving,Charter Communications Inc
+886,104.237.80.140,Texas,Dallas,Micfo LLC.
+887,40.128.78.90,Pennsylvania,Lancaster,Windstream Communications LLC
+888,104.237.80.135,Texas,Dallas,Micfo LLC.
+889,209.92.162.135,Illinois,Chicago,Windstream Communications LLC
+890,107.77.220.108,Texas,Houston,AT&T Mobility LLC
+891,104.237.80.11,Texas,Dallas,Micfo LLC.
+892,104.237.80.87,Texas,Dallas,Micfo LLC.
+893,71.42.116.142,Texas,San Antonio,Charter Communications Inc
+894,104.237.80.25,Texas,Dallas,Micfo LLC.
+895,174.255.134.83,Texas,Dallas,Verizon Wireless
+896,107.77.218.26,Texas,San Antonio,AT&T Mobility LLC
+897,72.181.96.144,Texas,San Antonio,Charter Communications Inc
+898,104.237.80.70,Texas,Dallas,Micfo LLC.
+899,172.56.6.36,Oklahoma,Jay,T-Mobile USA Inc.
+900,104.237.80.41,Texas,Dallas,Micfo LLC.
+901,198.96.95.149,Texas,Dallas,QuadraNet Inc
+902,23.24.208.203,California,Pleasanton,Starbucks Level
+903,198.55.125.205,Texas,Dallas,QuadraNet Inc
+904,107.77.169.3,Texas,Houston,AT&T Mobility LLC
+905,104.237.80.75,Texas,Dallas,Micfo LLC.
+906,4.34.182.238,Texas,San Marcos,Level 3 Communications Inc.
+907,71.198.180.6,California,Berkeley,Comcast Cable Communications LLC
+908,72.181.99.110,Texas,San Antonio,Charter Communications Inc
+909,172.56.6.77,Oklahoma,Jay,T-Mobile USA Inc.
+910,99.203.91.97,Texas,Houston,Sprint Communications Inc.
+911,104.237.80.83,Texas,Dallas,Micfo LLC.
+912,172.56.7.119,Texas,Waxahachie,T-Mobile USA Inc.
+913,172.56.7.90,Texas,Waxahachie,T-Mobile USA Inc.
+914,148.66.37.55,Texas,San Antonio,Jump Fiber
+915,172.56.7.58,Texas,Waxahachie,T-Mobile USA Inc.
+916,67.142.235.252,Nevada,Reno,Hughes Network Systems LLC-ON
+917,199.116.118.132,California,San Jose,Total Server Solutions L.L.C.
+918,199.116.118.166,California,San Jose,Total Server Solutions L.L.C.
+919,173.127.47.45,Texas,Houston,Sprint Communications Inc.
+920,173.149.159.126,Texas,Houston,Sprint Communications Inc.
+921,172.58.67.210,Texas,Mission,T-Mobile USA Inc.
+922,172.58.109.109,New Mexico,Albuquerque,T-Mobile USA Inc.
+923,172.58.99.207,Texas,Houston,T-Mobile USA Inc.
+924,184.203.236.132,Arizona,Phoenix,Sprint Communications Inc.
+925,172.56.6.112,Oklahoma,Jay,T-Mobile USA Inc.
+926,99.203.26.253,Texas,Houston,Sprint Communications Inc.
+927,173.239.232.125,Texas,Plano,North American Cable Television and Internet LLC
+928,69.12.94.123,Texas,Dallas,QuadraNet Inc
+929,104.129.18.241,Georgia,Atlanta,QuadraNet Inc
+930,155.94.250.100,Texas,Dallas,QuadraNet Inc
+931,72.128.154.189,Texas,San Antonio,Cosential
+932,173.239.232.67,Texas,Plano,North American Cable Television and Internet LLC
+933,107.77.221.151,Texas,Corpus Christi,AT&T Mobility LLC
+934,107.77.219.202,Texas,Houston,AT&T Mobility LLC
+935,45.20.117.182,Texas,San Antonio,AT&T Corp.
+936,173.239.232.33,Texas,Plano,North American Cable Television and Internet LLC
+937,107.77.221.115,Texas,Corpus Christi,AT&T Mobility LLC
+938,173.239.232.104,Texas,Plano,North American Cable Television and Internet LLC
+939,70.123.215.59,Texas,San Antonio,Charter Communications Inc
+940,173.239.232.77,Texas,Plano,North American Cable Television and Internet LLC
+941,173.239.232.164,Texas,Plano,North American Cable Television and Internet LLC
+942,173.239.232.160,Texas,Plano,North American Cable Television and Internet LLC
+943,107.77.217.54,Texas,Houston,AT&T Mobility LLC
+944,70.120.49.220,Texas,San Antonio,Charter Communications Inc
+945,45.56.151.79,New York,New York City,VPN Consumer Network
+946,45.56.151.93,New York,New York City,VPN Consumer Network
+947,107.77.218.110,Texas,San Antonio,AT&T Mobility LLC
+948,45.56.151.99,New York,New York City,VPN Consumer Network
+949,173.239.232.114,Texas,Plano,North American Cable Television and Internet LLC
+950,173.239.232.51,Texas,Plano,North American Cable Television and Internet LLC
+951,45.56.151.117,New York,New York City,VPN Consumer Network
+952,173.239.232.115,Texas,Plano,North American Cable Television and Internet LLC
+953,173.239.232.56,Texas,Plano,North American Cable Television and Internet LLC
+954,172.56.7.199,Texas,Waxahachie,T-Mobile USA Inc.
+955,70.94.144.103,Texas,Grand Prairie,Charter Communications Inc
+956,173.239.232.176,Texas,Plano,North American Cable Television and Internet LLC
+957,173.239.232.48,Texas,Plano,North American Cable Television and Internet LLC
+958,172.58.102.174,Florida,Clearwater,T-Mobile USA Inc.
+959,172.58.99.70,Texas,Houston,T-Mobile USA Inc.
+960,172.58.99.172,Texas,Houston,T-Mobile USA Inc.
+961,173.239.232.91,Texas,Plano,North American Cable Television and Internet LLC
+962,172.58.99.69,Texas,Houston,T-Mobile USA Inc.
+963,173.239.232.31,Texas,Plano,North American Cable Television and Internet LLC
+964,173.239.232.82,Texas,Plano,North American Cable Television and Internet LLC
+965,45.56.151.44,New York,New York City,VPN Consumer Network
+966,173.239.232.60,Texas,Plano,North American Cable Television and Internet LLC
+967,99.132.130.214,Texas,San Antonio,AT&T Corp.
+968,173.239.232.72,Texas,Plano,North American Cable Television and Internet LLC
+969,45.56.151.121,New York,New York City,VPN Consumer Network
+970,172.58.111.213,Texas,Austin,T-Mobile USA Inc.
+971,172.56.7.23,Texas,Waxahachie,T-Mobile USA Inc.
+972,172.58.99.241,Texas,Houston,T-Mobile USA Inc.
+973,172.58.99.178,Texas,Houston,T-Mobile USA Inc.
+974,208.54.86.224,Texas,Dallas,T-Mobile USA Inc.
+975,172.56.7.25,Texas,Waxahachie,T-Mobile USA Inc.
+976,172.58.99.67,Texas,Houston,T-Mobile USA Inc.
+977,172.58.68.245,Kansas,Derby,T-Mobile USA Inc.
+978,107.77.220.227,Texas,Houston,AT&T Mobility LLC
+979,66.136.56.254,Texas,Plano,Wayland Baptist University
+980,72.190.182.108,Texas,San Antonio,Charter Communications Inc
+981,72.181.100.92,Texas,San Antonio,Charter Communications Inc
+982,173.239.232.119,Texas,Plano,North American Cable Television and Internet LLC
+983,107.77.220.203,Texas,Houston,AT&T Mobility LLC
+984,96.46.160.20,Texas,Converse,Texas A&M University San Antonio
+985,99.203.212.171,Texas,Houston,Sprint Communications Inc.
+986,173.239.232.50,Texas,Plano,North American Cable Television and Internet LLC
+987,107.77.169.4,Texas,Houston,AT&T Mobility LLC
+988,173.239.232.10,Texas,Plano,North American Cable Television and Internet LLC
+989,173.239.232.21,Texas,Plano,North American Cable Television and Internet LLC
+990,131.44.121.129,Texas,Lake Jackson,Air Force Systems Networking
+991,72.48.1.140,Texas,San Antonio,Grande Communications San Antonio Hub
+992,173.239.232.137,Texas,Plano,North American Cable Television and Internet LLC
+993,66.69.6.234,Texas,San Antonio,Charter Communications Inc
+994,218.186.46.251,Singapore,Singapore,StarHub Cable Vision Ltd
+995,172.56.7.113,Texas,Waxahachie,T-Mobile USA Inc.
+996,174.255.136.80,Arkansas,El Dorado,Verizon Wireless
+997,205.251.148.162,Texas,Spring,Network Transit Holdings LLC
+998,205.251.148.154,Texas,Spring,Network Transit Holdings LLC
+999,205.251.148.146,Texas,Spring,Network Transit Holdings LLC
+1000,107.77.217.65,Texas,Houston,AT&T Mobility LLC
+1001,70.123.162.206,Texas,San Antonio,Charter Communications Inc
+1002,108.93.12.131,Texas,San Antonio,AT&T Corp.
+1003,205.251.148.98,Texas,Spring,Network Transit Holdings LLC
+1004,205.251.150.234,Texas,Spring,Network Transit Holdings LLC
+1005,99.203.91.76,Texas,Houston,Sprint Communications Inc.
+1006,199.116.115.137,Illinois,Chicago,Total Server Solutions L.L.C.
+1007,45.56.151.110,New York,New York City,VPN Consumer Network
+1008,45.56.151.8,New York,New York City,VPN Consumer Network
+1009,107.77.220.86,Texas,Houston,AT&T Mobility LLC
+1010,172.56.7.28,Texas,Waxahachie,T-Mobile USA Inc.
+1011,199.116.115.142,Illinois,Chicago,Total Server Solutions L.L.C.
+1012,99.203.90.248,Texas,Houston,Sprint Communications Inc.
+1013,199.116.115.143,Illinois,Chicago,Total Server Solutions L.L.C.
+1014,199.116.115.131,Illinois,Chicago,Total Server Solutions L.L.C.
+1015,199.116.115.130,Illinois,Chicago,Total Server Solutions L.L.C.
+1016,76.204.31.63,Texas,San Antonio,AT&T Corp.
+1017,173.174.199.207,Texas,San Antonio,Charter Communications Inc
+1018,24.160.149.87,Texas,San Antonio,Charter Communications Inc
+1019,66.69.65.3,Texas,San Antonio,Charter Communications Inc
+1020,107.77.173.9,Minnesota,Bigfork,AT&T Mobility LLC
+1021,45.56.151.75,New York,New York City,VPN Consumer Network
+1022,199.116.115.147,Illinois,Chicago,Total Server Solutions L.L.C.
+1023,75.54.32.9,Texas,San Antonio,Alamo Community College District
+1024,45.56.151.7,New York,New York City,VPN Consumer Network
+1025,172.58.109.183,New Mexico,Albuquerque,T-Mobile USA Inc.
+1026,199.193.220.106,Texas,San Antonio,Aethernet LLC
+1027,107.242.113.6,Colorado,Greenwood Village,AT&T Mobility LLC
+1028,72.181.124.244,Texas,San Antonio,Charter Communications Inc
+1029,173.173.101.207,Texas,San Antonio,Charter Communications Inc
+1030,173.174.253.193,Texas,San Antonio,Charter Communications Inc
+1031,45.56.151.50,New York,New York City,VPN Consumer Network
+1032,75.54.32.20,Texas,San Antonio,Alamo Community College District
+1033,173.239.232.53,Texas,Plano,North American Cable Television and Internet LLC
+1034,64.183.206.122,Texas,San Antonio,Charter Communications Inc
+1035,75.54.32.19,Texas,San Antonio,Alamo Community College District
+1036,66.69.60.109,Texas,San Antonio,Charter Communications Inc
+1037,67.10.183.5,Texas,Leon Valley,Charter Communications Inc
+1038,173.239.232.168,Texas,Plano,North American Cable Television and Internet LLC
+1039,107.77.217.233,Texas,Houston,AT&T Mobility LLC
+1040,24.243.8.81,Texas,San Antonio,Charter Communications Inc
+1041,173.239.232.134,Texas,Plano,North American Cable Television and Internet LLC
+1042,66.69.54.140,Texas,San Antonio,Charter Communications Inc
+1043,173.174.233.67,Texas,San Antonio,Charter Communications Inc
+1044,207.119.61.55,Texas,Corinth,CenturyLink Communications LLC
+1045,24.160.9.56,Texas,Universal City,Charter Communications Inc
+1046,173.239.232.122,Texas,Plano,North American Cable Television and Internet LLC
+1047,173.174.217.236,Texas,San Antonio,Charter Communications Inc
+1048,24.243.58.62,Texas,San Antonio,Charter Communications Inc
+1049,173.239.232.145,Texas,Plano,North American Cable Television and Internet LLC
+1050,50.84.194.42,Texas,San Antonio,Sweb Development
+1051,173.239.232.107,Texas,Plano,North American Cable Television and Internet LLC
+1052,96.8.139.196,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+1053,72.179.181.247,Texas,San Antonio,Charter Communications Inc
+1054,24.243.40.41,Texas,Universal City,Charter Communications Inc
+1055,67.11.239.2,Texas,San Antonio,Charter Communications Inc
+1056,66.25.175.197,Texas,San Antonio,Charter Communications Inc
+1057,173.239.232.54,Texas,Plano,North American Cable Television and Internet LLC
+1058,54.172.8.62,Virginia,Ashburn,Amazon Technologies Inc.
+1059,97.98.108.135,Texas,Corpus Christi,Charter Communications Inc
+1060,67.11.215.97,Texas,San Antonio,Charter Communications Inc
+1061,107.85.80.73,North Carolina,Mount Airy,AT&T Mobility LLC
+1062,207.119.3.121,Texas,San Marcos,CenturyLink Communications LLC
+1063,104.63.15.53,Texas,San Antonio,AT&T Corp.
+1064,66.69.119.209,Texas,San Antonio,Charter Communications Inc
+1065,173.239.232.66,Texas,Plano,North American Cable Television and Internet LLC
+1066,172.56.6.54,Oklahoma,Jay,T-Mobile USA Inc.
+1067,52.45.96.252,Virginia,Ashburn,Amazon Technologies Inc.
+1068,172.56.7.144,Texas,Waxahachie,T-Mobile USA Inc.
+1069,173.239.232.78,Texas,Plano,North American Cable Television and Internet LLC
+1070,107.77.221.72,Texas,Corpus Christi,AT&T Mobility LLC
+1071,173.239.232.71,Texas,Plano,North American Cable Television and Internet LLC
+1072,12.131.8.218,Texas,San Antonio,Liquid Web Inc.
+1073,107.77.218.35,Texas,San Antonio,AT&T Mobility LLC
+1074,173.239.232.163,Texas,Plano,North American Cable Television and Internet LLC
+1075,173.239.232.32,Texas,Plano,North American Cable Television and Internet LLC
+1076,131.44.121.128,Texas,Lake Jackson,Air Force Systems Networking
+1077,173.239.232.100,Texas,Plano,North American Cable Television and Internet LLC
+1078,40.132.252.74,Texas,San Antonio,Windstream Communications LLC
+1079,173.239.232.52,Texas,Plano,North American Cable Television and Internet LLC
+1080,173.239.232.37,Texas,Plano,North American Cable Television and Internet LLC
+1081,96.46.160.14,Texas,Converse,Texas A&M University San Antonio
+1082,173.239.232.73,Texas,Plano,North American Cable Television and Internet LLC
+1083,173.239.232.7,Texas,Plano,North American Cable Television and Internet LLC
+1084,107.77.217.9,Texas,Houston,AT&T Mobility LLC
+1085,165.91.12.128,Texas,College Station,Texas A&M University
+1086,173.239.232.173,Texas,Plano,North American Cable Television and Internet LLC
+1087,173.239.232.57,Texas,Plano,North American Cable Television and Internet LLC
+1088,173.239.232.124,Texas,Plano,North American Cable Television and Internet LLC
+1089,137.254.7.169,California,Belmont,Oracle Corporation
+1090,172.58.70.175,Oklahoma,Oklahoma City,T-Mobile USA Inc.
+1091,205.251.148.122,Texas,Spring,Network Transit Holdings LLC
+1092,205.251.150.146,Texas,Spring,Network Transit Holdings LLC
+1093,71.78.144.202,Texas,San Antonio,Charter Communications Inc
+1094,107.77.220.47,Texas,Houston,AT&T Mobility LLC
+1095,99.203.26.118,Texas,Houston,Sprint Communications Inc.
+1096,173.174.132.234,Texas,Universal City,Charter Communications Inc
+1097,207.119.2.249,Texas,San Marcos,CenturyLink Communications LLC
+1098,73.76.225.232,Texas,Sugar Land,Comcast Cable Communications LLC
+1099,73.115.127.168,Texas,Houston,Comcast Cable Communications LLC
+1100,173.239.232.131,Texas,Plano,North American Cable Television and Internet LLC
+1101,172.58.67.65,Texas,Mission,T-Mobile USA Inc.
+1102,173.239.232.80,Texas,Plano,North American Cable Television and Internet LLC
+1103,107.77.169.10,Texas,Houston,AT&T Mobility LLC
+1104,173.239.232.171,Texas,Plano,North American Cable Television and Internet LLC
+1105,173.239.232.34,Texas,Plano,North American Cable Television and Internet LLC
+1106,104.58.135.163,Texas,San Antonio,AT&T Corp.
+1107,72.177.229.125,Texas,San Antonio,Charter Communications Inc
+1108,173.239.232.44,Texas,Plano,North American Cable Television and Internet LLC
+1109,107.204.49.22,Texas,San Antonio,AT&T Corp.
+1110,172.58.111.220,Texas,Austin,T-Mobile USA Inc.
+1111,99.203.213.3,Texas,Houston,Sprint Communications Inc.
+1112,173.126.107.20,Texas,Fort Worth,Sprint Communications Inc.
+1113,173.239.232.148,Texas,Plano,North American Cable Television and Internet LLC
+1114,108.220.102.149,Texas,San Antonio,AT&T Corp.
+1115,172.58.99.200,Texas,Houston,T-Mobile USA Inc.
+1116,192.171.117.214,Texas,San Antonio,Aethernet LLC
+1117,173.239.232.154,Texas,Plano,North American Cable Television and Internet LLC
+1118,107.77.221.33,Texas,Corpus Christi,AT&T Mobility LLC
+1119,70.123.203.131,Texas,San Antonio,Charter Communications Inc
+1120,66.69.48.118,Texas,San Antonio,Charter Communications Inc
+1121,173.239.232.24,Texas,Plano,North American Cable Television and Internet LLC
+1122,172.58.99.53,Texas,Houston,T-Mobile USA Inc.
+1123,173.239.232.27,Texas,Plano,North American Cable Television and Internet LLC
+1124,173.239.232.155,Texas,Plano,North American Cable Television and Internet LLC
+1125,172.58.67.213,Texas,Mission,T-Mobile USA Inc.
+1126,172.58.99.14,Texas,Houston,T-Mobile USA Inc.
+1127,107.77.218.33,Texas,San Antonio,AT&T Mobility LLC
+1128,208.54.86.135,Texas,Dallas,T-Mobile USA Inc.
+1129,205.251.148.178,Texas,Spring,Network Transit Holdings LLC
+1130,205.251.148.130,Texas,Spring,Network Transit Holdings LLC
+1131,104.5.221.205,Texas,San Antonio,AT&T Corp.
+1132,205.251.148.82,Texas,Spring,Network Transit Holdings LLC
+1133,72.177.172.4,Texas,San Antonio,Charter Communications Inc
+1134,162.249.35.10,Texas,Harlingen,Gigabit Communications
+1135,24.26.252.42,Texas,San Antonio,Charter Communications Inc
+1136,107.77.253.1,Alabama,Birmingham,AT&T Mobility LLC
+1137,70.123.169.229,Texas,San Antonio,Charter Communications Inc
+1138,173.239.232.108,Texas,Plano,North American Cable Television and Internet LLC
+1139,173.239.232.79,Texas,Plano,North American Cable Television and Internet LLC
+1140,172.58.109.232,New Mexico,Albuquerque,T-Mobile USA Inc.
+1141,136.62.156.201,Texas,Austin,Google Fiber Inc.
+1142,99.203.212.121,Texas,Houston,Sprint Communications Inc.
+1143,50.84.78.82,Texas,San Antonio,Instructus Media Ltd.
+1144,107.77.217.182,Texas,Houston,AT&T Mobility LLC
+1145,173.239.232.127,Texas,Plano,North American Cable Television and Internet LLC
+1146,173.239.232.62,Texas,Plano,North American Cable Television and Internet LLC
+1147,24.26.232.177,Texas,San Antonio,Charter Communications Inc
+1148,136.50.0.240,Texas,San Antonio,Google Fiber Inc.
+1149,205.251.150.154,Texas,Spring,Network Transit Holdings LLC
+1150,172.58.109.48,New Mexico,Albuquerque,T-Mobile USA Inc.
+1151,173.239.232.123,Texas,Plano,North American Cable Television and Internet LLC
+1152,173.239.232.93,Texas,Plano,North American Cable Television and Internet LLC
+1153,99.203.90.253,Texas,Houston,Sprint Communications Inc.
+1154,97.105.154.139,Texas,San Antonio,Starbucks
+1155,107.77.196.213,Arkansas,Hope,AT&T Mobility LLC
+1156,96.8.180.154,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+1157,184.203.172.25,Arizona,Phoenix,Sprint Communications Inc.
+1158,172.56.6.250,Oklahoma,Jay,T-Mobile USA Inc.
+1159,208.54.86.242,Texas,Dallas,T-Mobile USA Inc.
+1160,173.239.232.166,Texas,Plano,North American Cable Television and Internet LLC
+1161,173.239.232.23,Texas,Plano,North American Cable Television and Internet LLC
+1162,173.239.232.16,Texas,Plano,North American Cable Television and Internet LLC
+1163,104.176.91.161,Texas,Eagle Pass,Flor Torres
+1164,110.78.138.179,Krung Thep Maha Nakhon,Bangkok,CAT Telecom Public Company Ltd
+1165,173.239.232.64,Texas,Plano,North American Cable Television and Internet LLC
+1166,173.239.232.74,Texas,Plano,North American Cable Television and Internet LLC
+1167,159.192.243.186,Krung Thep Maha Nakhon,Bangkok,CAT Telecom Public Company Ltd
+1168,172.58.99.99,Texas,Houston,T-Mobile USA Inc.
+1169,107.77.220.154,Texas,Houston,AT&T Mobility LLC
+1170,216.59.206.66,Texas,Richardson,Inter Trading
+1171,207.119.48.226,Texas,Dallas,CenturyLink Communications LLC
+1172,173.239.232.132,Texas,Plano,North American Cable Television and Internet LLC
+1173,174.207.7.167,Texas,Georgetown,Verizon Wireless
+1174,97.105.81.147,Texas,San Antonio,Starbucks
+1175,174.207.17.95,Texas,Odessa,Verizon Wireless
+1176,134.196.44.26,Phichit,Taphan Hin,True Internet Co. Ltd.
+1177,70.120.28.81,Texas,San Antonio,Charter Communications Inc
+1178,68.206.198.66,Texas,San Antonio,Charter Communications Inc
+1179,73.166.86.204,Texas,Houston,Comcast Cable Communications LLC
+1180,174.207.22.170,Texas,Harlingen,Verizon Wireless
+1181,66.69.111.115,Texas,San Antonio,Charter Communications Inc
+1182,174.207.5.245,Oklahoma,Guymon,Verizon Wireless
+1183,173.239.232.70,Texas,Plano,North American Cable Television and Internet LLC
+1184,173.239.232.87,Texas,Plano,North American Cable Television and Internet LLC
+1185,174.207.18.173,New Mexico,Carlsbad,Verizon Wireless
+1186,172.3.28.125,Texas,San Antonio,AT&T Corp.
+1187,174.207.11.138,Texas,Cedar Park,Verizon Wireless
+1188,136.50.28.52,Texas,San Antonio,Google Fiber Inc.
+1189,107.77.217.13,Texas,Houston,AT&T Mobility LLC
+1190,66.25.169.158,Texas,San Antonio,Charter Communications Inc
+1191,45.31.212.143,Texas,San Antonio,AT&T Corp.
+1192,24.26.251.39,Texas,San Antonio,Charter Communications Inc
+1193,107.77.222.55,Texas,San Antonio,AT&T Mobility LLC
+1194,64.250.7.235,Texas,San Antonio,Gvec.net Inc.
+1195,172.58.99.105,Texas,Houston,T-Mobile USA Inc.
+1196,108.218.193.28,Texas,San Antonio,AT&T Corp.
+1197,72.191.32.140,Texas,Irving,Charter Communications Inc
+1198,107.77.200.140,Oklahoma,Sapulpa,AT&T Mobility LLC
+1199,216.3.131.238,California,Irvine,Verizon Communications Inc.
+1200,107.77.173.2,Minnesota,Bigfork,AT&T Mobility LLC
+1201,173.239.232.102,Texas,Plano,North American Cable Television and Internet LLC
+1202,99.203.26.55,Texas,Houston,Sprint Communications Inc.
+1203,131.44.121.130,Texas,Lake Jackson,Air Force Systems Networking
+1204,70.94.165.250,Texas,San Antonio,Charter Communications Inc
+1205,24.153.217.26,Texas,San Antonio,Charter Communications Inc
+1206,72.181.106.34,Texas,San Antonio,Charter Communications Inc
+1207,107.77.219.67,Texas,Houston,AT&T Mobility LLC
+1208,69.232.100.94,Texas,San Antonio,AT&T Corp.
+1209,172.58.102.206,Florida,Clearwater,T-Mobile USA Inc.
+1210,172.58.99.225,Texas,Houston,T-Mobile USA Inc.
+1211,208.54.86.153,Texas,Dallas,T-Mobile USA Inc.
+1212,208.54.86.156,Texas,Dallas,T-Mobile USA Inc.
+1213,173.174.207.225,Texas,San Antonio,Charter Communications Inc
+1214,68.201.249.18,Texas,San Antonio,Charter Communications Inc
+1215,107.77.221.80,Texas,Corpus Christi,AT&T Mobility LLC
+1216,72.190.168.217,Texas,San Antonio,Charter Communications Inc
+1217,107.77.221.96,Texas,Corpus Christi,AT&T Mobility LLC
+1218,107.77.173.4,Minnesota,Bigfork,AT&T Mobility LLC
+1219,66.69.37.238,Texas,San Antonio,Charter Communications Inc
+1220,70.94.129.79,Texas,New Braunfels,Charter Communications Inc
+1221,72.177.174.24,Texas,San Antonio,Charter Communications Inc
+1222,99.98.36.168,Texas,San Antonio,AT&T Corp.
+1223,65.36.106.75,Texas,San Antonio,Grande Communications San Antonio Hub
+1224,173.173.104.14,Texas,San Antonio,Charter Communications Inc
+1225,136.50.20.17,Texas,San Antonio,Google Fiber Inc.
+1226,98.6.94.51,Texas,Plano,TWC Internal Spectrum
+1227,136.50.13.79,Texas,San Antonio,Google Fiber Inc.
+1228,70.121.136.246,Texas,San Antonio,Charter Communications Inc
+1229,110.78.138.254,Krung Thep Maha Nakhon,Bangkok,CAT Telecom Public Company Ltd
+1230,67.54.151.131,Texas,Conroe,Viasat Inc.
+1231,45.17.26.192,Texas,San Antonio,AT&T Corp.
+1232,99.43.106.116,Texas,San Antonio,AT&T Corp.
+1233,72.190.225.242,Texas,San Antonio,Charter Communications Inc
+1234,107.77.169.12,Texas,Houston,AT&T Mobility LLC
+1235,107.77.221.188,Texas,Corpus Christi,AT&T Mobility LLC
+1236,76.185.234.111,Texas,San Antonio,Charter Communications Inc
+1237,24.28.137.129,Texas,San Antonio,Charter Communications Inc
+1238,173.174.164.47,Texas,San Antonio,Charter Communications Inc
+1239,24.28.154.138,Texas,Leon Valley,Charter Communications Inc
+1240,99.203.155.134,Texas,Houston,Sprint Communications Inc.
+1241,184.80.232.34,Texas,San Antonio,Windstream Communications LLC
+1242,99.203.26.98,Texas,Houston,Sprint Communications Inc.
+1243,172.58.70.169,Oklahoma,Oklahoma City,T-Mobile USA Inc.
+1244,99.203.23.170,Texas,Fort Worth,Sprint Communications Inc.
+1245,173.239.232.111,Texas,Plano,North American Cable Television and Internet LLC
+1246,173.227.210.1,Florida,Ocoee,Seaworld Parks & Entertainment Inc.
+1247,64.134.149.87,Texas,Austin,Wayport Inc.
+1248,198.190.245.10,Texas,San Antonio,University Health System
+1249,108.174.85.238,Texas,Kerrville,BEC Fiber
+1250,148.59.234.86,Texas,Dallas,Micfo LLC.
+1251,76.185.237.144,Texas,San Antonio,Charter Communications Inc
+1252,24.26.235.139,Texas,San Antonio,Charter Communications Inc
+1253,172.56.14.78,Texas,Houston,T-Mobile USA Inc.
+1254,72.12.112.229,Texas,Ingram,Hill Country Telephone Cooperative Inc.
+1255,66.69.37.121,Texas,San Antonio,Charter Communications Inc
+1256,45.23.251.14,Texas,San Antonio,AT&T Corp.
+1257,99.203.27.199,Texas,Houston,Sprint Communications Inc.
+1258,45.248.77.171,Queensland,Brisbane,Host Universal Pty Ltd
+1259,172.58.70.240,Oklahoma,Oklahoma City,T-Mobile USA Inc.
+1260,75.15.245.2,Texas,San Antonio,AT&T Corp.
+1261,172.58.67.18,Texas,Mission,T-Mobile USA Inc.
+1262,173.174.211.231,Texas,San Antonio,Charter Communications Inc
+1263,172.58.102.160,Florida,Clearwater,T-Mobile USA Inc.
+1264,172.56.6.151,Oklahoma,Jay,T-Mobile USA Inc.
+1265,24.243.35.7,Texas,Universal City,Charter Communications Inc
+1266,99.203.26.115,Texas,Houston,Sprint Communications Inc.
+1267,107.77.220.42,Texas,Houston,AT&T Mobility LLC
+1268,24.242.143.6,Texas,Austin,Charter Communications Inc
+1269,173.173.96.192,Texas,San Antonio,Charter Communications Inc
+1270,206.109.5.95,Colorado,Englewood,Jab Wireless Inc.
+1271,66.25.168.113,Texas,San Antonio,Charter Communications Inc
+1272,172.56.6.240,Oklahoma,Jay,T-Mobile USA Inc.
+1273,173.239.232.126,Texas,Plano,North American Cable Television and Internet LLC
+1274,107.77.169.9,Texas,Houston,AT&T Mobility LLC
+1275,99.203.26.220,Texas,Houston,Sprint Communications Inc.
+1276,174.207.23.199,Texas,San Antonio,Verizon Wireless
+1277,107.77.217.137,Texas,Houston,AT&T Mobility LLC
+1278,110.77.182.112,Krung Thep Maha Nakhon,Bangkok,CAT Telecom Public Company Ltd
+1279,104.48.213.50,Texas,San Antonio,AT&T Corp.
+1280,173.239.232.39,Texas,Plano,North American Cable Television and Internet LLC
+1281,110.77.182.87,Krung Thep Maha Nakhon,Bangkok,CAT Telecom Public Company Ltd
+1282,24.243.20.39,Texas,San Antonio,Charter Communications Inc
+1283,66.25.167.65,Texas,San Antonio,Charter Communications Inc
+1284,73.219.222.176,Connecticut,Wallingford,Comcast Cable Communications LLC
+1285,24.173.152.222,Florida,Davenport,Charter Communications Inc
+1286,137.254.7.176,California,Belmont,Oracle Corporation
+1287,104.191.12.108,Texas,San Antonio,AT&T Corp.
+1288,99.203.90.176,Texas,Houston,Sprint Communications Inc.
+1289,104.190.249.199,Texas,San Antonio,AT&T Corp.
+1290,73.166.220.146,Texas,Houston,Comcast Cable Communications LLC
+1291,76.185.135.35,Texas,San Antonio,Charter Communications Inc
+1292,70.114.115.55,Texas,Allen,Charter Communications Inc
+1293,162.239.219.93,Texas,Houston,AT&T Corp.
+1294,97.105.40.214,Texas,San Antonio,Charter Communications Inc
+1295,72.181.106.116,Texas,San Antonio,Charter Communications Inc
+1296,159.192.242.43,Krung Thep Maha Nakhon,Bangkok,CAT Telecom Public Company Ltd
+1297,108.200.112.192,Texas,San Antonio,AT&T Internet Services
+1298,73.76.119.133,Texas,Houston,Comcast Cable Communications LLC
+1299,174.207.16.1,Texas,Seminole,Verizon Wireless
+1300,107.77.198.37,Colorado,Colorado Springs,AT&T Mobility LLC
+1301,67.11.238.82,Texas,San Antonio,Charter Communications Inc
+1302,173.175.31.196,Texas,Harker Heights,Charter Communications Inc
+1303,108.199.117.106,Texas,San Antonio,AT&T Corp.
+1304,69.236.100.33,Texas,San Antonio,AT&T Corp.
+1305,72.177.237.78,Texas,San Antonio,Charter Communications Inc
+1306,207.119.61.70,Texas,Corinth,CenturyLink Communications LLC
+1307,107.77.222.90,Texas,San Antonio,AT&T Mobility LLC
+1308,173.174.136.11,Texas,Universal City,Charter Communications Inc
+1309,107.77.220.231,Texas,Houston,AT&T Mobility LLC
+1310,159.192.201.107,Krung Thep Maha Nakhon,Bangkok,CAT Telecom Public Company Ltd
+1311,108.199.117.96,Texas,San Antonio,AT&T Corp.
+1312,75.54.32.79,Texas,San Antonio,Alamo Community College District
+1313,107.77.221.10,Texas,Corpus Christi,AT&T Mobility LLC
+1314,70.123.200.145,Texas,San Antonio,Charter Communications Inc
+1315,97.105.90.179,Texas,Leon Valley,Starbucks
+1316,174.207.0.29,Texas,Austin,Verizon Wireless
+1317,172.58.109.44,New Mexico,Albuquerque,T-Mobile USA Inc.
+1318,71.136.254.125,Texas,San Antonio,AT&T Corp.
+1319,134.196.44.120,Phichit,Taphan Hin,True Internet Co. Ltd.
+1320,12.219.109.178,Texas,Austin,Magento
+1321,72.128.136.219,Texas,San Antonio,City Education Partners
+1322,107.77.220.202,Texas,Houston,AT&T Mobility LLC
+1323,96.27.161.213,Alabama,Montgomery,Wide Open West
+1324,70.120.46.111,Texas,Copperas Cove,Charter Communications Inc
+1325,134.196.45.35,Phichit,Phichit,True Internet Co. Ltd.
+1326,172.58.111.204,Texas,Austin,T-Mobile USA Inc.
+1327,72.178.117.75,Texas,San Antonio,Charter Communications Inc
+1328,70.94.161.227,Texas,San Antonio,Charter Communications Inc
+1329,72.181.113.238,Texas,San Antonio,Charter Communications Inc
+1330,72.190.130.87,Texas,San Antonio,Charter Communications Inc
+1331,107.77.219.27,Texas,Houston,AT&T Mobility LLC
+1332,75.1.44.127,Texas,New Braunfels,AT&T Corp.
+1333,107.77.169.6,Texas,Houston,AT&T Mobility LLC
+1334,66.193.245.94,Texas,San Antonio,TW Telecom Holdings Inc.
+1335,89.159.14.216,Ile-de-France,Gif-sur-Yvette,SFR SA
+1336,72.177.230.241,Texas,San Antonio,Charter Communications Inc
+1337,107.77.217.226,Texas,Houston,AT&T Mobility LLC
+1338,70.121.207.245,Texas,San Antonio,Charter Communications Inc
+1339,72.190.214.41,Texas,Seguin,Charter Communications Inc
+1340,199.193.221.114,Texas,San Antonio,Commercial IT Solutions
+1341,67.11.5.181,Texas,New Braunfels,Charter Communications Inc
+1342,99.203.27.127,Texas,Houston,Sprint Communications Inc.
+1343,99.203.26.13,Texas,Houston,Sprint Communications Inc.
+1344,174.207.14.202,Georgia,Atlanta,Verizon Wireless
+1345,173.173.121.126,Texas,San Antonio,Charter Communications Inc
+1346,173.149.177.187,Texas,Houston,Sprint Communications Inc.
+1347,107.77.217.125,Texas,Houston,AT&T Mobility LLC
+1348,173.239.232.88,Texas,Plano,North American Cable Television and Internet LLC
+1349,67.48.40.83,Texas,San Antonio,Policy Services Inc.
+1350,185.151.12.218,Pennsylvania,Springs,Vital Network Group LLC
+1351,12.184.218.52,Texas,Dallas,Wayport Inc.
+1352,73.31.215.224,Virginia,Richmond,Comcast Cable Communications LLC
+1353,24.167.9.61,Texas,Brownsville,Charter Communications Inc
+1354,99.203.23.16,Texas,Fort Worth,Sprint Communications Inc.
+1355,71.40.74.50,Texas,Plano,Richardson Lodging LLC W
+1356,104.184.27.54,Texas,San Antonio,AT&T Corp.
+1357,172.3.28.29,Texas,San Antonio,AT&T Corp.
+1358,173.174.208.178,Texas,San Antonio,Charter Communications Inc
+1359,98.192.75.22,Georgia,Alpharetta,Comcast Cable Communications LLC
+1360,72.183.4.143,Texas,Weslaco,Charter Communications Inc
+1361,8.46.73.102,Colorado,Greenwood Village,Gogo LLC
+1362,71.40.24.180,Texas,Corpus Christi,Gulfstream Condos
+1363,172.58.3.231,Tennessee,Memphis,T-Mobile USA Inc.
+1364,107.77.221.7,Texas,Corpus Christi,AT&T Mobility LLC
+1365,24.27.227.129,Texas,San Antonio,Charter Communications Inc
+1366,97.98.105.129,Texas,Corpus Christi,Charter Communications Inc
+1367,99.203.27.241,Texas,Houston,Sprint Communications Inc.
+1368,107.77.217.216,Texas,Houston,AT&T Mobility LLC
+1369,172.87.148.22,Texas,Leon Valley,Charter Communications Inc
+1370,107.77.217.218,Texas,Houston,AT&T Mobility LLC
+1371,67.10.185.18,Texas,San Antonio,Charter Communications Inc
+1372,134.196.131.92,Krung Thep Maha Nakhon,Bangkok,True Internet Co. Ltd.
+1373,207.119.63.85,Texas,Corpus Christi,CenturyLink Communications LLC
+1374,107.77.196.195,Arkansas,Hope,AT&T Mobility LLC
+1375,72.191.29.194,Texas,San Antonio,Charter Communications Inc
+1376,107.77.217.128,Texas,Houston,AT&T Mobility LLC
+1377,96.93.94.225,Texas,Houston,Comcast Cable Communications LLC
+1378,72.181.113.234,Texas,San Antonio,Charter Communications Inc
+1379,107.77.219.174,Texas,Houston,AT&T Mobility LLC
+1380,107.77.219.20,Texas,Houston,AT&T Mobility LLC
+1381,185.216.33.82,Hessen,Frankfurt am Main,UK Web.Solutions Direct Ltd
+1382,173.174.210.2,Texas,San Antonio,Charter Communications Inc
+1383,64.134.149.176,Texas,Austin,Wayport Inc.
+1384,66.64.5.233,Texas,San Antonio,Texstar Produce LLC
+1385,24.243.10.238,Texas,San Antonio,Charter Communications Inc
+1386,107.77.221.194,Texas,Corpus Christi,AT&T Mobility LLC
+1387,99.203.143.2,Illinois,Chicago,Sprint Communications Inc.
+1388,107.77.222.181,Texas,San Antonio,AT&T Mobility LLC
+1389,99.203.26.18,Texas,Houston,Sprint Communications Inc.
+1390,12.31.120.82,Texas,San Antonio,Sitepro LLC
+1391,162.71.236.115,Texas,San Antonio,Christus Health
+1392,167.24.18.231,Texas,San Antonio,USAA
+1393,99.203.26.199,Texas,Houston,Sprint Communications Inc.
+1394,72.190.151.50,Texas,San Antonio,Charter Communications Inc
+1395,72.181.97.207,Texas,San Antonio,Charter Communications Inc
+1396,50.84.244.130,Texas,McAllen,Charter Communications Inc
+1397,90.80.230.243,Ile-de-France,Paris,Starbucks Coffee LB Internet
+1398,90.85.119.75,Ile-de-France,Paris,70 BD du Montparnasse
+1399,107.77.222.216,Texas,San Antonio,AT&T Mobility LLC
+1400,107.77.222.174,Texas,San Antonio,AT&T Mobility LLC
+1401,12.197.196.242,Texas,El Paso,Commerce Home Mortgage in
+1402,173.174.211.206,Texas,San Antonio,Charter Communications Inc
+1403,99.203.27.9,Texas,Houston,Sprint Communications Inc.
+1404,66.69.108.117,Texas,San Antonio,Charter Communications Inc
+1405,66.90.180.216,Texas,San Antonio,Grande Communications San Antonio Hub
+1406,107.77.219.65,Texas,Houston,AT&T Mobility LLC
+1407,72.181.110.80,Texas,San Antonio,Charter Communications Inc
+1408,107.204.50.40,Texas,San Antonio,AT&T Corp.
+1409,99.98.32.165,Texas,San Antonio,AT&T Corp.
+1410,99.203.27.115,Texas,Houston,Sprint Communications Inc.
+1411,76.193.65.187,Washington,Redmond,AT&T Corp.
+1412,72.181.99.44,Texas,San Antonio,Charter Communications Inc
+1413,166.251.109.31,Texas,San Antonio,Wireless Data Service Provider Corporation
+1414,107.77.221.70,Texas,Corpus Christi,AT&T Mobility LLC
+1415,172.58.109.150,New Mexico,Albuquerque,T-Mobile USA Inc.
+1416,76.185.173.161,Texas,San Antonio,Charter Communications Inc
+1417,67.11.130.89,Texas,San Antonio,Charter Communications Inc
+1418,24.28.148.245,Texas,Leon Valley,Charter Communications Inc
+1419,173.174.243.231,Texas,San Antonio,Charter Communications Inc
+1420,172.56.7.172,Texas,Waxahachie,T-Mobile USA Inc.
+1421,99.43.108.160,Texas,San Antonio,AT&T Corp.
+1422,107.77.220.166,Texas,Houston,AT&T Mobility LLC
+1423,67.48.59.123,Texas,San Antonio,Starbucks
+1424,216.53.156.133,Michigan,Iron Mountain,CCI Systems
+1425,70.125.137.193,Texas,San Antonio,Charter Communications Inc
+1426,76.185.172.182,Texas,San Antonio,Charter Communications Inc
+1427,99.203.23.196,Texas,Fort Worth,Sprint Communications Inc.
+1428,71.41.192.26,Texas,San Antonio,Charter Communications Inc
+1429,166.247.59.44,Texas,San Antonio,Wireless Data Service Provider Corporation
+1430,66.196.195.34,Texas,San Antonio,Advanced Services Inc
+1431,72.191.28.232,Texas,San Antonio,Charter Communications Inc
+1432,72.179.108.103,Texas,Laredo,Charter Communications Inc
+1433,24.242.60.149,Texas,San Antonio,Charter Communications Inc
+1434,71.41.242.76,Texas,San Antonio,Starbucks
+1435,108.205.6.177,Texas,San Antonio,AT&T Corp.
+1436,72.190.162.161,Texas,San Antonio,Charter Communications Inc
+1437,23.123.177.19,Texas,San Antonio,AT&T Corp.
+1438,131.194.172.242,Texas,San Antonio,Trinity University
+1439,172.58.111.203,Texas,Austin,T-Mobile USA Inc.
+1440,131.194.172.59,Texas,San Antonio,Trinity University
+1441,99.203.26.215,Texas,Houston,Sprint Communications Inc.
+1442,67.11.24.12,Texas,New Braunfels,Charter Communications Inc
+1443,99.203.27.106,Texas,Houston,Sprint Communications Inc.
+1444,99.203.27.21,Texas,Houston,Sprint Communications Inc.
+1445,99.203.26.14,Texas,Houston,Sprint Communications Inc.
+1446,217.167.133.44,Ile-de-France,Paris,Pena Lobation LB Internet
+1447,99.203.26.5,Texas,Houston,Sprint Communications Inc.
+1448,99.203.154.197,Texas,Houston,Sprint Communications Inc.
+1449,67.11.204.68,Texas,Leon Valley,Charter Communications Inc
+1450,172.58.109.64,New Mexico,Albuquerque,T-Mobile USA Inc.
+1451,107.77.222.41,Texas,San Antonio,AT&T Mobility LLC
+1452,104.48.213.175,Texas,San Antonio,AT&T Corp.
+1453,64.125.109.186,Colorado,Louisville,Zayo Bandwidth
+1454,99.203.154.187,Texas,Houston,Sprint Communications Inc.
+1455,173.173.102.198,Texas,San Antonio,Charter Communications Inc
+1456,70.243.68.60,Texas,San Antonio,Baptist Health System
+1457,67.11.28.235,Texas,New Braunfels,Charter Communications Inc
+1458,131.194.184.74,Texas,San Antonio,Trinity University
+1459,131.194.173.46,Texas,San Antonio,Trinity University
+1460,96.8.219.155,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+1461,136.49.90.35,Texas,Austin,Google Fiber Inc.
+1462,107.77.245.7,Nevada,Pahrump,AT&T Mobility LLC
+1463,72.179.183.68,Texas,San Antonio,Charter Communications Inc
+1464,99.203.27.131,Texas,Houston,Sprint Communications Inc.
+1465,107.77.222.200,Texas,San Antonio,AT&T Mobility LLC
+1466,173.173.111.218,Texas,San Antonio,Charter Communications Inc
+1467,99.203.27.96,Texas,Houston,Sprint Communications Inc.
+1468,172.58.67.180,Texas,Mission,T-Mobile USA Inc.
+1469,99.61.28.109,Texas,San Antonio,AT&T Corp.
+1470,24.160.139.8,Texas,San Antonio,Charter Communications Inc
+1471,172.58.109.222,New Mexico,Albuquerque,T-Mobile USA Inc.
+1472,107.77.222.37,Texas,San Antonio,AT&T Mobility LLC
+1473,99.203.27.218,Texas,Houston,Sprint Communications Inc.
+1474,173.149.158.44,Texas,Houston,Sprint Communications Inc.
+1475,107.128.3.66,Texas,San Antonio,AT&T Corp.
+1476,209.184.113.43,Texas,San Antonio,Alamo Community College
+1477,72.181.105.81,Texas,San Antonio,Charter Communications Inc
+1478,72.190.223.156,Texas,Seguin,Charter Communications Inc
+1479,65.43.118.72,Texas,San Antonio,AT&T Internet Services
+1480,216.177.165.194,Texas,San Antonio,GVTC ADSL Static Pool
+1481,66.25.168.171,Texas,San Antonio,Charter Communications Inc
+1482,99.203.26.111,Texas,Houston,Sprint Communications Inc.
+1483,76.185.243.110,Texas,San Antonio,Charter Communications Inc
+1484,45.23.250.16,Texas,New Braunfels,AT&T Corp.
+1485,216.177.165.198,Texas,San Antonio,GVTC ADSL Static Pool
+1486,89.81.166.143,Ile-de-France,Paris,Bouygues Telecom SA
+1487,193.37.252.42,Florida,Miami,PPMAN Services Srl
+1488,107.77.169.11,Texas,Houston,AT&T Mobility LLC
+1489,172.58.109.54,New Mexico,Albuquerque,T-Mobile USA Inc.
+1490,166.251.101.159,Texas,San Antonio,Wireless Data Service Provider Corporation
+1491,99.203.155.43,Texas,Houston,Sprint Communications Inc.
+1492,76.204.27.88,Texas,San Antonio,AT&T Corp.
+1493,70.120.3.141,Texas,San Antonio,Charter Communications Inc
+1494,193.37.252.48,Florida,Miami,PPMAN Services Srl
+1495,37.60.189.18,Ile-de-France,Paris,Foliateam Operateur SAS
+1496,107.77.200.229,Oklahoma,Sapulpa,AT&T Mobility LLC
+1497,172.58.109.220,New Mexico,Albuquerque,T-Mobile USA Inc.
+1498,172.58.105.205,Texas,DeSoto,T-Mobile USA Inc.
+1499,198.190.245.72,Texas,San Antonio,University Health System
+1500,70.121.200.203,Texas,San Antonio,Charter Communications Inc
+1501,68.201.219.223,Texas,San Antonio,Charter Communications Inc
+1502,173.123.121.68,Texas,Houston,Sprint Communications Inc.
+1503,67.11.62.220,Texas,San Antonio,Charter Communications Inc
+1504,172.58.108.182,Texas,Sherman,T-Mobile USA Inc.
+1505,172.56.6.51,Oklahoma,Jay,T-Mobile USA Inc.
+1506,172.56.6.109,Oklahoma,Jay,T-Mobile USA Inc.
+1507,72.181.113.170,Texas,San Antonio,Charter Communications Inc
+1508,104.190.254.154,Texas,San Antonio,AT&T Corp.
+1509,193.37.252.82,Florida,Miami,PPMAN Services Srl
+1510,65.112.228.222,Texas,League City,Audio Visual Services Group Inc.
+1511,67.11.59.112,Texas,San Antonio,Charter Communications Inc
+1512,99.203.26.48,Texas,Houston,Sprint Communications Inc.
+1513,107.77.221.63,Texas,Corpus Christi,AT&T Mobility LLC
+1514,71.42.133.19,Texas,San Antonio,Starbucks
+1515,104.37.31.8,New York,New York City,VPN Consumer Network
+1516,24.242.180.178,Texas,Plano,Charter Communications Inc
+1517,67.11.157.190,Texas,San Antonio,Charter Communications Inc
+1518,184.226.95.31,Texas,Houston,Sprint Communications Inc.
+1519,71.40.247.91,Texas,San Antonio,Starbucks
+1520,24.26.242.9,Texas,San Antonio,Charter Communications Inc
+1521,12.33.49.18,Alabama,Montgomery,AT&T Services Inc.
+1522,173.173.113.51,Texas,San Antonio,Charter Communications Inc
+1523,174.207.21.3,Texas,Kerrville,Verizon Wireless
+1524,66.90.156.73,Texas,San Antonio,Grande Communications San Antonio Hub
+1525,69.193.187.30,New York,New York City,Charter Communications Inc
+1526,172.56.6.31,Oklahoma,Jay,T-Mobile USA Inc.
+1527,172.58.109.143,New Mexico,Albuquerque,T-Mobile USA Inc.
+1528,99.203.155.185,Texas,Houston,Sprint Communications Inc.
+1529,103.208.220.139,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+1530,107.77.218.42,Texas,San Antonio,AT&T Mobility LLC
+1531,184.203.221.94,Arizona,Phoenix,Sprint Communications Inc.
+1532,64.9.239.30,California,Mountain View,Google LLC
+1533,70.114.21.86,Texas,New Braunfels,Charter Communications Inc
+1534,172.56.7.151,Texas,Waxahachie,T-Mobile USA Inc.
+1535,68.134.170.110,Maryland,Fort George G. Meade,Verizon Communications Inc.
+1536,72.128.131.66,Texas,San Antonio,Charter Communications Inc
+1537,97.77.214.243,Texas,San Antonio,Starbucks
+1538,12.151.185.131,Texas,Richardson,Marriott International
+1539,64.9.239.143,California,Mountain View,Google LLC
+1540,99.203.27.103,Texas,Houston,Sprint Communications Inc.
+1541,174.240.134.5,Alabama,East Brewton,Verizon Wireless
+1542,64.9.239.12,California,Mountain View,Google LLC
+1543,166.251.106.182,Texas,San Antonio,Wireless Data Service Provider Corporation
+1544,70.122.206.138,Texas,Irving,Charter Communications Inc
+1545,172.56.6.73,Oklahoma,Jay,T-Mobile USA Inc.
+1546,99.203.154.183,Texas,Houston,Sprint Communications Inc.
+1547,12.166.20.18,Texas,San Antonio,St Marys Hall
+1548,70.120.62.19,Texas,San Antonio,Charter Communications Inc
+1549,99.203.27.66,Texas,Houston,Sprint Communications Inc.
+1550,206.81.232.6,Texas,San Antonio,Adhesive Media Inc.
+1551,75.15.240.105,Texas,San Antonio,AT&T Corp.
+1552,24.243.19.100,Texas,San Antonio,Charter Communications Inc
+1553,173.173.98.244,Texas,San Antonio,Charter Communications Inc
+1554,99.203.27.72,Texas,Houston,Sprint Communications Inc.
+1555,107.77.197.78,Oklahoma,Vinita,AT&T Mobility LLC
+1556,172.58.109.155,New Mexico,Albuquerque,T-Mobile USA Inc.
+1557,99.203.27.77,Texas,Houston,Sprint Communications Inc.
+1558,99.203.27.70,Texas,Houston,Sprint Communications Inc.
+1559,131.194.172.51,Texas,San Antonio,Trinity University
+1560,99.184.61.243,Texas,San Antonio,AT&T Corp.
+1561,99.203.154.20,Texas,Houston,Sprint Communications Inc.
+1562,196.52.60.56,Victoria,Melbourne,LogicWeb Inc
+1563,65.36.96.192,Texas,San Antonio,Grande Communications San Antonio Hub
+1564,99.203.155.225,Texas,Houston,Sprint Communications Inc.
+1565,107.77.219.51,Texas,Houston,AT&T Mobility LLC
+1566,64.9.239.21,California,Mountain View,Google LLC
+1567,99.203.154.30,Texas,Houston,Sprint Communications Inc.
+1568,72.181.106.12,Texas,San Antonio,Charter Communications Inc
+1569,24.243.6.109,Texas,San Antonio,Charter Communications Inc
+1570,207.119.54.40,Texas,San Marcos,CenturyLink Communications LLC
+1571,4.15.231.83,Texas,Houston,Level 3 Communications Inc.
+1572,207.119.59.216,Texas,San Marcos,CenturyLink Communications LLC
+1573,99.203.91.49,Texas,Houston,Sprint Communications Inc.
+1574,99.203.154.116,Texas,Houston,Sprint Communications Inc.
+1575,64.9.239.34,California,Mountain View,Google LLC
+1576,130.45.43.174,Texas,San Antonio,Grande Communications San Antonio Hub
+1577,72.181.109.70,Texas,San Antonio,Charter Communications Inc
+1578,172.58.104.239,Texas,Laredo,T-Mobile USA Inc.
+1579,38.142.208.162,Texas,San Antonio,PSINet Inc.
+1580,172.58.111.140,Texas,Austin,T-Mobile USA Inc.
+1581,56.0.143.25,Minnesota,Minneapolis,United States Postal Service
+1582,73.136.220.123,Texas,Houston,Comcast Cable Communications LLC
+1583,136.50.2.13,Texas,San Antonio,Google Fiber Inc.
+1584,68.206.254.198,Texas,San Antonio,Charter Communications Inc
+1585,131.194.173.20,Texas,San Antonio,Trinity University
+1586,24.160.139.79,Texas,San Antonio,Charter Communications Inc
+1587,64.9.239.13,California,Mountain View,Google LLC
+1588,24.55.39.25,Texas,Austin,Charter Communications Inc
+1589,173.149.129.239,Texas,Houston,Sprint Communications Inc.
+1590,107.77.220.51,Texas,Houston,AT&T Mobility LLC
+1591,204.44.112.76,Texas,Dallas,QuadraNet Enterprises LLC
+1592,207.119.54.88,Texas,San Marcos,CenturyLink Communications LLC
+1593,104.184.230.44,Texas,San Antonio,AT&T Corp.
+1594,107.77.217.101,Texas,Houston,AT&T Mobility LLC
+1595,173.174.212.103,Texas,San Antonio,Charter Communications Inc
+1596,70.121.210.246,Texas,San Antonio,Charter Communications Inc
+1597,99.203.26.190,Texas,Houston,Sprint Communications Inc.
+1598,99.203.155.145,Texas,Houston,Sprint Communications Inc.
+1599,131.194.172.217,Texas,San Antonio,Trinity University
+1600,99.203.27.1,Texas,Houston,Sprint Communications Inc.
+1601,65.204.10.233,New York,New York City,WS/Verizon Wireless/Verizon Wireless
+1602,99.203.154.214,Texas,Houston,Sprint Communications Inc.
+1603,99.203.26.251,Texas,Houston,Sprint Communications Inc.
+1604,173.127.10.4,Texas,Houston,Sprint Communications Inc.
+1605,131.194.172.221,Texas,San Antonio,Trinity University
+1606,99.203.154.44,Texas,Houston,Sprint Communications Inc.
+1607,130.45.47.106,Texas,San Antonio,Grande Communications San Antonio Hub
+1608,70.122.40.62,Texas,San Antonio,Charter Communications Inc
+1609,103.208.220.133,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+1610,99.203.155.123,Texas,Houston,Sprint Communications Inc.
+1611,104.191.5.135,Texas,San Antonio,AT&T Corp.
+1612,12.208.132.3,Louisiana,New Orleans,Hilton Hotels Corporation
+1613,67.11.35.80,Texas,Leon Valley,Charter Communications Inc
+1614,166.251.106.84,Texas,San Antonio,Wireless Data Service Provider Corporation
+1615,99.203.27.109,Texas,Houston,Sprint Communications Inc.
+1616,173.174.201.87,Texas,San Antonio,Charter Communications Inc
+1617,96.8.128.205,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+1618,99.203.154.55,Texas,Houston,Sprint Communications Inc.
+1619,173.127.91.200,Texas,Houston,Sprint Communications Inc.
+1620,172.58.111.175,Texas,Austin,T-Mobile USA Inc.
+1621,99.203.27.140,Texas,Houston,Sprint Communications Inc.
+1622,99.203.27.219,Texas,Houston,Sprint Communications Inc.
+1623,71.42.211.139,Texas,San Antonio,Starbucks
+1624,99.203.155.126,Texas,Houston,Sprint Communications Inc.
+1625,99.203.26.2,Texas,Houston,Sprint Communications Inc.
+1626,107.77.219.13,Texas,Houston,AT&T Mobility LLC
+1627,173.173.114.111,Texas,San Antonio,Charter Communications Inc
+1628,67.48.201.230,Texas,El Paso,Charter Communications Inc
+1629,24.243.59.138,Texas,San Antonio,Charter Communications Inc
+1630,72.180.51.14,Texas,Lewisville,Charter Communications Inc
+1631,99.203.26.146,Texas,Houston,Sprint Communications Inc.
+1632,193.37.252.52,Florida,Miami,PPMAN Services Srl
+1633,99.203.26.128,Texas,Houston,Sprint Communications Inc.
+1634,193.37.252.68,Florida,Miami,PPMAN Services Srl
+1635,173.127.114.36,Texas,Houston,Sprint Communications Inc.
+1636,148.66.38.220,Texas,San Antonio,Jump Fiber
+1637,70.118.90.46,Texas,San Antonio,Charter Communications Inc
+1638,172.58.109.206,New Mexico,Albuquerque,T-Mobile USA Inc.
+1639,99.203.27.240,Texas,Houston,Sprint Communications Inc.
+1640,70.117.31.37,Texas,San Antonio,Charter Communications Inc
+1641,99.203.27.248,Texas,Houston,Sprint Communications Inc.
+1642,76.185.215.29,Texas,San Antonio,Charter Communications Inc
+1643,96.8.128.193,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+1644,99.203.27.59,Texas,Houston,Sprint Communications Inc.
+1645,131.194.172.128,Texas,San Antonio,Trinity University
+1646,136.50.16.179,Texas,San Antonio,Google Fiber Inc.
+1647,131.194.173.119,Texas,San Antonio,Trinity University
+1648,24.99.149.248,Georgia,Atlanta,Comcast Cable Communications LLC
+1649,130.45.50.251,Texas,San Antonio,Grande Communications San Antonio Hub
+1650,99.203.154.149,Texas,Houston,Sprint Communications Inc.
+1651,99.203.154.208,Texas,Houston,Sprint Communications Inc.
+1652,172.87.181.101,Texas,San Antonio,Gunn gp Llc
+1653,70.120.5.227,Texas,San Antonio,Charter Communications Inc
+1654,76.198.206.28,Texas,San Antonio,AT&T Corp.
+1655,71.136.250.27,Texas,San Antonio,AT&T Corp.
+1656,24.243.59.164,Texas,San Antonio,Charter Communications Inc
+1657,24.243.22.28,Texas,San Antonio,Charter Communications Inc
+1658,104.182.14.234,Texas,San Antonio,AT&T Corp.
+1659,131.194.173.118,Texas,San Antonio,Trinity University
+1660,45.21.2.123,Texas,San Antonio,AT&T Corp.
+1661,24.26.242.103,Texas,San Antonio,Charter Communications Inc
+1662,72.190.175.190,Texas,San Antonio,Charter Communications Inc
+1663,99.203.26.97,Texas,Houston,Sprint Communications Inc.
+1664,107.77.221.145,Texas,Corpus Christi,AT&T Mobility LLC
+1665,166.251.109.168,Texas,San Antonio,Wireless Data Service Provider Corporation
+1666,208.54.83.194,Texas,Houston,T-Mobile USA Inc.
+1667,72.177.245.198,Texas,San Antonio,Charter Communications Inc
+1668,99.126.116.28,Texas,San Antonio,AT&T Corp.
+1669,68.201.204.191,Texas,New Braunfels,Charter Communications Inc
+1670,99.162.243.169,Texas,San Antonio,AT&T Corp.
+1671,76.250.226.254,Texas,San Antonio,AT&T Corp.
+1672,99.203.27.223,Texas,Houston,Sprint Communications Inc.
+1673,99.203.154.198,Texas,Houston,Sprint Communications Inc.
+1674,207.119.52.22,Texas,San Marcos,CenturyLink Communications LLC
+1675,172.58.67.60,Texas,Mission,T-Mobile USA Inc.
+1676,103.208.220.143,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+1677,172.58.102.218,Florida,Clearwater,T-Mobile USA Inc.
+1678,45.56.172.30,New York,New York City,Strong Technology LLC.
+1679,99.203.27.48,Texas,Houston,Sprint Communications Inc.
+1680,99.203.27.34,Texas,Houston,Sprint Communications Inc.
+1681,107.77.219.34,Texas,Houston,AT&T Mobility LLC
+1682,107.77.218.198,Texas,San Antonio,AT&T Mobility LLC
+1683,67.11.97.204,Texas,San Antonio,Charter Communications Inc
+1684,107.132.199.23,Texas,San Antonio,AT&T Corp.
+1685,99.203.27.13,Texas,Houston,Sprint Communications Inc.
+1686,173.127.11.100,Texas,Houston,Sprint Communications Inc.
+1687,173.127.80.231,Texas,Houston,Sprint Communications Inc.
+1688,97.77.169.2,Texas,New Braunfels,City of New Braunfels Library
+1689,99.203.154.231,Texas,Houston,Sprint Communications Inc.
+1690,99.203.27.120,Texas,Houston,Sprint Communications Inc.
+1691,45.21.7.26,Texas,San Antonio,AT&T Corp.
+1692,24.28.152.103,Texas,Leon Valley,Charter Communications Inc
+1693,104.55.228.222,Texas,San Antonio,AT&T Corp.
+1694,72.45.179.227,New York,Schenectady,TWC Internal Spectrum
+1695,67.142.203.140,Florida,Eustis,Hughes Network Systems LLC-ON
+1696,103.208.220.132,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+1697,173.123.52.37,Texas,Houston,Sprint Communications Inc.
+1698,12.49.174.18,Texas,San Antonio,Dahill Office Technology Corp
+1699,136.50.18.71,Texas,San Antonio,Google Fiber Inc.
+1700,68.201.240.17,Texas,San Antonio,Charter Communications Inc
+1701,99.203.27.178,Texas,Houston,Sprint Communications Inc.
+1702,71.40.249.34,Texas,San Antonio,Charter Communications Inc
+1703,70.123.200.22,Texas,San Antonio,Charter Communications Inc
+1704,99.203.213.32,Texas,Houston,Sprint Communications Inc.
+1705,130.45.63.87,Texas,San Antonio,Grande Communications San Antonio Hub
+1706,172.58.111.248,Texas,Austin,T-Mobile USA Inc.
+1707,209.135.132.136,Missouri,Saint Louis,InLink Communications Company
+1708,99.203.90.42,Texas,Houston,Sprint Communications Inc.
+1709,99.203.26.81,Texas,Houston,Sprint Communications Inc.
+1710,108.84.76.42,Texas,San Antonio,AT&T Corp.
+1711,67.11.35.239,Texas,Leon Valley,Charter Communications Inc
+1712,136.50.5.46,Texas,San Antonio,Codeup LLC
+1713,172.58.67.181,Texas,Mission,T-Mobile USA Inc.
+1714,72.180.46.191,Texas,Lewisville,Charter Communications Inc
+1715,67.11.41.202,Texas,Leon Valley,Charter Communications Inc
+1716,172.58.109.37,New Mexico,Albuquerque,T-Mobile USA Inc.
+1717,68.73.197.187,Texas,San Antonio,AT&T Corp.
+1718,199.116.118.221,California,San Jose,Total Server Solutions L.L.C.
+1719,71.221.9.148,Texas,Killeen,CenturyLink Communications LLC
+1720,72.178.104.146,Texas,San Antonio,Charter Communications Inc
+1721,68.201.199.176,Texas,New Braunfels,Charter Communications Inc
+1722,131.194.172.36,Texas,San Antonio,Trinity University
+1723,99.203.154.95,Texas,Houston,Sprint Communications Inc.
+1724,64.9.239.9,California,Mountain View,Google LLC
+1725,99.203.155.176,Texas,Houston,Sprint Communications Inc.
+1726,99.203.155.215,Texas,Houston,Sprint Communications Inc.
+1727,70.123.160.242,Texas,San Antonio,Charter Communications Inc
+1728,108.178.77.202,Texas,San Antonio,Charter Communications Inc
+1729,72.181.120.73,Texas,San Antonio,Charter Communications Inc
+1730,72.177.203.50,Texas,San Antonio,Charter Communications Inc
+1731,99.203.154.172,Texas,Houston,Sprint Communications Inc.
+1732,208.54.83.163,Texas,Houston,T-Mobile USA Inc.
+1733,68.203.198.221,Texas,San Antonio,Charter Communications Inc
+1734,172.110.80.227,Texas,San Antonio,CommZoom LLC
+1735,136.50.20.143,Texas,San Antonio,Google Fiber Inc.
+1736,65.43.115.99,Texas,San Antonio,AT&T Internet Services
+1737,99.203.154.84,Texas,Houston,Sprint Communications Inc.
+1738,131.194.172.226,Texas,San Antonio,Trinity University
+1739,166.251.106.160,Texas,San Antonio,Wireless Data Service Provider Corporation
+1740,99.203.155.142,Texas,Houston,Sprint Communications Inc.
+1741,24.155.69.59,Texas,San Marcos,Grande Communications San Marcos
+1742,96.64.121.249,Pennsylvania,Philadelphia,Comcast Cable Communications LLC
+1743,70.123.233.35,Texas,Universal City,Charter Communications Inc
+1744,12.127.44.138,Texas,Odessa,AT&T Worldnet Services
+1745,131.194.172.75,Texas,San Antonio,Trinity University
+1746,72.181.121.192,Texas,San Antonio,Charter Communications Inc
+1747,70.121.214.34,Texas,San Antonio,Charter Communications Inc
+1748,71.42.125.202,Texas,San Antonio,Charter Communications Inc
+1749,107.77.221.49,Texas,Corpus Christi,AT&T Mobility LLC
+1750,99.57.20.163,Texas,San Antonio,AT&T Corp.
+1751,24.160.158.182,Texas,San Antonio,Charter Communications Inc
+1752,99.203.91.127,Texas,Houston,Sprint Communications Inc.
+1753,24.243.59.161,Texas,San Antonio,Charter Communications Inc
+1754,172.98.67.32,Ontario,Toronto,Hosting Services Inc.
+1755,207.119.3.149,Texas,San Marcos,CenturyLink Communications LLC
+1756,65.154.35.138,Colorado,Denver,SEIU
+1757,96.88.69.9,Colorado,Greenwood Village,Comcast Cable Communications LLC
+1758,67.79.222.75,Texas,San Antonio,Starbucks
+1759,172.108.140.130,Texas,Dallas,Frontier Communications Corporation
+1760,173.239.232.65,Texas,Plano,North American Cable Television and Internet LLC
+1761,70.115.158.21,Texas,Austin,Charter Communications Inc
+1762,99.203.26.123,Texas,Houston,Sprint Communications Inc.
+1763,71.78.115.66,Texas,San Antonio,Charter Communications Inc
+1764,99.203.91.141,Texas,Houston,Sprint Communications Inc.
+1765,99.203.154.130,Texas,Houston,Sprint Communications Inc.
+1766,99.203.27.42,Texas,Houston,Sprint Communications Inc.
+1767,172.85.210.26,Texas,Houston,Granite Telecommunications LLC
+1768,24.242.162.114,Texas,San Antonio,Charter Communications Inc
+1769,99.203.26.184,Texas,Houston,Sprint Communications Inc.
+1770,174.207.23.109,Texas,San Antonio,Verizon Wireless
+1771,96.8.128.94,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+1772,71.42.105.141,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+1773,173.173.97.218,Texas,San Antonio,Charter Communications Inc
+1774,70.122.37.65,Texas,San Antonio,Charter Communications Inc
+1775,103.208.220.130,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+1776,99.203.27.83,Texas,Houston,Sprint Communications Inc.
+1777,172.58.109.223,New Mexico,Albuquerque,T-Mobile USA Inc.
+1778,24.227.245.186,Texas,San Antonio,Charter Communications Inc
+1779,99.113.230.177,Texas,Dallas,AT&T Internet Services
+1780,66.69.33.137,Texas,Universal City,Charter Communications Inc
+1781,107.77.220.149,Texas,Houston,AT&T Mobility LLC
+1782,98.6.52.59,Texas,San Antonio,Starbucks
+1783,131.194.172.188,Texas,San Antonio,Trinity University
+1784,99.203.154.190,Texas,Houston,Sprint Communications Inc.
+1785,207.119.56.213,Texas,San Marcos,CenturyLink Communications LLC
+1786,208.54.83.222,Texas,Houston,T-Mobile USA Inc.
+1787,66.90.173.188,Texas,Austin,Grande Communications Waco Hub
+1788,99.203.26.63,Texas,Houston,Sprint Communications Inc.
+1789,67.10.191.167,Texas,San Antonio,Charter Communications Inc
+1790,70.122.206.28,Texas,Irving,Charter Communications Inc
+1791,99.203.154.102,Texas,Houston,Sprint Communications Inc.
+1792,107.77.221.19,Texas,Corpus Christi,AT&T Mobility LLC
+1793,99.203.27.45,Texas,Houston,Sprint Communications Inc.
+1794,107.77.217.127,Texas,Houston,AT&T Mobility LLC
+1795,97.105.137.42,Texas,San Antonio,Jungle Disk LLC
+1796,107.77.169.1,Texas,Houston,AT&T Mobility LLC
+1797,71.42.105.183,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+1798,99.203.26.60,Texas,Houston,Sprint Communications Inc.
+1799,166.251.105.253,New York,New York City,Wireless Data Service Provider Corporation
+1800,173.127.56.209,Texas,Houston,Sprint Communications Inc.
+1801,97.105.69.130,Texas,San Antonio,Candlewood Suites
+1802,99.203.154.246,Texas,Houston,Sprint Communications Inc.
+1803,99.203.27.10,Texas,Houston,Sprint Communications Inc.
+1804,99.203.26.250,Texas,Houston,Sprint Communications Inc.
+1805,173.239.232.38,Texas,Plano,North American Cable Television and Internet LLC
+1806,108.200.112.159,Texas,San Antonio,AT&T Internet Services
+1807,99.203.155.190,Texas,Houston,Sprint Communications Inc.
+1808,70.121.161.166,Texas,San Antonio,Charter Communications Inc
+1809,104.10.80.59,Texas,Austin,AT&T Corp.
+1810,174.207.19.90,Texas,Plainview,Verizon Wireless
+1811,159.118.138.70,Arkansas,Texarkana,Cable One Inc.
+1812,107.77.198.116,Colorado,Colorado Springs,AT&T Mobility LLC
+1813,99.203.91.36,Texas,Houston,Sprint Communications Inc.
+1814,97.98.14.0,Texas,Portland,Charter Communications Inc
+1815,107.77.198.150,Colorado,Colorado Springs,AT&T Mobility LLC
+1816,99.203.27.213,Texas,Houston,Sprint Communications Inc.
+1817,99.203.90.84,Texas,Houston,Sprint Communications Inc.
+1818,23.116.24.226,Texas,Houston,AT&T Corp.
+1819,99.203.90.129,Texas,Houston,Sprint Communications Inc.
+1820,104.53.215.3,Texas,San Antonio,AT&T Corp.
+1821,45.56.172.244,Colorado,Denver,Strong Technology LLC.
+1822,107.77.169.2,Texas,Houston,AT&T Mobility LLC
+1823,99.203.26.72,Texas,Houston,Sprint Communications Inc.
+1824,99.203.91.196,Texas,Houston,Sprint Communications Inc.
+1825,172.56.15.135,Texas,Houston,T-Mobile USA Inc.
+1826,99.203.26.125,Texas,Houston,Sprint Communications Inc.
+1827,108.93.9.152,Texas,San Antonio,AT&T Corp.
+1828,96.8.128.69,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+1829,99.203.90.115,Texas,Houston,Sprint Communications Inc.
+1830,172.56.14.207,Texas,Houston,T-Mobile USA Inc.
+1831,99.140.253.42,Texas,Dallas,AT&T Corp.
+1832,99.203.26.56,Texas,Houston,Sprint Communications Inc.
+1833,96.8.128.88,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+1834,193.37.252.38,Florida,Miami,PPMAN Services Srl
+1835,103.208.220.137,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+1836,99.203.154.182,Texas,Houston,Sprint Communications Inc.
+1837,23.127.172.66,Texas,San Antonio,AT&T Corp.
+1838,76.186.167.31,Texas,Irving,Charter Communications Inc
+1839,70.122.37.185,Texas,San Antonio,Charter Communications Inc
+1840,76.250.151.130,Texas,San Antonio,AT&T Corp.
+1841,173.173.109.203,Texas,San Antonio,Charter Communications Inc
+1842,107.77.217.123,Texas,Houston,AT&T Mobility LLC
+1843,172.58.109.252,New Mexico,Albuquerque,T-Mobile USA Inc.
+1844,70.130.124.250,Texas,San Antonio,AT&T Corp.
+1845,72.181.121.127,Texas,San Antonio,Charter Communications Inc
+1846,166.247.169.116,New York,New York City,Wireless Data Service Provider Corporation
+1847,172.58.101.148,Texas,Waco,T-Mobile USA Inc.
+1848,73.77.171.11,Texas,Sugar Land,Comcast Cable Communications LLC
+1849,107.77.220.18,Texas,Houston,AT&T Mobility LLC
+1850,174.207.17.141,Texas,Odessa,Verizon Wireless
+1851,72.190.185.235,Texas,San Antonio,Charter Communications Inc
+1852,208.54.86.183,Texas,Dallas,T-Mobile USA Inc.
+1853,172.58.109.96,New Mexico,Albuquerque,T-Mobile USA Inc.
+1854,70.94.182.14,Texas,San Antonio,Charter Communications Inc
+1855,45.56.172.242,Colorado,Denver,Strong Technology LLC.
+1856,45.56.172.248,Colorado,Denver,Strong Technology LLC.
+1857,99.203.155.5,Texas,Houston,Sprint Communications Inc.
+1858,107.77.218.81,Texas,San Antonio,AT&T Mobility LLC
+1859,45.56.172.243,Colorado,Denver,Strong Technology LLC.
+1860,172.56.6.247,Oklahoma,Jay,T-Mobile USA Inc.
+1861,207.239.160.254,New York,New York City,Verizon Communications Inc.
+1862,67.80.48.111,New York,Brooklyn,Optimum Online
+1863,136.49.24.186,Texas,Austin,Google Fiber Inc.
+1864,131.194.172.30,Texas,San Antonio,Trinity University
+1865,99.203.31.78,Florida,Miami,Sprint Communications Inc.
+1866,99.203.155.98,Texas,Houston,Sprint Communications Inc.
+1867,207.119.59.156,Texas,San Marcos,CenturyLink Communications LLC
+1868,99.203.155.92,Texas,Houston,Sprint Communications Inc.
+1869,174.207.14.229,Georgia,Atlanta,Verizon Wireless
+1870,174.207.3.247,Texas,Odessa,Verizon Wireless
+1871,131.194.172.199,Texas,San Antonio,Trinity University
+1872,173.174.197.21,Texas,San Antonio,Charter Communications Inc
+1873,172.58.109.173,New Mexico,Albuquerque,T-Mobile USA Inc.
+1874,69.147.62.1,Texas,San Antonio,Education Service Center Region
+1875,99.203.26.208,Texas,Houston,Sprint Communications Inc.
+1876,70.123.224.162,Texas,Universal City,Charter Communications Inc
+1877,72.48.255.177,Texas,San Antonio,Grande Communications San Antonio
+1878,166.251.101.230,Texas,San Antonio,Wireless Data Service Provider Corporation
+1879,24.243.70.180,Texas,San Antonio,Charter Communications Inc
+1880,209.107.210.228,Illinois,Chicago,SecuredConnectivity.net
+1881,99.203.26.20,Texas,Houston,Sprint Communications Inc.
+1882,173.123.204.117,Texas,Houston,Sprint Communications Inc.
+1883,216.54.250.134,Texas,San Antonio,CDS%2FMuery Services
+1884,209.107.216.157,Texas,Dallas,SecuredConnectivity.net
+1885,162.251.232.108,Nevada,Las Vegas,VegasNap LLC
+1886,185.161.201.16,New South Wales,Sydney,ProtonVPN AG
+1887,162.251.232.107,Nevada,Las Vegas,VegasNap LLC
+1888,99.48.229.126,Texas,San Antonio,AT&T Corp.
+1889,174.207.26.73,Texas,Corpus Christi,Verizon Wireless
+1890,66.162.83.179,Texas,San Antonio,McCombs Enterprises
+1891,68.206.80.164,Texas,El Paso,Charter Communications Inc
+1892,136.49.177.117,Texas,Austin,Google Fiber Inc.
+1893,99.203.154.170,Texas,Houston,Sprint Communications Inc.
+1894,131.194.172.132,Texas,San Antonio,Trinity University
+1895,66.25.7.9,Texas,Irving,Charter Communications Inc
+1896,99.203.155.241,Texas,Houston,Sprint Communications Inc.
+1897,166.251.106.194,Texas,San Antonio,Wireless Data Service Provider Corporation
+1898,71.42.156.131,Texas,San Antonio,Seraton Gunter Hotel
+1899,173.239.232.121,Texas,Plano,North American Cable Television and Internet LLC
+1900,99.203.26.158,Texas,Houston,Sprint Communications Inc.
+1901,174.207.12.247,Texas,Pflugerville,Verizon Wireless
+1902,96.8.128.98,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+1903,99.203.155.0,Texas,Houston,Sprint Communications Inc.
+1904,72.177.209.244,Texas,San Antonio,Charter Communications Inc
+1905,107.77.220.64,Texas,Houston,AT&T Mobility LLC
+1906,173.173.102.182,Texas,San Antonio,Charter Communications Inc
+1907,174.235.7.82,Texas,Friendswood,Verizon Wireless
+1908,107.77.221.203,Texas,Corpus Christi,AT&T Mobility LLC
+1909,174.207.2.137,Texas,Waco,Verizon Wireless
+1910,63.240.174.244,Ohio,Cincinnati,Accenture
+1911,70.120.3.91,Texas,San Antonio,Charter Communications Inc
+1912,98.6.95.27,Texas,Irving,Starbucks
+1913,130.45.33.209,Texas,San Antonio,Grande Communications San Antonio Hub
+1914,136.50.6.131,Texas,San Antonio,Google Fiber Inc.
+1915,98.158.241.75,Texas,Dallas,Symantec Corporation
+1916,69.16.147.251,Arizona,Phoenix,SecuredConnectivity.net
+1917,99.203.154.189,Texas,Houston,Sprint Communications Inc.
+1918,173.175.109.235,Texas,Leon Valley,Charter Communications Inc
+1919,174.207.15.199,Texas,Waco,Verizon Wireless
+1920,99.203.27.24,Texas,Houston,Sprint Communications Inc.
+1921,99.203.27.189,Texas,Houston,Sprint Communications Inc.
+1922,107.77.217.196,Texas,Houston,AT&T Mobility LLC
+1923,99.203.155.17,Texas,Houston,Sprint Communications Inc.
+1924,99.203.27.196,Texas,Houston,Sprint Communications Inc.
+1925,99.203.27.188,Texas,Houston,Sprint Communications Inc.
+1926,67.11.84.66,Texas,San Antonio,Charter Communications Inc
+1927,107.77.221.110,Texas,Corpus Christi,AT&T Mobility LLC
+1928,173.123.45.184,Texas,Houston,Sprint Communications Inc.
+1929,52.176.52.196,Iowa,Des Moines,Microsoft Corporation
+1930,97.79.140.198,Texas,Schertz,Holiday Inn
+1931,99.203.154.118,Texas,Houston,Sprint Communications Inc.
+1932,67.11.39.16,Texas,Leon Valley,Charter Communications Inc
+1933,99.61.24.168,Texas,San Antonio,AT&T Corp.
+1934,72.191.19.45,Texas,San Antonio,Charter Communications Inc
+1935,107.77.219.64,Texas,Houston,AT&T Mobility LLC
+1936,104.190.242.24,Texas,San Antonio,AT&T Corp.
+1937,24.243.17.137,Texas,San Antonio,Charter Communications Inc
+1938,67.10.129.157,Texas,San Antonio,Charter Communications Inc
+1939,96.8.160.28,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+1940,99.203.26.219,Texas,Houston,Sprint Communications Inc.
+1941,66.69.60.160,Texas,San Antonio,Charter Communications Inc
+1942,75.41.19.157,Texas,San Antonio,AT&T Corp.
+1943,72.191.30.236,Texas,San Antonio,Charter Communications Inc
+1944,24.243.31.34,Texas,San Antonio,Charter Communications Inc
+1945,70.124.99.231,Texas,Laredo,Charter Communications Inc
+1946,174.207.24.226,Texas,Midland,Verizon Wireless
+1947,72.180.0.21,Texas,Lewisville,Charter Communications Inc
+1948,71.183.39.187,New York,New York City,Verizon Communications Inc.
+1949,66.25.166.124,Texas,San Antonio,Charter Communications Inc
+1950,71.78.236.131,Texas,San Antonio,IHG Connect
+1951,174.207.25.208,Texas,Amarillo,Verizon Wireless
+1952,70.113.107.71,Texas,Round Rock,Charter Communications Inc
+1953,66.69.76.167,Texas,San Antonio,Charter Communications Inc
+1954,174.207.2.32,Texas,Waco,Verizon Wireless
+1955,70.121.182.158,Texas,San Antonio,Charter Communications Inc
+1956,51.9.81.63,England,Maidenhead,British Telecommunications PLC
+1957,165.225.48.93,Virginia,Herndon,Zscaler Inc.
+1958,24.243.55.34,Texas,San Antonio,Charter Communications Inc
+1959,173.239.232.3,Texas,Plano,North American Cable Television and Internet LLC
+1960,99.203.27.110,Texas,Houston,Sprint Communications Inc.
+1961,46.218.181.194,Ile-de-France,Nanterre,Completel SAS
+1962,172.127.182.225,Texas,San Antonio,AT&T Corp.
+1963,70.121.220.218,Texas,San Antonio,Charter Communications Inc
+1964,173.175.112.68,Texas,San Antonio,Charter Communications Inc
+1965,172.56.7.6,Texas,Waxahachie,T-Mobile USA Inc.
+1966,98.6.44.42,Texas,San Antonio,Salient CRGT
+1967,12.162.134.81,Texas,San Antonio,County of Bexar
+1968,67.11.131.55,Texas,San Antonio,Charter Communications Inc
+1969,68.206.251.51,Texas,San Antonio,Charter Communications Inc
+1970,173.239.232.153,Texas,Plano,North American Cable Television and Internet LLC
+1971,172.58.106.143,Texas,Cleburne,T-Mobile USA Inc.
+1972,104.189.72.26,Texas,San Antonio,AT&T Corp.
+1973,71.42.105.170,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+1974,71.42.105.171,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+1975,174.207.16.237,Texas,Seminole,Verizon Wireless
+1976,165.225.48.84,Virginia,Herndon,Zscaler Inc.
+1977,99.147.239.234,Texas,San Antonio,AT&T Corp.
+1978,129.115.195.52,Texas,San Antonio,University of Texas at San Antonio
+1979,71.42.105.172,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+1980,65.43.113.131,Texas,San Antonio,AT&T Internet Services
+1981,99.203.26.138,Texas,Houston,Sprint Communications Inc.
+1982,174.207.23.167,Texas,San Antonio,Verizon Wireless
+1983,76.185.135.244,Texas,San Antonio,Charter Communications Inc
+1984,184.203.165.194,Arizona,Phoenix,Sprint Communications Inc.
+1985,166.251.112.234,Texas,San Antonio,Wireless Data Service Provider Corporation
+1986,72.191.11.178,Texas,San Antonio,Charter Communications Inc
+1987,107.77.221.76,Texas,Corpus Christi,AT&T Mobility LLC
+1988,174.255.132.169,Texas,Clarendon,Verizon Wireless
+1989,67.10.128.187,Texas,San Antonio,Charter Communications Inc
+1990,107.77.218.199,Texas,San Antonio,AT&T Mobility LLC
+1991,173.173.104.202,Texas,San Antonio,Charter Communications Inc
+1992,107.77.217.32,Texas,Houston,AT&T Mobility LLC
+1993,129.115.195.28,Texas,San Antonio,University of Texas at San Antonio
+1994,173.239.232.138,Texas,Plano,North American Cable Television and Internet LLC
+1995,71.42.105.147,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+1996,172.56.6.211,Oklahoma,Jay,T-Mobile USA Inc.
+1997,72.21.196.64,Virginia,Ashburn,Amazon Corporate LLC
+1998,70.118.9.107,Texas,San Antonio,Speed Clean Laundry LLC
+1999,69.232.103.179,Texas,San Antonio,AT&T Corp.
+2000,107.77.219.47,Texas,Houston,AT&T Mobility LLC
+2001,72.21.196.67,Virginia,Ashburn,Amazon Corporate LLC
+2002,103.208.220.141,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+2003,173.175.112.68,Texas,San Antonio,Charter Communications Inc
+2004,172.56.7.6,Texas,Waxahachie,T-Mobile USA Inc.
+2005,98.6.44.42,Texas,San Antonio,Salient CRGT
+2006,12.162.134.81,Texas,San Antonio,County of Bexar
+2007,67.11.131.55,Texas,San Antonio,Charter Communications Inc
+2008,68.206.251.51,Texas,San Antonio,Charter Communications Inc
+2009,173.239.232.153,Texas,Plano,North American Cable Television and Internet LLC
+2010,172.58.106.143,Texas,Cleburne,T-Mobile USA Inc.
+2011,104.189.72.26,Texas,San Antonio,AT&T Corp.
+2012,71.42.105.170,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+2013,71.42.105.171,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+2014,174.207.16.237,Texas,Seminole,Verizon Wireless
+2015,165.225.48.84,Virginia,Herndon,Zscaler Inc.
+2016,99.147.239.234,Texas,San Antonio,AT&T Corp.
+2017,129.115.195.52,Texas,San Antonio,University of Texas at San Antonio
+2018,71.42.105.172,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+2019,65.43.113.131,Texas,San Antonio,AT&T Internet Services
+2020,99.203.26.138,Texas,Houston,Sprint Communications Inc.
+2021,174.207.23.167,Texas,San Antonio,Verizon Wireless
+2022,76.185.135.244,Texas,San Antonio,Charter Communications Inc
+2023,184.203.165.194,Arizona,Phoenix,Sprint Communications Inc.
+2024,166.251.112.234,Texas,San Antonio,Wireless Data Service Provider Corporation
+2025,72.191.11.178,Texas,San Antonio,Charter Communications Inc
+2026,107.77.221.76,Texas,Corpus Christi,AT&T Mobility LLC
+2027,174.255.132.169,Texas,Clarendon,Verizon Wireless
+2028,67.10.128.187,Texas,San Antonio,Charter Communications Inc
+2029,107.77.218.199,Texas,San Antonio,AT&T Mobility LLC
+2030,173.173.104.202,Texas,San Antonio,Charter Communications Inc
+2031,107.77.217.32,Texas,Houston,AT&T Mobility LLC
+2032,129.115.195.28,Texas,San Antonio,University of Texas at San Antonio
+2033,173.239.232.138,Texas,Plano,North American Cable Television and Internet LLC
+2034,71.42.105.147,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+2035,172.56.6.211,Oklahoma,Jay,T-Mobile USA Inc.
+2036,72.21.196.64,Virginia,Ashburn,Amazon Corporate LLC
+2037,70.118.9.107,Texas,San Antonio,Speed Clean Laundry LLC
+2038,69.232.103.179,Texas,San Antonio,AT&T Corp.
+2039,107.77.219.47,Texas,Houston,AT&T Mobility LLC
+2040,72.21.196.67,Virginia,Ashburn,Amazon Corporate LLC
+2041,103.208.220.141,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+2042,99.88.62.137,Texas,San Antonio,AT&T Corp.
+2043,130.45.51.161,Texas,San Antonio,Grande Communications San Antonio Hub
+2044,72.21.196.66,Virginia,Ashburn,Amazon Corporate LLC
+2045,12.5.63.226,Texas,San Antonio,Grunt Style LLC
+2046,70.117.29.41,Texas,Leon Valley,Charter Communications Inc
+2047,165.225.48.85,Virginia,Herndon,Zscaler Inc.
+2048,71.42.105.182,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+2049,107.209.79.143,Texas,Houston,AT&T Corp.
+2050,64.250.4.125,Texas,Seguin,Gvec.net Inc.
+2051,71.78.144.162,Texas,Plano,Old Annex Office Solutions LLC
+2052,67.2.167.92,Utah,Cedar City,CenturyLink Communications LLC
+2053,75.70.247.39,Colorado,Colorado Springs,Comcast Cable Communications LLC
+2054,173.239.232.135,Texas,Plano,North American Cable Television and Internet LLC
+2055,99.203.27.92,Texas,Houston,Sprint Communications Inc.
+2056,99.61.71.158,Texas,Austin,AT&T Corp.
+2057,173.239.232.177,Texas,Plano,North American Cable Television and Internet LLC
+2058,107.77.221.57,Texas,Corpus Christi,AT&T Mobility LLC
+2059,67.164.150.90,New Mexico,Santa Fe,Comcast Cable Communications LLC
+2060,72.190.178.21,Texas,San Antonio,Charter Communications Inc
+2061,99.203.154.221,Texas,Houston,Sprint Communications Inc.
+2062,173.173.96.202,Texas,San Antonio,Charter Communications Inc
+2063,172.87.151.154,Texas,San Antonio,Freebirds Project
+2064,24.243.71.31,Texas,San Antonio,Charter Communications Inc
+2065,107.77.222.224,Texas,San Antonio,AT&T Mobility LLC
+2066,72.181.98.75,Texas,San Antonio,Charter Communications Inc
+2067,72.128.139.130,Texas,San Antonio,Methodist Healthcare
+2068,172.58.110.34,Texas,Plano,T-Mobile USA Inc.
+2069,72.48.241.23,Texas,San Antonio,Grande Communications San Antonio
+2070,66.139.85.115,Texas,Plano,Southern Steel Co.
+2071,72.179.189.66,Texas,San Antonio,Charter Communications Inc
+2072,216.180.182.238,Idaho,Malta,ATC Communications
+2073,77.136.40.123,Pays-de-la-Loire,Angers,SFR SA
+2074,166.251.112.225,Texas,San Antonio,Wireless Data Service Provider Corporation
+2075,156.80.4.2,Virginia,Arlington,Booz Allen Hamilton Inc.
+2076,71.235.91.18,Connecticut,New Haven,Comcast Cable Communications LLC
+2077,75.144.206.81,Massachusetts,Needham,Comcast Cable Communications LLC
+2078,71.42.105.167,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+2079,69.16.147.252,Arizona,Phoenix,SecuredConnectivity.net
+2080,40.141.115.69,Texas,Austin,Windstream Communications LLC
+2081,24.26.235.149,Texas,San Antonio,Charter Communications Inc
+2082,65.121.50.194,Colorado,Greenwood Village,Six Continents Hotels Inc
+2083,71.136.252.180,Texas,San Antonio,AT&T Corp.
+2084,67.79.222.107,Texas,San Antonio,Starbucks
+2085,107.77.220.195,Texas,Houston,AT&T Mobility LLC
+2086,75.15.242.245,Texas,San Antonio,AT&T Corp.
+2087,67.79.40.22,Texas,Leon Valley,Charter Communications Inc
+2088,162.251.247.25,Texas,San Antonio,Private Customer
+2089,71.42.105.146,Texas,Sulphur Springs,Korcett-Tobin Hill Lofts
+2090,24.243.18.90,Texas,San Antonio,Charter Communications Inc
+2091,166.251.106.189,Texas,San Antonio,Wireless Data Service Provider Corporation
+2092,130.45.35.132,Texas,San Antonio,Grande Communications San Antonio Hub
+2093,99.203.90.1,Texas,Houston,Sprint Communications Inc.
+2094,107.77.218.195,Texas,San Antonio,AT&T Mobility LLC
+2095,107.77.217.142,Texas,Houston,AT&T Mobility LLC
+2096,156.80.4.22,Virginia,Arlington,Booz Allen Hamilton Inc.
+2097,24.242.183.202,Texas,Plano,Charter Communications Inc
+2098,173.175.112.130,Texas,San Antonio,Charter Communications Inc
+2099,107.77.217.47,Texas,Houston,AT&T Mobility LLC
+2100,172.58.99.40,Texas,Houston,T-Mobile USA Inc.
+2101,108.207.130.89,Texas,San Antonio,AT&T Corp.
+2102,70.120.80.21,Texas,San Antonio,Charter Communications Inc
+2103,104.53.215.7,Texas,San Antonio,AT&T Corp.
+2104,66.25.149.223,Texas,Universal City,Charter Communications Inc
+2105,107.77.220.6,Texas,Houston,AT&T Mobility LLC
+2106,70.116.81.203,Texas,San Antonio,Charter Communications Inc
+2107,75.54.32.17,Texas,San Antonio,Alamo Community College District
+2108,71.40.12.162,Texas,San Antonio,Intertek
+2109,89.187.164.77,Texas,Dallas,DataCamp s.r.o.
+2110,70.94.181.28,Texas,San Antonio,Charter Communications Inc
+2111,70.121.153.24,Texas,San Antonio,Charter Communications Inc
+2112,67.10.128.179,Texas,San Antonio,Charter Communications Inc
+2113,72.181.104.49,Texas,San Antonio,Charter Communications Inc
+2114,89.187.164.168,Texas,Dallas,DataCamp s.r.o.
+2115,89.187.164.162,Texas,Dallas,DataCamp s.r.o.
+2116,89.187.164.76,Texas,Dallas,DataCamp s.r.o.
+2117,67.11.218.22,Texas,San Antonio,Charter Communications Inc
+2118,99.203.212.122,Texas,Houston,Sprint Communications Inc.
+2119,70.94.150.75,Texas,San Antonio,Charter Communications Inc
+2120,76.255.12.121,Texas,Richardson,AT&T Internet Services
+2121,216.82.129.193,Texas,Seguin,Private Customer
+2122,72.190.184.30,Texas,San Antonio,Charter Communications Inc
+2123,70.123.202.50,Texas,San Antonio,Charter Communications Inc
+2124,89.187.164.134,Texas,Dallas,DataCamp s.r.o.
+2125,66.69.122.35,Texas,New Braunfels,Charter Communications Inc
+2126,99.203.212.200,Texas,Houston,Sprint Communications Inc.
+2127,76.198.205.14,Texas,San Antonio,AT&T Corp.
+2128,99.137.88.24,Texas,San Antonio,AT&T Corp.
+2129,107.77.221.42,Texas,Corpus Christi,AT&T Mobility LLC
+2130,89.187.164.130,Texas,Dallas,DataCamp s.r.o.
+2131,107.77.219.68,Texas,Houston,AT&T Mobility LLC
+2132,89.187.164.132,Texas,Dallas,DataCamp s.r.o.
+2133,89.187.164.145,Texas,Dallas,DataCamp s.r.o.
+2134,173.123.163.49,Texas,Houston,Sprint Communications Inc.
+2135,173.174.191.137,Texas,San Antonio,Charter Communications Inc
+2136,70.94.160.224,Texas,San Antonio,Charter Communications Inc
+2137,104.191.10.15,Texas,San Antonio,AT&T Corp.
+2138,70.121.215.53,Texas,San Antonio,Charter Communications Inc
+2139,72.181.100.161,Texas,San Antonio,Charter Communications Inc
+2140,162.71.236.108,Texas,San Antonio,Christus Health
+2141,184.203.225.164,Arizona,Phoenix,Sprint Communications Inc.
+2142,173.174.177.48,Texas,San Antonio,Charter Communications Inc
+2143,136.50.54.38,Texas,San Antonio,Google Fiber Inc.
+2144,70.125.148.96,Texas,San Antonio,Charter Communications Inc
+2145,96.8.198.155,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+2146,89.187.164.146,Texas,Dallas,DataCamp s.r.o.
+2147,71.136.255.148,Texas,San Antonio,AT&T Corp.
+2148,107.77.217.168,Texas,Houston,AT&T Mobility LLC
+2149,70.123.195.48,Texas,San Antonio,Charter Communications Inc
+2150,72.177.228.146,Texas,San Antonio,Charter Communications Inc
+2151,206.109.23.139,Texas,San Antonio,Jab Wireless Inc.
+2152,68.203.199.3,Texas,San Antonio,Charter Communications Inc
+2153,67.10.166.10,Texas,San Antonio,Charter Communications Inc
+2154,96.44.144.194,Texas,Dallas,QuadraNet Inc
+2155,107.77.219.49,Texas,Houston,AT&T Mobility LLC
+2156,173.127.123.160,Texas,Houston,Sprint Communications Inc.
+2157,107.77.220.123,Texas,Houston,AT&T Mobility LLC
+2158,89.187.164.167,Texas,Dallas,DataCamp s.r.o.
+2159,72.190.172.10,Texas,San Antonio,Charter Communications Inc
+2160,67.11.223.207,Texas,San Antonio,Charter Communications Inc
+2161,89.187.164.165,Texas,Dallas,DataCamp s.r.o.
+2162,68.201.192.3,Texas,New Braunfels,Charter Communications Inc
+2163,99.48.230.93,Texas,San Antonio,AT&T Corp.
+2164,89.187.164.133,Texas,Dallas,DataCamp s.r.o.
+2165,89.187.164.163,Texas,Dallas,DataCamp s.r.o.
+2166,70.123.229.93,Texas,Universal City,Charter Communications Inc
+2167,89.187.164.79,Texas,Dallas,DataCamp s.r.o.
+2168,89.187.164.75,Texas,Dallas,DataCamp s.r.o.
+2169,107.77.221.160,Texas,Corpus Christi,AT&T Mobility LLC
+2170,67.11.111.87,Texas,San Antonio,Charter Communications Inc
+2171,89.187.164.74,Texas,Dallas,DataCamp s.r.o.
+2172,89.187.164.78,Texas,Dallas,DataCamp s.r.o.
+2173,98.158.244.8,Texas,Dallas,Symantec Corporation
+2174,64.145.67.138,California,Los Angeles,SecuredConnectivity.net
+2175,69.166.80.80,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+2176,107.77.221.136,Texas,Corpus Christi,AT&T Mobility LLC
+2177,208.54.83.234,Texas,Houston,T-Mobile USA Inc.
+2178,70.121.184.209,Texas,San Antonio,Charter Communications Inc
+2179,130.45.24.15,Texas,San Antonio,Grande Communications San Antonio Hub
+2180,73.14.59.241,Colorado,Lakewood,Comcast Cable Communications LLC
+2181,99.203.90.211,Texas,Houston,Sprint Communications Inc.
+2182,99.203.91.58,Texas,Houston,Sprint Communications Inc.
+2183,107.77.219.19,Texas,Houston,AT&T Mobility LLC
+2184,107.77.220.130,Texas,Houston,AT&T Mobility LLC
+2185,89.187.164.135,Texas,Dallas,DataCamp s.r.o.
+2186,66.69.86.155,Texas,San Antonio,Charter Communications Inc
+2187,107.77.221.36,Texas,Corpus Christi,AT&T Mobility LLC
+2188,162.194.246.150,Texas,San Antonio,AT&T Corp.
+2189,89.187.164.150,Texas,Dallas,DataCamp s.r.o.
+2190,89.187.164.131,Texas,Dallas,DataCamp s.r.o.
+2191,64.145.67.139,California,Los Angeles,SecuredConnectivity.net
+2192,89.187.164.147,Texas,Dallas,DataCamp s.r.o.
+2193,89.187.164.136,Texas,Dallas,DataCamp s.r.o.
+2194,64.148.251.171,Texas,San Antonio,AT&T Corp.
+2195,129.115.195.22,Texas,San Antonio,University of Texas at San Antonio
+2196,89.187.164.129,Texas,Dallas,DataCamp s.r.o.
+2197,67.11.212.182,Texas,San Antonio,Charter Communications Inc
+2198,89.187.164.151,Texas,Dallas,DataCamp s.r.o.
+2199,107.77.217.166,Texas,Houston,AT&T Mobility LLC
+2200,89.187.164.149,Texas,Dallas,DataCamp s.r.o.
+2201,89.187.164.166,Texas,Dallas,DataCamp s.r.o.
+2202,99.203.213.209,Texas,Houston,Sprint Communications Inc.
+2203,104.223.91.55,Georgia,Atlanta,QuadraNet Inc
+2204,174.207.23.110,Texas,San Antonio,Verizon Wireless
+2205,104.58.132.243,Texas,San Antonio,AT&T Corp.
+2206,66.154.110.205,Georgia,Atlanta,Assertivenet
+2207,161.129.70.3,Georgia,Atlanta,QuadraNet Enterprises LLC
+2208,104.223.95.92,Georgia,Atlanta,QuadraNet Inc
+2209,200.68.128.26,Guanajuato,Acambaro,RadioMovil Dipsa S.A. de C.V.
+2210,187.237.231.85,Hidalgo,Pachuca de Soto,Uninet S.A. de C.V.
+2211,174.207.5.16,Oklahoma,Guymon,Verizon Wireless
+2212,64.134.148.108,Texas,Austin,Wayport Inc.
+2213,155.94.241.194,Texas,Dallas,QuadraNet Inc
+2214,104.223.91.53,Georgia,Atlanta,QuadraNet Inc
+2215,104.223.95.94,Georgia,Atlanta,QuadraNet Inc
+2216,129.115.195.34,Texas,San Antonio,University of Texas at San Antonio
+2217,107.150.30.22,Georgia,Atlanta,QuadraNet Inc
+2218,104.129.24.36,Georgia,Atlanta,QuadraNet Inc
+2219,24.28.101.217,Texas,Austin,Charter Communications Inc
+2220,89.187.164.164,Texas,Dallas,DataCamp s.r.o.
+2221,189.156.27.111,Coahuila de Zaragoza,Saltillo,Gestion de Direccionamiento Uninet
+2222,89.187.164.161,Texas,Dallas,DataCamp s.r.o.
+2223,107.77.217.126,Texas,Houston,AT&T Mobility LLC
+2224,189.156.60.242,Coahuila de Zaragoza,Saltillo,Gestion de Direccionamiento Uninet
+2225,201.163.149.250,Nuevo Leon,Monterrey,Alestra S. de R.L. de C.V.
+2226,71.132.254.162,Texas,San Antonio,AT&T Corp.
+2227,68.203.199.194,Texas,San Antonio,Charter Communications Inc
+2228,66.25.7.76,Texas,Irving,Charter Communications Inc
+2229,64.134.155.129,Texas,Austin,Wayport Inc.
+2230,98.6.153.146,Texas,Plano,Onsi Group
+2231,204.60.9.26,Texas,Austin,AT&T Corp.
+2232,107.77.217.37,Texas,Houston,AT&T Mobility LLC
+2233,208.54.86.247,Texas,Dallas,T-Mobile USA Inc.
+2234,64.132.229.66,California,Los Angeles,TW Telecom Holdings Inc.
+2235,70.120.59.12,Texas,San Antonio,Charter Communications Inc
+2236,24.26.250.41,Texas,San Antonio,Charter Communications Inc
+2237,71.135.71.73,Texas,Carrollton,AT&T Corp.
+2238,24.28.101.172,Texas,Austin,Charter Communications Inc
+2239,172.56.6.41,Oklahoma,Jay,T-Mobile USA Inc.
+2240,107.77.217.20,Texas,Houston,AT&T Mobility LLC
+2241,209.107.196.134,Georgia,Atlanta,SecuredConnectivity.net
+2242,64.145.67.143,California,Los Angeles,SecuredConnectivity.net
+2243,99.43.107.186,Texas,San Antonio,AT&T Corp.
+2244,107.77.221.196,Texas,Corpus Christi,AT&T Mobility LLC
+2245,66.194.160.106,Texas,El Paso,TW Telecom Holdings Inc.
+2246,99.202.73.143,Georgia,Atlanta,Sprint Communications Inc.
+2247,99.97.208.13,Texas,Richardson,AT&T Corp.
+2248,107.242.125.8,New Mexico,Carlsbad,AT&T Mobility LLC
+2249,166.128.126.112,Pennsylvania,Doylestown,AT&T Mobility LLC
+2250,104.190.242.242,Texas,San Antonio,AT&T Corp.
+2251,172.58.106.58,Texas,Cleburne,T-Mobile USA Inc.
+2252,89.187.164.152,Texas,Dallas,DataCamp s.r.o.
+2253,216.4.53.35,California,Irvine,Verizon Communications Inc.
+2254,174.207.23.126,Texas,San Antonio,Verizon Wireless
+2255,99.203.154.85,Texas,Houston,Sprint Communications Inc.
+2256,76.187.203.223,Texas,Plano,Charter Communications Inc
+2257,103.208.220.131,Tokyo,Shinagawa-ku,Total Server Solutions LLC
+2258,165.237.199.139,Missouri,Belton,Charter Communications Inc
+2259,71.143.82.236,Texas,San Antonio,AT&T Corp.
+2260,107.77.218.77,Texas,San Antonio,AT&T Mobility LLC
+2261,75.1.145.2,Texas,San Antonio,AT&T Corp.
+2262,208.54.86.244,Texas,Dallas,T-Mobile USA Inc.
+2263,130.45.62.247,Texas,San Antonio,Grande Communications San Antonio Hub
+2264,69.232.48.130,Washington,Redmond,AT&T Corp.
+2265,107.77.222.171,Texas,San Antonio,AT&T Mobility LLC
+2266,172.58.109.121,New Mexico,Albuquerque,T-Mobile USA Inc.
+2267,24.28.109.234,Texas,Austin,Charter Communications Inc
+2268,47.180.185.126,California,Los Angeles,Frontier Communications Corporation
+2269,172.114.236.29,California,Hermosa Beach,Charter Communications Inc
+2270,72.177.141.60,Texas,San Antonio,Charter Communications Inc
+2271,70.125.140.30,Texas,San Antonio,Charter Communications Inc
+2272,107.77.228.136,California,Lancaster,AT&T Mobility LLC
+2273,67.11.115.125,Texas,San Antonio,Charter Communications Inc
+2274,107.77.222.137,Texas,San Antonio,AT&T Mobility LLC
+2275,172.8.173.224,Texas,San Antonio,AT&T Corp.
+2276,173.175.104.33,Texas,San Antonio,Charter Communications Inc
+2277,71.42.196.114,Texas,San Antonio,Tobin Center for the Performing Arts
+2278,70.226.109.182,Texas,San Antonio,AT&T Corp.
+2279,172.124.64.127,Texas,San Antonio,AT&T Corp.
+2280,216.110.79.11,Texas,San Antonio,TW Telecom Holdings Inc.
+2281,108.174.80.231,Texas,Bandera,BEC Fiber
+2282,174.207.21.10,Texas,Kerrville,Verizon Wireless
+2283,67.10.174.4,Texas,San Antonio,Charter Communications Inc
+2284,172.8.173.98,Texas,San Antonio,AT&T Corp.
+2285,136.50.49.145,Texas,San Antonio,Google Fiber Inc.
+2286,67.11.120.157,Texas,San Antonio,Charter Communications Inc
+2287,173.149.142.35,Texas,Houston,Sprint Communications Inc.
+2288,208.54.86.133,Texas,Dallas,T-Mobile USA Inc.
+2289,174.207.20.146,Florida,Homestead,Verizon Wireless
+2290,76.250.156.19,Texas,San Antonio,AT&T Corp.
+2291,24.243.22.68,Texas,San Antonio,Charter Communications Inc
+2292,70.226.110.58,Texas,San Antonio,AT&T Corp.
+2293,66.68.53.12,Texas,Austin,Charter Communications Inc
+2294,166.251.109.48,Texas,San Antonio,Wireless Data Service Provider Corporation
+2295,173.134.114.250,Minnesota,Saint Paul,Sprint Communications Inc.
+2296,172.56.7.179,Texas,Waxahachie,T-Mobile USA Inc.
+2297,173.174.211.244,Texas,San Antonio,Charter Communications Inc
+2298,99.98.32.97,Texas,San Antonio,AT&T Corp.
+2299,66.25.13.167,Texas,Irving,Charter Communications Inc
+2300,130.45.33.133,Texas,San Antonio,Grande Communications San Antonio Hub
+2301,75.1.166.163,Texas,San Antonio,AT&T Corp.
+2302,70.117.31.136,Texas,San Antonio,Charter Communications Inc
+2303,72.181.117.73,Texas,San Antonio,Charter Communications Inc
+2304,107.77.220.90,Texas,Houston,AT&T Mobility LLC
+2305,66.69.81.250,Texas,San Antonio,Charter Communications Inc
+2306,173.174.7.203,Texas,Kerrville,Charter Communications Inc
+2307,76.211.181.33,Texas,San Antonio,AT&T Corp.
+2308,67.11.82.11,Texas,San Antonio,Charter Communications Inc
+2309,73.239.66.107,Washington,Sammamish,Comcast Cable Communications LLC
+2310,173.127.7.219,Texas,Houston,Sprint Communications Inc.
+2311,173.127.93.78,Texas,Houston,Sprint Communications Inc.
+2312,136.50.54.2,Texas,San Antonio,Google Fiber Inc.
+2313,174.207.22.226,Texas,Harlingen,Verizon Wireless
+2314,71.78.109.210,Texas,New Braunfels,Mission Hill Apartment Homes
+2315,174.206.2.148,Texas,Fort Worth,Verizon Wireless
+2316,107.77.218.210,Texas,San Antonio,AT&T Mobility LLC
+2317,70.120.57.140,Texas,San Antonio,Charter Communications Inc
+2318,45.21.2.131,Texas,San Antonio,AT&T Corp.
+2319,172.56.7.186,Texas,Waxahachie,T-Mobile USA Inc.
+2320,72.190.170.159,Texas,San Antonio,Charter Communications Inc
+2321,107.77.217.49,Texas,Houston,AT&T Mobility LLC
+2322,68.65.212.72,New York,New York City,essensys Inc.
+2323,174.207.8.122,Texas,Brownsville,Verizon Wireless
+2324,4.7.145.58,Texas,San Antonio,Level 3 Communications Inc.
+2325,172.85.165.138,Massachusetts,Quincy,Granite Telecommunications LLC
+2326,174.207.12.204,Texas,Pflugerville,Verizon Wireless
+2327,99.203.90.147,Texas,Houston,Sprint Communications Inc.
+2328,99.158.246.101,Texas,San Antonio,AT&T Corp.
+2329,107.132.82.186,Texas,San Antonio,AT&T Corp.
+2330,173.173.105.24,Texas,San Antonio,Charter Communications Inc
+2331,76.185.182.104,Texas,San Antonio,Charter Communications Inc
+2332,208.54.83.145,Texas,Houston,T-Mobile USA Inc.
+2333,96.66.54.118,Michigan,Livonia,Comcast Cable Communications LLC
+2334,172.56.7.16,Texas,Waxahachie,T-Mobile USA Inc.
+2335,107.77.217.214,Texas,Houston,AT&T Mobility LLC
+2336,70.94.183.166,Texas,San Antonio,Charter Communications Inc
+2337,107.77.222.231,Texas,San Antonio,AT&T Mobility LLC
+2338,162.245.203.7,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+2339,107.200.109.74,Texas,Richardson,AT&T Corp.
+2340,24.160.145.169,Texas,San Antonio,Charter Communications Inc
+2341,173.174.212.216,Texas,San Antonio,Charter Communications Inc
+2342,12.232.254.62,California,Temecula,Marriott International
+2343,174.207.24.245,Texas,Midland,Verizon Wireless
+2344,96.8.151.49,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+2345,89.187.164.148,Texas,Dallas,DataCamp s.r.o.
+2346,172.56.15.51,Texas,Houston,T-Mobile USA Inc.
+2347,148.66.38.18,Texas,San Antonio,Jump Fiber
+2348,76.185.236.152,Texas,San Antonio,Charter Communications Inc
+2349,75.54.32.45,Texas,San Antonio,Alamo Community College District
+2350,174.207.25.219,Texas,Amarillo,Verizon Wireless
+2351,107.77.220.191,Texas,Houston,AT&T Mobility LLC
+2352,173.174.220.17,Texas,San Antonio,Charter Communications Inc
+2353,104.56.10.184,Texas,San Antonio,AT&T Corp.
+2354,70.123.161.21,Texas,San Antonio,Charter Communications Inc
+2355,76.185.227.82,Texas,San Antonio,Charter Communications Inc
+2356,64.108.32.10,Washington,Redmond,AT&T Corp.
+2357,71.136.251.115,Texas,San Antonio,AT&T Corp.
+2358,172.56.7.112,Texas,Waxahachie,T-Mobile USA Inc.
+2359,64.124.33.178,Colorado,Englewood,City of Sunnyvale
+2360,107.77.222.64,Texas,San Antonio,AT&T Mobility LLC
+2361,166.251.109.196,Texas,San Antonio,Wireless Data Service Provider Corporation
+2362,172.58.103.191,Texas,Austin,T-Mobile USA Inc.
+2363,174.207.22.2,Texas,Harlingen,Verizon Wireless
+2364,107.77.219.96,Texas,Houston,AT&T Mobility LLC
+2365,99.203.155.182,Texas,Houston,Sprint Communications Inc.
+2366,107.77.189.37,Texas,Houston,AT&T Mobility LLC
+2367,107.77.220.214,Texas,Houston,AT&T Mobility LLC
+2368,107.77.218.8,Texas,San Antonio,AT&T Mobility LLC
+2369,71.41.242.68,Texas,San Antonio,Starbucks
+2370,130.45.19.88,Texas,San Antonio,Grande Communications San Antonio Hub
+2371,172.14.106.31,Texas,San Antonio,AT&T Corp.
+2372,207.189.160.150,Texas,Austin,Sailpoint Technologies Inc.
+2373,56.0.84.25,Indiana,Fishers,United States Postal Service
+2374,174.207.20.223,Florida,Homestead,Verizon Wireless
+2375,108.78.170.79,Texas,Austin,AT&T Corp.
+2376,172.56.7.51,Texas,Waxahachie,T-Mobile USA Inc.
+2377,70.123.193.100,Texas,San Antonio,Charter Communications Inc
+2378,99.203.22.172,Texas,Fort Worth,Sprint Communications Inc.
+2379,174.207.0.141,Texas,Austin,Verizon Wireless
+2380,72.181.104.173,Texas,San Antonio,Charter Communications Inc
+2381,50.84.152.78,Texas,San Antonio,Charter Communications Inc
+2382,66.69.90.155,Texas,San Antonio,Codeup LLC
+2383,72.181.104.118,Texas,San Antonio,Charter Communications Inc
+2384,107.77.219.187,Texas,Houston,AT&T Mobility LLC
+2385,70.123.225.30,Texas,Universal City,Charter Communications Inc
+2386,97.79.128.78,Texas,San Antonio,Charter Communications Inc
+2387,99.100.172.39,Texas,San Antonio,AT&T Corp.
+2388,72.178.121.51,Texas,San Antonio,Charter Communications Inc
+2389,70.117.3.179,Texas,San Antonio,Charter Communications Inc
+2390,23.118.235.0,Texas,San Antonio,AT&T Corp.
+2391,67.11.169.7,Texas,San Antonio,Charter Communications Inc
+2392,72.181.116.205,Texas,San Antonio,Charter Communications Inc
+2393,70.121.205.5,Texas,San Antonio,Charter Communications Inc
+2394,24.243.7.150,Texas,San Antonio,Charter Communications Inc
+2395,76.211.177.61,Texas,San Antonio,AT&T Corp.
+2396,99.184.63.30,Texas,San Antonio,AT&T Corp.
+2397,66.25.173.125,Texas,San Antonio,Charter Communications Inc
+2398,99.76.234.122,Texas,San Antonio,AT&T Corp.
+2399,107.77.217.129,Texas,Houston,AT&T Mobility LLC
+2400,107.77.221.154,Texas,Corpus Christi,AT&T Mobility LLC
+2401,70.121.199.78,Texas,San Antonio,Charter Communications Inc
+2402,96.8.178.32,Texas,Blanco,Guadalupe Valley Telephone Cooperative Inc.
+2403,24.243.20.159,Texas,San Antonio,Charter Communications Inc
+2404,172.124.70.113,Texas,San Antonio,AT&T Corp.
+2405,172.56.7.208,Texas,Waxahachie,T-Mobile USA Inc.
+2406,68.207.65.153,Texas,San Antonio,Charter Communications Inc
+2407,107.77.221.64,Texas,Corpus Christi,AT&T Mobility LLC
+2408,172.56.14.146,Texas,Houston,T-Mobile USA Inc.
+2409,107.77.222.175,Texas,San Antonio,AT&T Mobility LLC
+2410,70.123.239.48,Texas,Universal City,Charter Communications Inc
+2411,99.100.170.238,Texas,San Antonio,AT&T Corp.
+2412,174.207.6.110,Texas,Kingsland,Verizon Wireless
+2413,98.6.147.203,Texas,San Antonio,Starbucks
+2414,12.5.63.210,Texas,San Antonio,LiftFund Inc.
+2415,99.203.155.78,Texas,Houston,Sprint Communications Inc.
+2416,75.131.8.233,Georgia,Stockbridge,Charter Communications Inc
+2417,107.77.217.144,Texas,Houston,AT&T Mobility LLC
+2418,97.79.141.50,Texas,San Marcos,Needhee Inc DBA Comfort Inn & Suites
+2419,99.43.109.88,Texas,San Antonio,AT&T Corp.
+2420,12.252.48.110,New Jersey,Middletown,AT&T Internet Services
+2421,74.3.157.69,Manitoba,Winnipeg,Shaw Telecom G.P.
+2422,70.117.19.13,Texas,Leon Valley,Charter Communications Inc
+2423,216.82.131.133,Texas,Seguin,Private Customer
+2424,72.191.48.208,Texas,Leon Valley,Charter Communications Inc
+2425,209.6.64.234,Massachusetts,Cambridge,RCN
+2426,67.11.138.10,Texas,San Antonio,Charter Communications Inc
+2427,166.251.106.102,Texas,San Antonio,Wireless Data Service Provider Corporation
+2428,107.77.218.109,Texas,San Antonio,AT&T Mobility LLC
+2429,99.158.247.1,Texas,San Antonio,AT&T Corp.
+2430,72.179.166.181,Texas,San Antonio,Charter Communications Inc
+2431,108.199.117.188,Texas,San Antonio,AT&T Corp.
+2432,72.177.232.192,Texas,San Antonio,Charter Communications Inc
+2433,107.77.218.158,Texas,San Antonio,AT&T Mobility LLC
+2434,166.251.109.223,Texas,San Antonio,Wireless Data Service Provider Corporation
+2435,76.185.128.151,Texas,San Antonio,Charter Communications Inc
+2436,174.206.26.70,Texas,Irving,Verizon Wireless
+2437,174.206.18.197,Texas,Fort Worth,Verizon Wireless
+2438,172.58.111.192,Texas,Austin,T-Mobile USA Inc.
+2439,174.206.24.69,Louisiana,Shreveport,Verizon Wireless
+2440,70.117.59.30,Texas,San Antonio,Charter Communications Inc
+2441,96.8.178.202,Texas,Blanco,Guadalupe Valley Telephone Cooperative Inc.
+2442,68.201.78.226,Texas,Dilley,Charter Communications Inc
+2443,184.226.46.205,Texas,Houston,Sprint Communications Inc.
+2444,165.225.48.86,Virginia,Herndon,Zscaler Inc.
+2445,208.54.86.240,Texas,Dallas,T-Mobile USA Inc.
+2446,174.207.17.181,Texas,Odessa,Verizon Wireless
+2447,166.251.106.216,Texas,San Antonio,Wireless Data Service Provider Corporation
+2448,174.207.2.195,Texas,Waco,Verizon Wireless
+2449,174.207.8.123,Texas,Brownsville,Verizon Wireless
+2450,172.58.103.188,Texas,Austin,T-Mobile USA Inc.
+2451,107.128.5.96,Texas,San Antonio,AT&T Corp.
+2452,67.11.82.179,Texas,San Antonio,Charter Communications Inc
+2453,99.203.26.9,Texas,Houston,Sprint Communications Inc.
+2454,71.81.176.46,Texas,Fort Worth,Charter Communications Inc
+2455,174.207.25.229,Texas,Amarillo,Verizon Wireless
+2456,70.123.55.55,Texas,Austin,Charter Communications Inc
+2457,174.207.1.195,Texas,Plainview,Verizon Wireless
+2458,67.10.164.203,Texas,San Antonio,Charter Communications Inc
+2459,75.1.195.169,Texas,San Antonio,AT&T Corp.
+2460,172.58.110.227,Texas,Plano,T-Mobile USA Inc.
+2461,166.251.101.2,Texas,San Antonio,Wireless Data Service Provider Corporation
+2462,174.207.5.143,Oklahoma,Guymon,Verizon Wireless
+2463,12.97.187.16,Texas,San Antonio,Marriott International
+2464,56.0.143.23,Minnesota,Minneapolis,United States Postal Service
+2465,75.4.99.66,Texas,San Antonio,AT&T Corp.
+2466,173.174.169.114,Texas,San Antonio,Charter Communications Inc
+2467,67.10.154.68,Texas,San Antonio,Charter Communications Inc
+2468,165.237.199.136,Missouri,Belton,Charter Communications Inc
+2469,31.14.72.10,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2470,107.77.219.80,Texas,Houston,AT&T Mobility LLC
+2471,144.178.1.46,Texas,San Antonio,Apple Inc.
+2472,24.26.244.77,Texas,San Antonio,Charter Communications Inc
+2473,74.81.88.162,Texas,Spring,Network Transit Holdings LLC
+2474,66.25.130.242,Texas,San Antonio,Charter Communications Inc
+2475,174.207.14.251,Georgia,Atlanta,Verizon Wireless
+2476,108.71.183.46,Texas,Richardson,AT&T Corp.
+2477,173.239.232.12,Texas,Plano,North American Cable Television and Internet LLC
+2478,107.77.221.40,Texas,Corpus Christi,AT&T Mobility LLC
+2479,172.58.110.148,Texas,Plano,T-Mobile USA Inc.
+2480,107.77.189.50,Texas,Houston,AT&T Mobility LLC
+2481,172.58.107.104,Texas,Denison,T-Mobile USA Inc.
+2482,96.8.131.77,Texas,New Braunfels,Guadalupe Valley Telephone Cooperative Inc.
+2483,64.183.232.242,Texas,Corpus Christi,Charter Communications Inc
+2484,172.58.96.115,Texas,Houston,T-Mobile USA Inc.
+2485,107.77.221.153,Texas,Corpus Christi,AT&T Mobility LLC
+2486,70.123.164.223,Texas,San Antonio,Charter Communications Inc
+2487,172.58.70.158,Oklahoma,Oklahoma City,T-Mobile USA Inc.
+2488,107.77.222.8,Texas,San Antonio,AT&T Mobility LLC
+2489,174.207.6.56,Texas,Kingsland,Verizon Wireless
+2490,98.6.1.177,Texas,Plano,Butler Brothers Hospitality Group LLC DBA Fairfield Inn/Towneplace Suites
+2491,107.77.220.106,Texas,Houston,AT&T Mobility LLC
+2492,107.77.222.97,Texas,San Antonio,AT&T Mobility LLC
+2493,97.79.147.122,Texas,Plano,Charter Communications Inc
+2494,107.77.220.85,Texas,Houston,AT&T Mobility LLC
+2495,172.58.109.33,New Mexico,Albuquerque,T-Mobile USA Inc.
+2496,68.81.93.120,Pennsylvania,Philadelphia,Comcast Cable Communications LLC
+2497,104.191.75.0,Texas,San Antonio,AT&T Corp.
+2498,174.225.136.248,New Jersey,Newark,Verizon Wireless
+2499,12.106.208.194,Texas,Dallas,701 Commerce Level Office
+2500,70.114.56.233,Texas,San Antonio,Charter Communications Inc
+2501,66.25.146.95,Texas,San Antonio,Charter Communications Inc
+2502,12.97.187.13,Texas,San Antonio,Marriott International
+2503,68.249.0.44,Washington,Redmond,AT&T Corp.
+2504,12.97.187.15,Texas,San Antonio,Marriott International
+2505,166.251.109.240,Texas,San Antonio,Wireless Data Service Provider Corporation
+2506,107.77.220.219,Texas,Houston,AT&T Mobility LLC
+2507,172.58.109.108,New Mexico,Albuquerque,T-Mobile USA Inc.
+2508,107.77.222.131,Texas,San Antonio,AT&T Mobility LLC
+2509,71.40.4.250,Texas,San Antonio,Charter Communications Inc
+2510,56.0.84.26,Indiana,Fishers,United States Postal Service
+2511,174.207.2.122,Texas,Waco,Verizon Wireless
+2512,165.225.48.90,Virginia,Herndon,Zscaler Inc.
+2513,45.21.32.233,Texas,San Antonio,AT&T Corp.
+2514,107.77.222.99,Texas,San Antonio,AT&T Mobility LLC
+2515,104.53.202.72,Texas,San Antonio,AT&T Corp.
+2516,31.14.72.25,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2517,31.14.72.31,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2518,31.14.72.32,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2519,174.207.24.231,Texas,Midland,Verizon Wireless
+2520,172.58.107.139,Texas,Denison,T-Mobile USA Inc.
+2521,74.81.88.18,Texas,Spring,Network Transit Holdings LLC
+2522,107.77.218.4,Texas,San Antonio,AT&T Mobility LLC
+2523,107.77.218.92,Texas,San Antonio,AT&T Mobility LLC
+2524,70.121.171.212,Texas,San Antonio,Charter Communications Inc
+2525,107.77.221.116,Texas,Corpus Christi,AT&T Mobility LLC
+2526,31.14.72.26,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2527,107.77.221.227,Texas,Corpus Christi,AT&T Mobility LLC
+2528,107.77.221.97,Texas,Corpus Christi,AT&T Mobility LLC
+2529,107.77.221.32,Texas,Corpus Christi,AT&T Mobility LLC
+2530,174.207.11.139,Texas,Cedar Park,Verizon Wireless
+2531,70.94.160.147,Texas,San Antonio,Charter Communications Inc
+2532,184.203.5.0,Arizona,Phoenix,Sprint Communications Inc.
+2533,184.203.21.120,Arizona,Phoenix,Sprint Communications Inc.
+2534,96.8.130.165,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+2535,173.173.109.125,Texas,San Antonio,Charter Communications Inc
+2536,45.31.212.88,Texas,San Antonio,AT&T Corp.
+2537,107.77.217.140,Texas,Houston,AT&T Mobility LLC
+2538,72.181.117.187,Texas,San Antonio,Charter Communications Inc
+2539,205.251.151.18,Texas,Spring,Network Transit Holdings LLC
+2540,31.14.72.17,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2541,129.115.2.251,Texas,San Antonio,University of Texas at San Antonio
+2542,31.14.72.18,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2543,31.14.72.19,Ciudad de Mexico,Mexico City,AVAST Software s.r.o.
+2544,107.77.219.48,Texas,Houston,AT&T Mobility LLC
+2545,174.207.15.244,Texas,Waco,Verizon Wireless
+2546,72.181.112.251,Texas,San Antonio,Charter Communications Inc
+2547,68.206.165.118,Texas,San Antonio,Charter Communications Inc
+2548,108.199.117.235,Texas,San Antonio,AT&T Corp.
+2549,173.123.161.160,Texas,Houston,Sprint Communications Inc.
+2550,99.43.137.218,Washington,Redmond,AT&T Corp.
+2551,99.117.73.127,Texas,San Antonio,AT&T Corp.
+2552,99.88.62.179,Texas,San Antonio,AT&T Corp.
+2553,72.169.80.141,Texas,Devine,Hughes Network Systems LLC-ON
+2554,104.182.14.96,Texas,San Antonio,AT&T Corp.
+2555,45.16.112.177,Texas,San Antonio,AT&T Corp.
+2556,136.50.36.192,Texas,San Antonio,Google Fiber Inc.
+2557,71.42.230.162,Texas,San Antonio,Charter Communications Inc
+2558,173.239.232.43,Texas,Plano,North American Cable Television and Internet LLC
+2559,24.28.149.24,Texas,Leon Valley,Charter Communications Inc
+2560,172.124.70.146,Texas,San Antonio,AT&T Corp.
+2561,72.190.165.220,Texas,San Antonio,Charter Communications Inc
+2562,67.11.193.143,Texas,San Antonio,Charter Communications Inc
+2563,107.77.218.137,Texas,San Antonio,AT&T Mobility LLC
+2564,174.207.4.32,Texas,Austin,Verizon Wireless
+2565,66.25.154.64,Texas,New Braunfels,Charter Communications Inc
+2566,173.173.96.82,Texas,San Antonio,Charter Communications Inc
+2567,99.147.238.134,Texas,San Antonio,AT&T Corp.
+2568,174.207.15.228,Texas,Waco,Verizon Wireless
+2569,38.140.212.203,Texas,Austin,PSINet Inc.
+2570,173.239.232.156,Texas,Plano,North American Cable Television and Internet LLC
+2571,174.207.4.2,Texas,Austin,Verizon Wireless
+2572,66.25.171.31,Texas,San Antonio,Charter Communications Inc
+2573,72.169.80.108,Texas,Devine,Hughes Network Systems LLC-ON
+2574,107.77.217.156,Texas,Houston,AT&T Mobility LLC
+2575,24.243.3.85,Texas,San Antonio,Charter Communications Inc
+2576,107.77.217.110,Texas,Houston,AT&T Mobility LLC
+2577,162.211.71.82,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+2578,67.78.73.114,Texas,Universal City,Shertz Library
+2579,107.77.222.69,Texas,San Antonio,AT&T Mobility LLC
+2580,108.93.10.214,Texas,San Antonio,AT&T Corp.
+2581,70.123.210.135,Texas,San Antonio,Charter Communications Inc
+2582,108.105.62.187,Kansas,Overland Park,Sprint Communications Inc.
+2583,216.82.146.133,Texas,La Vernia,GVEC.net
+2584,24.227.244.110,Texas,San Antonio,Charter Communications Inc
+2585,67.11.124.64,Texas,San Antonio,Charter Communications Inc
+2586,148.66.37.82,Texas,San Antonio,Jump Fiber
+2587,96.8.130.92,Texas,San Antonio,Guadalupe Valley Telephone Cooperative Inc.
+2588,174.207.18.107,New Mexico,Carlsbad,Verizon Wireless
+2589,75.54.33.109,Texas,San Antonio,Alamo Community College District
+2590,107.77.222.219,Texas,San Antonio,AT&T Mobility LLC
+2591,67.79.62.147,Texas,San Antonio,Starbucks
+2592,70.121.178.207,Texas,San Antonio,Charter Communications Inc
+2593,162.198.96.75,Texas,San Antonio,AT&T Corp.
+2594,50.202.129.130,Washington,Vancouver,Comcast Cable Communications LLC
+2595,206.121.37.170,North Carolina,Huntersville,Safetrans
+2596,205.251.150.210,Texas,Spring,Network Transit Holdings LLC
+2597,174.207.34.2,Texas,Abilene,Verizon Wireless
+2598,172.58.107.182,Texas,Denison,T-Mobile USA Inc.
+2599,67.10.169.200,Texas,San Antonio,Charter Communications Inc
+2600,99.203.27.185,Texas,Houston,Sprint Communications Inc.
+2601,72.177.198.47,Texas,San Antonio,Charter Communications Inc
+2602,104.148.30.54,California,Los Angeles,Global Frag Networks
+2603,107.77.218.184,Texas,San Antonio,AT&T Mobility LLC
+2604,99.203.212.98,Texas,Houston,Sprint Communications Inc.
+2605,74.81.88.26,Texas,Spring,Network Transit Holdings LLC
+2606,72.190.168.222,Texas,San Antonio,Charter Communications Inc
+2607,72.169.80.153,Texas,Devine,Hughes Network Systems LLC-ON
+2608,205.251.148.74,Texas,Spring,Network Transit Holdings LLC
+2609,71.78.94.74,Texas,San Antonio,Charter Communications Inc
+2610,72.169.81.64,New Hampshire,Grafton,Hughes Network Systems LLC-ON
+2611,173.149.176.218,Texas,Houston,Sprint Communications Inc.
+2612,71.158.153.146,Texas,San Antonio,AT&T Corp.
+2613,107.77.218.226,Texas,San Antonio,AT&T Mobility LLC
+2614,174.207.15.221,Texas,Waco,Verizon Wireless
+2615,98.6.141.91,Texas,Plano,Starbucks
+2616,70.120.73.0,Texas,San Antonio,Charter Communications Inc
+2617,136.50.24.156,Texas,San Antonio,Google Fiber Inc.
+2618,205.251.148.186,Texas,Spring,Network Transit Holdings LLC
+2619,72.169.81.20,New Hampshire,Grafton,Hughes Network Systems LLC-ON
+2620,185.245.86.170,Florida,Miami,M247 Europe SRL
+2621,205.251.150.162,Texas,Spring,Network Transit Holdings LLC
+2622,184.226.92.76,Texas,Houston,Sprint Communications Inc.
+2623,70.121.194.226,Texas,San Antonio,Charter Communications Inc
+2624,72.169.81.79,New Hampshire,Grafton,Hughes Network Systems LLC-ON
+2625,205.251.150.218,Texas,Spring,Network Transit Holdings LLC
