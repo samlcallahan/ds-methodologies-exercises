@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-locs = 'ip_locations.csv'
+locations = 'ip_locations.csv'
 pd.options.display.max_rows = 1000 
 
 def access_type(url):
@@ -37,7 +37,7 @@ def get_log(locs=False):
     df['timestamp'] = df.date + ' ' +  df.time
     df.timestamp = pd.to_datetime(df.timestamp)
     if locs:
-        to_merge = pd.read_csv(locs, index_col=0)
+        to_merge = pd.read_csv(locations, index_col=0)
         df = df.merge(to_merge, how='left', on='ip')
     df = df.set_index('timestamp')
     df = df.drop(columns=['date', 'time'])
