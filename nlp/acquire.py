@@ -8,14 +8,12 @@ def get_article(url):
     response = get(url, headers=headers)
     pho = BeautifulSoup(response.content, 'html.parser')
 
-    title = pho.title.get_text()
-    body = pho.select('div.mk-single-content.clearfix')[0].get_text()
+    output = {}
+    output['title'] = pho.title.get_text()
+    output['body'] = pho.select('div.mk-single-content.clearfix')[0].get_text()
     
-    return {
-        "title": title,
-        "body": body
-    }
-
+    return output
+    
 def get_articles():
     urls = [
         "https://codeup.com/codeups-data-science-career-accelerator-is-here/",
