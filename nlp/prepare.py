@@ -30,11 +30,16 @@ def tokenize(string):
 
 def stem(text):
     stemmer = nltk.porter.PorterStemmer()
-    return
+    words = text.split()
+    stems = [stemmer.stem(word) for word in words]
+    stem_string = ' '.join(stems)
+    return stem_string
 
 def lemmatize(text):
-
-    return
+    lemmatizer = nltk.stem.WordNetLemmatizer()
+    lemmas = [lemmatizer.lemmatize(word) for word in text.split()]
+    lemma_string = ' '.join(lemmas)
+    return lemma_string
 
 def remove_stopwords(text, extra_words=[], exclude_words=[]):
     text = tokenize(text)
@@ -52,25 +57,19 @@ def remove_stopwords(text, extra_words=[], exclude_words=[]):
     text = " ".join(filtered)
     return text
 
-def prep_article(article_dict):
-    for key in article_dict:
-        something = 0
-        prepped = []
-    return prepped
-
-def prepare_article_data(article_list):
-    if type(article_list) is pd.DataFrame:
-        article_list = article_list.to_dict('records')
-    for article in article_list:
-        article = prep_article(article)
-    df = pd.DataFrame(article_list)
-    df.to_csv('prepped_articles.csv')
+def prepare_article_data(df):
+    df['original'] = df.content
+    df['cleaned'] = df.original.apply(basic_clean).apply(remove_stopwords)
+    df['stemmed'] = df.cleaned.apply(stem)
+    df['lemmatized'] = df.cleaned.apply(lemmatize)
+    df.drop(columns='content', inplace=True)
     return df
 
-def get_prepped(csv):
-    if os.path.exists('prepped' + csv):
+def get_prepped(csv, fresh=False):
+    if os.path.exists('prepped' + csv) and not fresh:
         df = pd.read_csv('prepped' + csv)
     else:
         df = pd.read_csv(csv)
         df = prepare_article_data(df)
+        df.to_csv('prepped' + csv)
     return df

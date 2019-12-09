@@ -54,12 +54,12 @@ def get_one_topic(url):
 
     output = []
 
-    spoonfuls = mulligatawny.select('.news-card')
-    for slurp in spoonfuls:
+    bowlful = mulligatawny.select('.news-card')
+    for spoonful in bowlful:
         article = {}
-        article['title'] = slurp.select('[itemprop="headline"]')[0].get_text()
-        article['content'] = slurp.select('[itemprop="articleBody"]')[0].get_text()
-        article['author']  = slurp.select('.author')[0].get_text()
+        article['title'] = spoonful.select('[itemprop="headline"]')[0].get_text()
+        article['content'] = spoonful.select('[itemprop="articleBody"]')[0].get_text()
+        article['author']  = spoonful.select('.author')[0].get_text()
         article['category'] = url.split('/')[-1]
         output.append(article)
     return output
