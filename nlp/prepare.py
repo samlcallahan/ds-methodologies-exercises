@@ -14,13 +14,23 @@ import acquire
 def normalize(string):
     return unicodedata.normalize('NFKD', string).encode('ascii', 'ignore').decode('utf-8', 'ignore')
 
-def replace_with_quote(string):
-    return re.sub(r'a-z0-9\s', "'", string)
-
 def basic_clean(string):
+    """
+    Lowercase the string
+    Normalize unicode characters
+    Replace anything that is not a letter, number, whitespace or a single quote.
+    """
     string = string.lower()
-    string = normalize(string)
-    string = replace_with_quote(string)
+    string = unicodedata.normalize('NFKD', string).encode('ascii', 'ignore').decode('utf-8', 'ignore')
+    
+    # remove anything not a space character, an apostrophe, letter, or number
+    string = re.sub(r"[^a-z\s]", '', string)
+
+    # drop weird words <=2 characters
+    # string = re.sub(r'\b[a-z]{,2}\b', '', string)
+
+    # convert newlines and tabs to a single space
+    string = re.sub(r'[\r|\n|\r\n]+', ' ', string)
     string = string.strip()
     return string
 
@@ -57,12 +67,12 @@ def remove_stopwords(text, extra_words=[], exclude_words=[]):
     text = " ".join(filtered)
     return text
 
-def prepare_article_data(df):
-    df['original'] = df.content
+def prepare_article_data(df, content='content'):
+    df['original'] = df[content]
     df['cleaned'] = df.original.apply(basic_clean).apply(remove_stopwords)
     df['stemmed'] = df.cleaned.apply(stem)
     df['lemmatized'] = df.cleaned.apply(lemmatize)
-    df.drop(columns='content', inplace=True)
+    df.drop(columns=content, inplace=True)
     return df
 
 def get_prepped(csv, fresh=False):

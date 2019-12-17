@@ -6,3 +6,5 @@ __pycache__
 mock_assessment.*
 checkbook_log.txt
 other_info.txt
+notes/
+spark-warehouse
